@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+assets/scripts/__pycache__
+./.DS_Store
+./assets/.DS_Store
+./assets/images/.DS_Store
+./pages/.DS_Store
+./pages/texts/.DS_Store
