@@ -90,7 +90,7 @@ they wouldn’t understand anything.
 
 <hr />
 
-Só-ìh ú, tǒ tsì-ǐor-mue’ ǔ phā’khek tio’. Zek-tsho’ hǎuser-kǎi keutō lǒ.
+Só-ìh ú, tǒ tsì-ǐor-mue’ ǔ phā’khek tio’. Tsek-tsho’ hǎuser-kǎi keutō lǒ.
 
 So6-in2 u6, do7 zi2-ion7-muêh4 u7 pah8kêg4 dioh4. Zêg4-coh4 hao7sên1-gai7 ge1do5 lo7.
 
@@ -260,7 +260,7 @@ There’s no way to make up for something like that.
 
 <hr />
 
-Zì-ú tsǔ tàr nàng tsìtsūng tsǔ tsì-ǔ tsìtsho’ láu-kǎi, i seu-tsu i-kǎi ǔe tshīang-lǐeu i-kǎi khior tsàu-khěu la.
+Tsì-ú tsǔ tàr nàng tsìtsūng tsǔ tsì-ǔ tsìtsho’ láu-kǎi, i seu-tsu i-kǎi ǔe tshīang-lǐeu i-kǎi khior tsàu-khěu la.
 
 Zi2-u6 zu7 dan2 nang2 zi2zung5 zu7 zi2u7 zi2coh4 lao6-gai7, i1 se1zu1 i1-gai7 uê7 ciang5-liêu3 i1-gai7 kion1 zau2-ke3 la1.
 
@@ -354,7 +354,7 @@ They don’t know this and say “ang5”, which is incorrect, so we have to cor
 
 <hr />
 
-Zítsǔ ang kìo tsik kǎi “tsiklǐang-nǒrlīang” lòlǎi tsìkǎi zǐ, nàng Dǐe-tsiu-ǔe…
+Tsítsǔ ang kìo tsik kǎi “tsiklǐang-nǒrlīang” lòlǎi tsìkǎi zǐ, nàng Dǐe-tsiu-ǔe…
 
 Zi6zu7 ang1 gio2 zig4 gai7 “zig4liang7-non7liang5” lo2lai7 zi2gai7 ri7, nang2 Diê7ziu1-uê7…
 
@@ -400,9 +400,9 @@ m7-pak tsǐu khoi’ i thak-tsò “īar”, i-kǎi zǐ tsǔ sǐ “īong” zǐ
 
 m7-bag4 ziu7 koih4 i1 tag4-zo2 “ian5”, i1-gai7 ri7 zu7 si7 “iong5” ri7, ma1. Cing7-iong7zêng7, ma7, ho1.
 
-唔捌 就 乞 伊 都作 iar，伊個 字 就是 iong 字，ma。秦贏政，ma，ho。
+唔捌 就 乞 伊 讀作 iar，伊個 字 就是 iong 字，ma。秦贏政，ma，ho。
 
-but it should be “iong” here: Tshing Iong-tseng, right?
+If they don’t recognize it, they read it as “iar”, but it should be “iong” here: Tshing Iong-tseng, right?
 
 <hr />
 
