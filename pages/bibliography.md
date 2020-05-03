@@ -65,7 +65,11 @@ Norman, Jerry. (2003). The Chinese dialects: phonology. In G. Thurgood and R. J.
 
 Phua Chay Leong 潘醒農. (1950). Mǎláiyǎ Cháoqiáo Tōngjiàn 《馬來亞潮僑通鑑》. Singapore: Nándǎo Chūbǎnshè 南島出版社.
 
+Phua Chay Leong 潘醒農. (1993). Cháoqiáo Sùyuán Jì 《潮僑溯源集》 (Anthology on the Roots of the Teochew Diaspora). River Edge, N.J.: Global Publishing Co.
+
 Veniranda, Yohana. (2015). *Perfective aspect and negation in Pontianak Teochew* (Doctoral dissertation). University of Delaware, Newark, Delaware. [University of Delaware](http://udspace.udel.edu/handle/19716/17687)
+
+Wū Qīuyù 巫秋玉. (2003). Míng-Qīng shíqī Cháoshàn gángkǒu fāzhǎn yǔ Cháorén xìa Nányáng 「明清時期 潮汕港口發展與潮人下南洋」 (Development of ports in the Chaoshan region and emigration of Chaozhou people to the Nanyang in the Ming and Qing eras), in: Lee Chee Hiang 李志賢 (ed.) *Hǎiwài Cháorén de yímín jīngyàn* 《海外潮人的移民經驗》 (Migration experience of overseas Teochews).
 
 Xu Hui Ling 許惠玲. (2007). *Aspect of Chaozhou grammar. A synchronic description of the Jieyang variety. Journal of Chinese Linguistics Monograph Series No. 22*. Hong Kong: Chinese University Press. [JSTOR](https://www.jstor.org/stable/23826160)
 
