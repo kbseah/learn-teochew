@@ -40,7 +40,7 @@ However, a conjunction would not be necessary here in Teochew, as the same meani
 Conjunctive (“and”)
 -------------------
 
-### ka’4 • gah4 • 甲/佮 • “and”, “with”
+### *ka’4* • *gah4* • 甲/佮 • “and”, “with”
 
 Nouns and noun phrases are joined with *ka’4*:
 
@@ -93,7 +93,7 @@ Nouns and noun phrases are joined with *ka’4*:
 Disjunctive (“or”)
 ------------------
 
-### a1si7 • a1si7 • 阿是 • “or”
+### *a1si7* • *a1si7* • 阿是 • “or”
 
 > Leu2 ai2 lim1 ko1pi5 **a1si7** te5?
 >
@@ -105,14 +105,14 @@ Disjunctive (“or”)
 >
 > Do you want to drink coffee or tea?
 
-### hok4 • hog4 • 或 • “or”
+### *hok4* • *hog4* • 或 • “or”
 
 Contrast and concession (“but”)
 -------------------------------
 
 Linking together two thoughts that contrast with each other, e.g. that oppose each other or which are unexpected and surprising.
 
-### sui1zieng5/tang7si6 • sui1riêng5/dang7si6 • 雖然/但是 • “although”/”but”
+### *sui1zieng5/tang7si6* • *sui1riêng5/dang7si6* • 雖然/但是 • “although”/”but”
 
 This can be used as a pair to form paired clauses:
 
@@ -134,7 +134,7 @@ Can also be used independently:
 
 > CLAUSE1, tang7si6 CLAUSE2
 
-### puk8kue7 • bug8guê7 • 不過 • “but”, “nonetheless”
+### *puk8kue7* • *bug8guê7* • 不過 • “but”, “nonetheless”
 
 Used similarly to *tang7si6* above.
 
@@ -148,7 +148,7 @@ Used similarly to *tang7si6* above.
 >
 > He wants to return to Hong Kong, but can’t find a job there.
 
-### ting1to3 • ding1do3 • 顛倒 • “on the contrary”
+### *ting1to3* • *ding1do3* • 顛倒 • “on the contrary”
 
 > I1 bo7 sie1hu6, **ting1to2** khoi’4 nang2 zu6 tsoi7 mua7hueng5.
 >
@@ -160,7 +160,7 @@ Used similarly to *tang7si6* above.
 >
 > He was of no help, but on the contrary gave us yet more trouble.
 
-### li6 • li6 • 哩 • “on one hand... on the other...”
+### *li6* • *li6* • 哩 • “on one hand... on the other...”
 
 To contrast two alternative scenarios.
 
@@ -179,7 +179,7 @@ To contrast two alternative scenarios.
 Cause and effect (“because”, “thus”)
 ------------------------------------
 
-### ing1ui5/so6ih2 • ing1ui5/so6in2 • 因為/所以 • “because”/“therefore”
+### *ing1ui5/so6ih2* • *ing1ui5/so6in2* • 因為/所以 • “because”/“therefore”
 
 This is another set of paired conjunctions.
 
@@ -233,7 +233,7 @@ EFFECT, **ing1ui5** CAUSE
 >
 > I can put my feet up, because I’m not working today.
 
-### tsiu6 • ziu6 • 就 • “therefore”, “then”
+### *tsiu6* • *ziu6* • 就 • “therefore”, “then”
 
 CAUSE, tsiu6 EFFECT
 
@@ -261,7 +261,13 @@ The preposition *ui7liau3* 為了 “so that” can also express intention:
 >
 > For his children’s sake, he planted this tree.
 
-### liau2 • liao2 • 了 • “so”, “and then”
+### *tsiar3* • *zian3* • 正 • “only then”, “thereafter” (adverb)
+
+The Hokkien cognate is written 才, borrowing the character for an equivalent word in Mandarin. This is not strictly speaking a conjunction or preposition but is an adverb.
+
+
+
+### *liau2* • *liao2* • 了 • “so”, “and then”
 
 Similar to English “So, …” or “After that, ….” In the following example, the first *liau2* is like English “and then”, whereas the second *liau2* is a perfective aspect marker modifying the verb *huak8tshuk4* (see [“Aspect”](pages/aspect.md)).
 
@@ -278,7 +284,7 @@ Similar to English “So, …” or “After that, ….” In the following exam
 > [*Speech by Low Thia Khiang*](texts/low_thia_khiang.md)
 
 
-### zu2 • ru2 • 愈 • “the more that X, the more Y”
+### *zu2* • *ru2* • 愈 • “the more that X, the more Y”
 
 When increasing or intensifying something causes something else to increase too. The word **zu2** 愈 is also used in comparisons, typically in the word *zu6keng2* 愈更 (see [“Comparisons, Quantities, and Degrees”](pages/comparisons.md)).
 
@@ -297,7 +303,7 @@ When increasing or intensifying something causes something else to increase too.
 Conditionals and conjecture (“if”, “maybe”)
 -------------------------------------------
 
-### na7si6 • na7si6 • 哪是 – “if”
+### *na7si6* • *na7si6* • 哪是 – “if”
 
 Also written as 若是, using the character 若, which means “if” in Mandarin and literary Chinese, for its semantic value. Also pronounced *a1si7* 阿是.
 
@@ -341,7 +347,7 @@ Often compounded in the set phrase *na7si7tsie2ser1* 哪是照生 “if so”:
 >
 > If that’s the case, I’m not buying!
 
-### teu7hui1 • de7hui1 • 除非 • “unless”
+### *teu7hui1* • *de7hui1* • 除非 • “unless”
 
 Similar to *na7si7*, but with the converse meaning.
 
@@ -357,7 +363,7 @@ Similar to *na7si7*, but with the converse meaning.
 >
 > Unless he returns me the money, I won’t help him.
 
-### tsek8/tsiu6 • zêg8/ziu6 • 一/就 • “when / then”
+### *tsek8/tsiu6* • *zêg8/ziu6* • 一/就 • “when / then”
 
 This construction has the meaning “the moment X occurs, then Y”. This event or occurrence X that triggers Y can be in the past or future, or recurring.
 
@@ -383,7 +389,7 @@ This construction has the meaning “the moment X occurs, then Y”. This event 
 >
 > The moment that the rat runs out, we should quickly grab it!
 
-### an2ne1 • an2nê1 • 按呢 • “in that case”
+### *an2ne1* • *an2nê1* • 按呢 • “in that case”
 
 > Leu2 ai2 tsiak4 ou7ni5, **an2ne1** tie’4 ka1ki7 o’4 tso2ni7 tso3.
 >
@@ -409,23 +415,12 @@ This construction has the meaning “the moment X occurs, then Y”. This event 
 
 *m6li1* 唔哩 is another conjunction that also means “in that case”.
 
-### tsiu6 • ziu6 • 就 • “thereafter”
-
+<!--
 ko’4 閣 - “again”, “still” (adv, adj)
 
 huar 還 - “still” (adv?)
+-->
 
-tsiar3 正 “then”, “thereafter” - ADV
-
-The Hokkien cognate is written 才, borrowing the character for an equivalent word in Mandarin.
-
-This can be used as part of a conditional sentence, e.g. when combined with a modal verb (see also [“Modality”](pages/auxiliary_verbs.md)):
-
-XXX
-
-Or to indicate a sequence in time:
-
-XXX
 
 References and further reading
 ------------------------------

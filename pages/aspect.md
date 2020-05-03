@@ -328,7 +328,35 @@ In Mandarin, the equivalent is *kàn* 看 “see”, but the verb must be redupl
 
 ### Inchoative
 
+Actions or events that are just starting up. The marker *khi2lai5* 起來 is cognate to Mandarin *qǐlái* and is used in the same way.
+
+> Kau2 kie2-***khi2lai7*** ua2 tsiu7 kiar1.
+>
+> Gao2 giê2-***ki2lai7*** ua2 ziu7 gian1.
+>
+> 狗 叫 ***起來*** 我 就 驚。
+>
+> Dog call-***INCH*** I then afraid.
+>
+> When dogs start to bark, I become afraid.
+
 ### Continuative
+
+Actions that are continuing, expressed in English with the word “still”, e.g. “He is still making a fuss.”
+
+Teocehw uses the aspect marker *lo’4kheu3* 落去. The Mandarin equivalent is *xiàqu* 下去
+
+> Leu2 tsai6 thak8 ***lo’4kheu3***.
+>
+> Le2 zai6 tag8 ***loh4ke3***.
+>
+> 汝 再 讀 ***落去***。
+>
+> You again read-***CONT***.
+>
+> Keep on reading.
+>
+> (from Li 1959, pg. 255)
 
 Time-related adverbs
 --------------------
@@ -392,17 +420,15 @@ See also [“Coordination”](pages/coordination.md).
 Time-related auxiliary verbs
 ----------------------------------
 
-Some [auxiliary verbs](auxiliary_verbs.md) also have meanings related to time. 
+Some [auxiliary verbs](auxiliary_verbs.md) also have meanings related to time.
 
-> *u6* • *u6* • 有 •
+> *u6* • *u6* • 有 • “have” (affirmative aspect): events in the past
 
-> *bue7* • *bhuê7* • 未
+> *bue7* • *bhuê7* • 未 • “not yet”: in the future
 
-> *ai3* • *ai3* • 愛
+> *ai3* • *ai3* • 愛 • “want to”: in the future
 
-> *oi6* • *oi6* • 會
-
-> *boi6* • *bhoi6* • 袂
+> *oi6* • *oi6* • 會 • “able to, intend to”: in the future
 
 
 References and further reading
