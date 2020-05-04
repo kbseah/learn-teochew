@@ -53,9 +53,9 @@ page on [pronunciation](pages/pronunciation.md).
    * [Pronunciation](pages/pronunciation.md) - How to pronounce Teochew words, and
      how to read the phonetic spellings used in this guide
    * [Numbers and counting](pages/numbers.md) - Numbers, dates, time, money
-   * [Personal pronouns](pages/personal_pronouns.md)
-   * [Demosntrative pronouns](pages/demonstrative_pronouns.md)
-   * [Terms of address](pages/address.md)
+   * [Personal pronouns](pages/personal_pronouns.md) – You and I (and many more)
+   * [Demonstrative pronouns](pages/demonstrative_pronouns.md) – This and That
+   * [Terms of address](pages/address.md) – Titles, what to call relatives, common surnames
    * [Classifiers and kai5 個](pages/classifiers.md)
    * [Questions](pages/questions.md)
    * [Comparisons, degrees, and quantity](pages/comparisons.md)
@@ -64,8 +64,7 @@ page on [pronunciation](pages/pronunciation.md).
    * [Auxiliary verbs](pages/auxiliary_verbs.md) - Verbs that “help” other verbs
    * [Negatives](pages/negatives.md) - Different ways to say “no”
    * [Verbal complements](pages/verbal_complements.md)
-   * [Aspect and time expressions](pages/aspect.md) - How to talk about time in a
-     language that doesn’t have tenses
+   * [Aspect and time expressions](pages/aspect.md) - How to talk about time
    * [Passives](pages/passives.md)
    * [Particles](pages/particles.md) - Small words that mean a lot
    * [Loan words](pages/overseas.md) - Loan words and vocabulary unique to
