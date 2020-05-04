@@ -8,11 +8,8 @@ Introduction
 ============
 {: .no_toc}
 
-The Teochew language (潮州話, Teochew[^1]: Tie7tsiu1-ue7, Mandarin: Cháozhōu huà) is a language that belongs to the Min 閩 group of Chinese (Sinitic) languages, more specifically to the Southern Min 閩南 subgroup. The Chinese language family is large and diverse, and although its members are commonly called “dialects”, they are often not mutually intelligible. Therefore it is appropriate to call them “languages” in their own right, or “topolects” (a term that was coined from Chinese 方言, T: huang1ngang5, M: fāngyán).
+The Teochew language (潮州話, Teochew[^1]: Tie7tsiu1-ue7, Mandarin: Cháozhōu huà) is a language that belongs to the Min 閩 group of Chinese (Sinitic) languages, more specifically to the Southern Min 閩南 (T: Mang7lam5, M: Mǐnnán) subgroup. It is spoken in the Teochew 潮州 (T: Tie7tsiu1, M: Cháozhōu) region, also known as Teo-Swa 潮汕 (T: Tie7suar1, M: Cháoshàn), in the Eastern part of Guangdong Province, China, as well as in ethnic Chinese communities around the world, particularly in Southeast Asia. The Sinitic language family is large and diverse, and although its members are commonly called “dialects”, they are often not mutually intelligible. Therefore it is appropriate to call them “languages” in their own right, or “topolects” (a term that was coined from Chinese 方言, T: huang1ngang5, M: fāngyán).
 
-The other members of the Southern Min group are Hokkien (福建話, Hokkien: Hok-kiàn-ōe, M: Fújiàn huà), which is spoken in Fujian Province and Taiwan, and Hainanese (海南話, Hainanese: Hái-nâm-oe, M: Hǎinán huà), which is spoken on Hainan Island and the adjacent Leizhou Peninsula that is part of Guangdong Province. Each of these is composed of many more local dialects, which are mutually intelligible within but not (or only to a limited extent) across these languages.
-
-The center of Teochew is within the eastern part of Guangdong Province, bordering Fujian. It is a minority language in Guangdong as a whole, where Cantonese (Yue) and Hakka have more speakers. The variety of Teochew spoken in Teochew City was previously considered the standard variety, as it was for a long time the administrative center of the region. However, the port city of Swatow (汕頭, T: Sua1thau5, M: Shàntóu) eventually eclipsed Teochew City in size and importance during the 19th century, and so the region and language is today also known as Teo-Swa (潮汕, M: Cháoshàn).
 
 Contents
 --------
@@ -21,39 +18,23 @@ Contents
 1. TOC
 {:toc}
 
-Characteristics of the Min languages
-------------------------------------
-
-Min languages constitute a distinct branch among Chinese languages. Technically:
-
-> “It is generally recognized that the Min dialects, spoken by over 5 per cent of all Chinese, lie outside the mainstream of Chinese linguistic development. The defining characteristic of Min is the presence of lower register tones of both aspirated and unaspirated correspondences to the old voiced stops and affricates of Common Chinese.”
-> (Norman 2003)
-
-But this is quite technical. Easier to recognize are words that are found only in Min but not in other Chinese languages. Some of these are hypothesized to come from a non-Han substratum language.
-
-In general, Min languages also have more words for negation than other Chinese languages. Their tonal system is more complex than northern languages like Mandarin, and they have a higher proportion of monosyllabic words.
-
-Southern Min vs Northern Min
-
-Unique features of Teochew language
------------------------------------
-
-Teochew can be understood to some extent by speakers of other Southern Min languages, especially Hokkien, to which it is the most closely related. However, there are several features that set it apart. In terms of pronunciation, Teochew retains the low-rising 陽上 tone (traditionally numbered 6, see [“Pronunciation and orthography”](pages/pronunciation.md)), which has been lost in most other Southern Min languages. Teochew lacks syllables that end in the -n and -t consonants, e.g. Hokkien *huat* 發 vs. Teochew *huak4*.
-
-In terms of vocabulary, Teochew has several unique words, such as *tar3* 呾 “speak”, and the many words for “sleep”: *uk8* (Teochew), *ng’8* (Swatow, Thenghai), *ih6* (Jieyang), *ih’8* (Swatow, Chaoyang) 夗. The usage of many words is also different between Teochew and Hokkien: *thak4tseu1* 讀書 vs. *thak4tshe’4* 讀冊 “read/study” respectively.
 
 Geography and history of Teochew prefecture
 ----------------------------------------------
 
-The Teochew prefecture is part of
+The Teochew (Chaozhou) region is located on the Eastern boundary of Guǎngdōng 廣東 (T: Keung6tang1) province. It is bordered by Fújiàn 福建 (T: Hok8kieng3) province to the East and the South China Sea to the South. Further up North along the coastline is the port city of Xiàmén (廈門, T: E7mung5, also known as Amoy) in Fujian, and further down South along the coastline are the port cities of Hong Kong, Macau, and Guangzhou (廣州, T:Keung6tsiu1, also known as Canton) on the Pearl River Delta.
+
+The terrain of the Chaozhou region comprises coastal plains fed by numerous rivers and tributaries, bordered by mountainous areas further inland. The largest rivers are the Róngjiāng 榕江 (T: Iong7kang1), which runs through Shantou port city, and the Hánjiāng 韓江 (T: Hang7kang1), which runs through Chaozhou City. The island of Nán'ào 南澳 (T: Lam7o3) is part of the region, and has been connected to the mainland by a bridge since 2015.
 
 <!--
 ![Map of Teochew counties in 1911](/assets/images/teochew_map_en.png)
 -->
-Map of counties in Teochew Prefecture in 1911[^2]
+### Map of counties in Teochew Prefecture in 1911
 ![Map of Teochew counties in 1911, Chinese labels](/assets/images/teochew_map_zh.png)
 
-Counties of Teochew Prefecture in 1911
+This map is based on the [China Historial GIS (CHGS) project](https://sites.fas.harvard.edu/~chgis/data/chgis/) dataset, version 6, and was rendered with [QGIS](https://qgis.org/en/site/) v3.8.1.
+
+### Counties of Teochew Prefecture in 1911
 
 Characters | Mandarin (Pinyin) | Teochew (Peng'im) | Teochew (FIPA)
 -----------|-------------------|------------------ | --------------
@@ -69,13 +50,72 @@ Characters | Mandarin (Pinyin) | Teochew (Peng'im) | Teochew (FIPA)
 
 \* Also known as Tio7ang1 潮安
 
+The name Teochew 潮州 (Chaozhou, “Chao prefecture”) made its first appearance during the Sui dynasty in 591. It is said to reflect the ebb and flow of the tides (潮) at the extensive coastline. Prior to that, the region was known under several different names. In the Qin dynasty, it was part of the Nanhai commandery 南海群 (T: Lam7hai6-khung5), that covered modern day Guangdong and Guangxi. After the fall of the Qin in 206 BCE, the region came under the control of the Nanyue Kingdom 南越王國 (T: Lam7uek4-uang7kok4), an ethnic Yue kingdom that also included modern-day Yunnan and parts of northern Vietnam. The county of Jieyang 揭陽 (T: Kek8ioh5) encompassed modern-day Chaozhou. During the Eastern Jìn dynasty 東晉, the region was renamed Yì’ān commandery 義安群 (T: Ngi7ang1-khung5) in 413 CE. There were a further number of name changes over the years. The prefectural seat was named Chaozhou Fu 潮州府 (T: Tie7tsiu1-hu2) during the Ming dynasty in 1369, and the Qing dynasty succeeding it retained that name. In 1738, a number of new counties were created under this prefecture, resulting in a total of nine (see map and table). This administrative structure persisted until the Republican period at the beginning of the 20th century.
 
+The Teochew/Chaozhou region is also known today as Teo-Swa (Chaoshan), from the names of its two largest cities: Teochew/Chaozhou City and Shantou/Swatow City. The former is the historical administrative center, whereas the latter is the modern day economic center. Today, the former Teochew prefecture has been broken up into three city-level administrative regions of Chaozhou, Shantou, and Jieyang, as well as two counties Fengshun and Dapu, which are not as density settled.
 
 Teochew culture
 ---------------
 
+Teochew culture is closely tied to the Teochew language, and the coastal environment that it has developed in.
+
+
+
+Teochew language closely tied to Teochew opera, music.
+
+Songbooks, nursery rhymes
+
+Mazu culture
+
+Cuisine is shaped by location on the coast. Use of seafood. Gongfu tea.
+
+
 Emigration and the Teochew diaspora
 -----------------------------------
+
+Long history of emigration and trade from Teochew to Southeast Asia.
+
+Increased after opening of treaty ports. First wave of emigration from Zhanglin, second wave of emigration from Swatow.
+
+Significant populations of Teochew people in Thailand, Malaysia, Singapore, Hong Kong.
+
+
+Characteristics of the Min languages
+------------------------------------
+
+Min languages such as Teochew are a distinctive and divergent branch of the Chinese languages. Its center of origin is today’s Fujian province on the Southern coast of China. In terms of their sounds (phonology), what Min languages have in common is a systematic pattern of sound distinctions in certain tone categories, where other Chinese languages do not make such a distinction:
+
+> “It is generally recognized that the Min dialects, spoken by over 5 per cent of all Chinese, lie outside the mainstream of Chinese linguistic development. The defining characteristic of Min is the presence of lower register tones of both aspirated and unaspirated correspondences to the old voiced stops and affricates of Common Chinese.”
+> (Norman 2003)
+
+This is a somewhat technical point that is based upon the comparison of pronunciation across Chinese languages and reconstruction of the hypothetical ancient pronunciation. Other unusual characteristics of Min are not strictly unique to it, but in combination make it special. Min languages preserve the final -p, -t, -k sounds (stops) that were present in ancient Chinese but which have been lost in many modern Chinese languages. Compared to northern languages like Mandarin, Min languages have a more complex tonal system (usually 7 tones), a higher proportion of monosyllabic words, and more numerous words for negation (e.g. about ten in Teochew vs. only three in Mandarin).
+
+The original inhabitants of the Min region did not speak Sinitic languages. Chinese historians referred to them as the Yue or Min-Yue people, and they probably spoke an Austroasiatic language. Ethnic Han Chinese began to colonize the region during the Han dynasty, bringing their language with them. This Han-era Chinese was the basis for Min Chinese. Later immigration from the North, as well as the posting of government officials speaking the court language, also contributed to the evolution of Min. Some words in Min languages are hypothesized to be survivals from the ancient Yue language, some of which are common everyday words (examples from Norman, 1991).
+
+> tam5 • “wet”
+
+> kiar2 • “child”
+
+> pak8 • “to know”
+
+The Min language group is itself further divided into Northern and Southern Min. Northern Min is spoken in the Northern part of Fujian, while Southern Min has a wider geographical spread. Apart from Teochew, the other members of the Southern Min group are Hokkien (福建話, Hokkien: Hok-kiàn-ōe, M: Fújiàn huà), which is spoken in Fujian Province and Taiwan, and Hainanese (海南話, Hainanese: Hái-nâm-oe, M: Hǎinán huà), which is spoken on Hainan Island and the adjacent Leizhou Peninsula that is part of Guangdong Province. Each of these is composed of many more local dialects, which are mutually intelligible within but not (or only to a limited extent) across these languages.
+
+Unique features of Teochew language
+-----------------------------------
+
+Teochew can be understood to some extent by speakers of other Southern Min languages, especially Hokkien, to which it is the most closely related. However, there are several features that set it apart. In terms of pronunciation, Teochew retains the low-rising 陽上 tone (traditionally numbered 6, see [“Pronunciation and orthography”](pages/pronunciation.md)), which has been lost in most other Southern Min languages. Teochew lacks syllables that end in the -n and -t consonants, e.g. Hokkien *huat* 發 vs. Teochew *huak4*.
+
+Some high-frequency words are different between Teochew and Hokkien, for example:
+
+| Teochew  |           |           | Hokkien     |           | Meaning |
+| (FIPA)   | (Peng'im) | Character | (Peh-oi-ji) | Character |         |
+| ---------|-----------|-----------|-------------|-----------|---------|
+| uk8      | ug8       | 夗        | khùn        | 睏        | to sleep |
+| thoih2   | toin2     | 睇        | khòaⁿ       | 看        | to see   |
+| tar3     | dan3      | 呾        | kóng        | 講        | to say   |
+| a1ai5    | a1ai5     | 阿嬡      | lāu-bú      | 老母       | mother (third person) |
+
+The word “to sleep” is also pronounced differently between different regions of Chaozhou: *uk8* (Teochew), *ng’8* (Swatow, Thenghai), *ih6* (Jieyang), *ih’8* (Swatow, Chaoyang) 夗. The usage of some words is also different between Teochew and Hokkien: *thak4tseu1* 讀書 vs. *thak4tshe’4* 讀冊 “read/study” respectively.
 
 Future of the Teochew language
 ------------------------------
@@ -101,8 +141,10 @@ References and further reading
  * [Ethnologue: Chinese, Min Nan](https://www.ethnologue.com/language/nan)
  * [Glottolog: Min Nan Chinese](https://glottolog.org/resource/languoid/id/minn1241)
 
+On Teochew/Chaozhou history, geography and emigration:
+ * Wu 2003
+ * Phua 1993
+
 <hr />
 
 [^1]: The romanization schemes used here are explained in “Pronunciation and Orthography”.
-
-[^2]: The map of Teochew counties is based on the [China Historial GIS (CHGS) project](https://sites.fas.harvard.edu/~chgis/data/chgis/) dataset, version 6, and was rendered with [QGIS](https://qgis.org/en/site/) v3.8.1.
