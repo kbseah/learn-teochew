@@ -53,7 +53,7 @@ This study guide should be used in conjunction with other resources and learning
 
 ### Teochew language lessons
 
-The best way to learn a language is by direct personal contact with an experienced language teacher. In Singapore, Chinese dialect lessons are sometimes offered at community centers or clan associations. The Teochew Poit Ip Huay Kuan offers Teochew lessons on a regular basis. Upcoming lessons are advertised on its [website (in Mandarin)](http://teochew.sg/).
+The best way to learn a language is by direct personal contact with an experienced language teacher. In Singapore, Chinese dialect lessons are sometimes offered at community centers or clan associations, or by private individuals and [companies](https://learndialect.sg). The Teochew Poit Ip Huay Kuan offers Teochew lessons on a regular basis. Upcoming lessons are advertised on its [website (in Mandarin)](http://teochew.sg/).
 
 ### Teochew language textbooks
 
@@ -65,7 +65,7 @@ Language textbooks can be used for self-study, but require some prior knowledge 
 
 ### Teochew language multimedia
 
-The [Teochew Store](https://www.theteochewstore.org/) is an online shop selling books on Teochew language and culture, which also has a regularly-updated blog, resources for free download, and many useful links.
+The [Teochew Store](https://www.theteochewstore.org/) is an online shop selling books and media on Teochew language and culture, which also has a regularly-updated blog, resources for free download, and many useful links.
 
 Videos and audio recordings are also important for hearing the sounds of the language. There are several YouTube tutorials on Teochew language, of varying levels of difficulty. Films, TV shows, and video clips show how the language is used in a more natural, colloquial setting.
 
