@@ -7,3 +7,4 @@ assets/scripts/__pycache__
 ./assets/images/.DS_Store
 ./pages/.DS_Store
 ./pages/texts/.DS_Store
+Gemfile.lock
