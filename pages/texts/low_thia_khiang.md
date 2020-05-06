@@ -194,7 +194,7 @@ So6-in2, ua2 giang1 gim1-mê5 bug8dêg8 bug8-gai5sêg3.
 
 Therefore, I can’t avoid giving an explanation tonight.
 
-> *puk8* 不 – “no”, more prevalent in prepared speeches or when reciting a written text, in colloquial speech the “native” Teochew negatives dominate (see [“Negatives”](pages/negatives.md)).
+> *puk8* 不 – “no”, more prevalent in prepared speeches or when reciting a written text, in colloquial speech the “native” Teochew negatives dominate (see [“Negatives”](../negatives.md)).
 
 <hr />
 

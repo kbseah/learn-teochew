@@ -41,7 +41,7 @@ Classifiers are used when counting. The classifier follows the number but comes 
 >
 > Ah Seng has three brothers.
 
-Classifiers are used together with demonstratives (see [“Demonstrative pronouns”](pages/demonstrative_pronouns.md)) when referring to specific objects (“this”, “that”, “each”, “every”).
+Classifiers are used together with demonstratives (see [“Demonstrative pronouns”](demonstrative_pronouns.md)) when referring to specific objects (“this”, “that”, “each”, “every”).
 
 > Heu2-***tiou7*** lou7 tsing1 teung5.
 >
@@ -53,7 +53,7 @@ Classifiers are used together with demonstratives (see [“Demonstrative pronoun
 >
 > That road is very long.
 
-Classifiers are used in questions (see [“Questions”](pages/questions.md)) when asking about specific objects (“which”, “how many”).
+Classifiers are used in questions (see [“Questions”](questions.md)) when asking about specific objects (“which”, “how many”).
 
 > Ap8-toih2 u7 kui6-***liap4*** neung6?
 >
@@ -285,7 +285,7 @@ The word *kai5* 個 has many functions in Teochew. Aside from being the most com
 
 Adding *kai5* to a noun or pronoun makes the genitive (also known as possessive) form. Other classifiers can also be used, however see the notes above under “Differences from Mandarin classifiers”.
 
-See also the section “Possessive pronouns” under [“Personal pronouns”](/pages/personal_pronouns.md).
+See also the section “Possessive pronouns” under [“Personal pronouns”](personal_pronouns.md).
 
 > Ua2-***kai7*** mue’4kiar6
 >

@@ -82,7 +82,7 @@ This is the main word for “woman” in Hokkien, whereas in mainland Teochew it
 
 ### *tam7po’8* • *dam7boh8* • 淡薄 • “a little bit”
 
-The Teochew equivalent is *ti’8kiar2* 滴仔. See [“Comparisons, degrees, and quantity”](pages/comparisons.md).
+The Teochew equivalent is *ti’8kiar2* 滴仔. See [“Comparisons, degrees, and quantity”](comparisons.md).
 
 ### *boi7sai2* • *bhoi7sai2* • 袂使 • “may not, cannot”
 

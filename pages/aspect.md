@@ -33,7 +33,7 @@ In English, what is usually taught in school as “tenses” are actually combin
 >
 > (The speaker is relating events from the past. The cake was already baked at that point in time, and was relevant then, but is not relevant to the present.)
 
-In Chinese, the verbs themselves do not change in form, like “bake/baked” in the example above. To indicate time and aspect, additional words are added before or after the verb. These can be adverbs, verb complements (see [“Verbal complements”](pages/verbal_complements.md)), auxiliary verbs, and a special class of words called aspect markers.
+In Chinese, the verbs themselves do not change in form, like “bake/baked” in the example above. To indicate time and aspect, additional words are added before or after the verb. These can be adverbs, verb complements (see [“Verbal complements”](verbal_complements.md)), auxiliary verbs, and a special class of words called aspect markers.
 
 ### Comparison of aspect markers
 
@@ -73,7 +73,7 @@ The affirmative aspect is used to affirm that an event or action has already bee
 
 The habitual aspect is used to mean that a particular action or event is performed habitually.
 
-These two aspects are indicated with *u6* 有, which is explained under [“Auxiliary verbs”](pages/auxiliary_verbs.md).
+These two aspects are indicated with *u6* 有, which is explained under [“Auxiliary verbs”](auxiliary_verbs.md).
 
 ### Perfective aspect
 
@@ -414,7 +414,7 @@ thang7kua3 唐～
 
 > *e7-pai2* • *ê7bai2* • 下擺 • “next time”
 
-See also [“Coordination”](pages/coordination.md).
+See also [“Coordination”](coordination.md).
 
 
 Time-related auxiliary verbs

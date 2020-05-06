@@ -83,11 +83,11 @@ Sources
 
 This guide relies heavily on previous works on the Teochew language, especially the pioneering studies by Li (1959) and Xu (2007). Lim (1886), while dated, is also valuable and unique for documenting Teochew as spoken in Singapore in the 19th century. The choice of example phrases is also unintentionally amusing, as they reflect the author’s occupation as a criminal court interpreter. Other sources on Teochew grammar consulted were dissertations by Veniranda (2015) and Yeo (2011). Grammars of other Chinese languages were also useful, especially Chappell’s (2017) outline grammar of Southern Min, mostly based on Taiwanese Hokkien, and Matthews and Yip’s (2011) grammar of Cantonese, and these served as models for organizing this text. For topics that were not well-covered by published works, I have relied on my own judgement, but have quoted authentic usage examples as much as possible.
 
-Example sentences in the guide were made up by me unless a source has been cited. Some of the sources cited have also been transcribed in the [Texts](pages/texts.md) section.
+Example sentences in the guide were made up by me unless a source has been cited. Some of the sources cited have also been transcribed in the [Texts](texts.md) section.
 
 Online dictionaries consulted were: mogher.com, Wiktionary, the Taiwan Ministry of Education’s dictionary of Taiwanese Southern Min《臺灣閩南語常用詞辭典》via moedict.tw, and the ctext.org dictionary for character lookup. As my own knowledge of the language is incomplete, the examples given may not always be idiomatic or elegant, and I would be grateful for any corrections or suggestions for improvement.
 
 Acknowledgements
 ----------------
 
-I wish to thank Mr Simon Wong for permission to reproduce his Teochew version of the [Lord’s Prayer](pages/texts/lords_prayer.md), Mr Low Thia Khiang for permission to publish a transcript of his speech, and the National Archives of Singapore for permission to publish an excerpt from the Oral History Centre’s [interview with Chua Hong Kee](pages/texts/chua_hong_kee.md).
+I wish to thank Mr Simon Wong for permission to reproduce his Teochew version of the [Lord’s Prayer](texts/lords_prayer.md), Mr Low Thia Khiang for permission to publish a transcript of his speech, and the National Archives of Singapore for permission to publish an excerpt from the Oral History Centre’s [interview with Chua Hong Kee](texts/chua_hong_kee.md).

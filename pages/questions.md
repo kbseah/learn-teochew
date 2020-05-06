@@ -164,7 +164,7 @@ Other derivatives of *mi’4* 乜:
 >
 > What are you all up to tomorrow?
 
-*mi’4* can also be used as an adverb to mean “a little bit” (see [“Comparisons”](pages/comparisons.md)).
+*mi’4* can also be used as an adverb to mean “a little bit” (see [“Comparisons”](comparisons.md)).
 
 ### “Which” – *ti7tsek4kai5*•*di7zêg4gai5*•哋一個; compounds of *ti7*•*di7*•哋
 
@@ -414,7 +414,7 @@ The A-NOT-A pattern is more common in short questions, e.g.
 >
 > “No”: M7sek4 – 唔識
 
-Words which take specific negative forms use those forms instead of the pattern A + *m7* 唔 + A (see [“Negatives”](pages/negatives.md)):
+Words which take specific negative forms use those forms instead of the pattern A + *m7* 唔 + A (see [“Negatives”](negatives.md)):
 
 > Leu2 **ai7mai7**?
 >
@@ -447,7 +447,7 @@ The pair *ho2mo2* 好孬 “should-shouldn’t” can be used at the end of a se
 Yes-no questions – Clause-negative pattern
 ------------------------------------------
 
-Another way to form a yes-no question is to add a negative (see [“Negatives”](pages/negatives.md)) to the end of the clause.
+Another way to form a yes-no question is to add a negative (see [“Negatives”](negatives.md)) to the end of the clause.
 
 Compare “or not” in Singaporean English: “He got wear trousers or not?”.
 
@@ -536,7 +536,7 @@ Yes/no questions – Interrogative particles
 
 The more common way to phrase yes-no questions in Teochew is by adding an interrogative particle or negative at the end of the sentence or clause. Mandarin also has particles of this sort, e.g. *mā* 嗎. The different particles convey different shades of meaning.
 
-See [“Particles”](pages/particles.md) for the use of particles in general.
+See [“Particles”](particles.md) for the use of particles in general.
 
 ### Particle *me7*•*mê7*•\[口+乜\] – Yes/no
 

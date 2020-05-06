@@ -259,7 +259,7 @@ Apart from functioning as a resultative complement (see above), it can serve a n
 
 ### Modal verb - “should” (obligation)
 
-*Tie’8* can function as a modal verb meaning “should”, expressing obligation. See [“Modality”](pages/auxiliary_verbs.md)
+*Tie’8* can function as a modal verb meaning “should”, expressing obligation. See [“Modality”](auxiliary_verbs.md)
 
 ### Adjective - “correct” (confirmation)
 

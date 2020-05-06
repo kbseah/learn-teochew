@@ -197,7 +197,7 @@ The Speak Mandarin Campaign, launched in 1979 by the Singapore government, promo
 
 ### Surnames with alternative pronunciations (又讀)
 
-Several Chinese characters have different pronunciations depending on the meaning and context. For example, 車 is pronounced *jū* in Mandarin when it means “chariot” in classical texts, but is pronounced *chē* for other uses, and in modern Mandarin. (See also “Literary vs. vernacular pronunciations” under [“Pronunciation”](pages/pronunciation.md).)
+Several Chinese characters have different pronunciations depending on the meaning and context. For example, 車 is pronounced *jū* in Mandarin when it means “chariot” in classical texts, but is pronounced *chē* for other uses, and in modern Mandarin. (See also “Literary vs. vernacular pronunciations” under [“Pronunciation”](pronunciation.md).)
 
 This applies to several surnames, which are pronounced one way when part of someone’s name, but in another way when part of a ‘normal’ word. One example is the name of the Singapore Teochew businessman Lien Ying Chow 連瀛洲 (M: *Lián Yíngzhōu*), pronounced *Hiar7 Iong7tsiu1* in Teochew. The character 連 is usually pronounced *liang5*, but when used as a surname should be pronounced *Hiar5*. (See [“Interview with Chua Hong Kee”](texts/chua_hong_kee.md).) The following list is not exhaustive.
 

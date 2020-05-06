@@ -37,9 +37,9 @@ It is used to join together two nouns or noun phrases to mean that they are the 
 >
 > He/she is the sitting Prime Minister.
 
-It is negated by the prefix *m6* 唔: *m7si6* 唔是 (see [“Negatives”](pages/negatives.md)).
+It is negated by the prefix *m6* 唔: *m7si6* 唔是 (see [“Negatives”](negatives.md)).
 
-By itself, it is used to reply “yes” to a yes-no question (see [“Questions”](pages/questions.md)):
+By itself, it is used to reply “yes” to a yes-no question (see [“Questions”](questions.md)):
 
 > I1 si7m7si7 tang1kim1 tsong6li2? • Si6!
 >
@@ -54,7 +54,7 @@ By itself, it is used to reply “yes” to a yes-no question (see [“Questions
 *u6* • *u6* • 有 • “to have”
 ----------------------------
 
-*u6* can be both a main verb and an auxiliary. Its negative form is *bo6* 無 (see [“Negatives”](pages/negatives.md)).
+*u6* can be both a main verb and an auxiliary. Its negative form is *bo6* 無 (see [“Negatives”](negatives.md)).
 
 ### Possession
 
@@ -100,7 +100,7 @@ It can also mean the existence of something, usually in the context of a time or
 
 ### Affirmative aspect
 
-*u6* 有 is added in front of another verb, when the speaker wants to affirm that the action has indeed occurred or has been completed. This is known as the affirmative aspect, or perfect aspect (see [“Aspect and time”](pages/aspect.md)).
+*u6* 有 is added in front of another verb, when the speaker wants to affirm that the action has indeed occurred or has been completed. This is known as the affirmative aspect, or perfect aspect (see [“Aspect and time”](aspect.md)).
 
 > Tsong6li2 king1zik8 ***u7*** tsiak4 ou7ni5.
 >
@@ -139,7 +139,7 @@ Modal verbs
 
 Modality can also be expressed through adverbs, e.g. “certainly”, “surely” (see below).
 
-One characteristic of modal verbs in Teochew and Southern Min langauges is that many of them have special negative forms (see [“Negatives”](pages/negatives.md)).
+One characteristic of modal verbs in Teochew and Southern Min langauges is that many of them have special negative forms (see [“Negatives”](negatives.md)).
 
 Modal verbs usually come before the main verb that they modify. Here they are listed alongside their corresponding negative forms.
 
@@ -410,7 +410,7 @@ This uses the literary pronunciation of 好, compare with *ho2* above.
 > Are you willing to help out a bit?
 
 The example above is a yes-no question following the A-NOT-A pattern
-(see [“Questions”](pages/questions.md)).
+(see [“Questions”](questions.md)).
 
 > Leu2 tso2ni7 sui7si5 tsiu7 tsie2ser1 **m7hauh3**?
 >
