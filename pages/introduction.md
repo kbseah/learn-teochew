@@ -24,7 +24,7 @@ Geography and history of Teochew prefecture
 
 The Teochew (Chaozhou) region is located on the Eastern boundary of Guǎngdōng 廣東 (T: Keung6tang1) province. It is bordered by Fújiàn 福建 (T: Hok8kieng3) province to the East and the South China Sea to the South. Further up North along the coastline is the port city of Xiàmén (廈門, T: E7mung5, also known as Amoy) in Fujian, and further down South along the coastline are the port cities of Hong Kong, Macau, and Guangzhou (廣州, T:Keung6tsiu1, also known as Canton) on the Pearl River Delta.
 
-The terrain of the Chaozhou region comprises coastal plains fed by numerous rivers and tributaries, bordered by mountainous areas further inland. The largest rivers are the Róngjiāng 榕江 (T: Iong7kang1), which runs through Shantou port city, and the Hánjiāng 韓江 (T: Hang7kang1), which runs through Chaozhou City. The island of Nán'ào 南澳 (T: Lam7o3) is part of the region, and has been connected to the mainland by a bridge since 2015.
+The terrain of the Chaozhou region comprises coastal plains fed by numerous rivers and tributaries, bordered by mountainous areas further inland. The largest rivers are the Róngjiāng 榕江 (T: Iong7kang1), which runs through Shantou port city, the Hánjiāng 韓江 (T: Hang7kang1), which runs through Chaozhou City, and the Liànjiāng 練江 (T: Lieng7kang1), which is to the south of the Rongjiang. The island of Nán'ào 南澳 (T: Lam7o3) lies in front of the mouth of the Hanjiang river, and has been connected to the mainland by a bridge since 2015.
 
 <!--
 ![Map of Teochew counties in 1911](/assets/images/teochew_map_en.png)
@@ -41,7 +41,7 @@ Characters | Mandarin (Pinyin) | Teochew (Peng'im) | Teochew (FIPA)
 大埔   | Dàpǔ     | Dua7bou1   | Tua7bhou1
 豐順   | Fēngshùn | Hong1sung6 | Hong1sung6
 饒平   | Ráopíng  | Riou7pêng5 | Ziou7pheng5
-海陽\* | Hǎiyáng  | Hai6iang5  | Hai6iang5
+海陽\* | Hǎiyáng  | Hai6ion5  | Hai6ioh5
 揭陽   | Jiéyáng  | Gêg8ion5   | Kek8ioh5
 澄海   | Chénghǎi | Têng7hai2  | Theng7hai2
 普寧   | Pǔníng   | Pou6lêng5  | Phou6leng5
@@ -50,34 +50,35 @@ Characters | Mandarin (Pinyin) | Teochew (Peng'im) | Teochew (FIPA)
 
 \* Also known as Tio7ang1 潮安
 
-The name Teochew 潮州 (Chaozhou, “Chao prefecture”) made its first appearance during the Sui dynasty in 591. It is said to reflect the ebb and flow of the tides (潮) at the extensive coastline. Prior to that, the region was known under several different names. In the Qin dynasty, it was part of the Nanhai commandery 南海群 (T: Lam7hai6-khung5), that covered modern day Guangdong and Guangxi. After the fall of the Qin in 206 BCE, the region came under the control of the Nanyue Kingdom 南越王國 (T: Lam7uek4-uang7kok4), an ethnic Yue kingdom that also included modern-day Yunnan and parts of northern Vietnam. The county of Jieyang 揭陽 (T: Kek8ioh5) encompassed modern-day Chaozhou. During the Eastern Jìn dynasty 東晉, the region was renamed Yì’ān commandery 義安群 (T: Ngi7ang1-khung5) in 413 CE. There were a further number of name changes over the years. The prefectural seat was named Chaozhou Fu 潮州府 (T: Tie7tsiu1-hu2) during the Ming dynasty in 1369, and the Qing dynasty succeeding it retained that name. In 1738, a number of new counties were created under this prefecture, resulting in a total of nine (see map and table). This administrative structure persisted until the Republican period at the beginning of the 20th century.
+The name Teochew 潮州 (M: Cháozhōu, “Chao prefecture”) made its first appearance during the Sui dynasty in 591. It is said to reflect the ebb and flow of the tides (潮) at the extensive coastline of the prefecture. Prior to that, the region was known under several different names. In the Qín 秦 dynasty, it was part of the Nánhǎi commandery 南海群 (T: Lam7hai6-khung5), that covered modern day Guangdong and Guangxi. After the fall of the Qin in 206 BCE, the region came under the control of the Nányuè Kingdom 南越王國 (T: Lam7uek4-uang7kok4), an ethnic Yue kingdom that also included modern-day Yúnnán and parts of northern Vietnam. The county of Jiéyáng 揭陽 (T: Kek8ioh5) within Nanyue encompassed modern-day Chaozhou. During the Eastern Jìn 東晉 dynasty, the region was renamed the Yì’ān commandery 義安群 (T: Ngi7ang1-khung5) in 413 CE. There were further name changes over the years. The prefectural seat was named Cháozhōu Fǔ 潮州府 (T: Tie7tsiu1-hu2) during the Míng 明 dynasty in 1369, and the Qing 清 dynasty succeeding it retained that name. In 1738 CE, a number of new counties were created under this prefecture, resulting in a total of nine (see map and table). This administrative structure persisted until the Republican period at the beginning of the 20th century.
 
-The Teochew/Chaozhou region is also known today as Teo-Swa (Chaoshan), from the names of its two largest cities: Teochew/Chaozhou City and Shantou/Swatow City. The former is the historical administrative center, whereas the latter is the modern day economic center. Today, the former Teochew prefecture has been broken up into three city-level administrative regions of Chaozhou, Shantou, and Jieyang, as well as two counties Fengshun and Dapu, which are not as density settled.
+The Teochew/Chaozhou region is also known today as Teo-Swa 潮汕 (M: Cháoshàn), from the names of its two largest cities: Teochew/Chaozhou City and Shàntóu/Swatow City 汕頭市. The former was historically the administrative center, whereas the latter is the modern day economic center. Today, the former Teochew prefecture is organized into three city-level administrative regions of Chaozhou, Shantou, and Jieyang, as well as two counties to the North, Fengshun and Dapu, which are not as density settled.
+
 
 Teochew culture
 ---------------
 
-Teochew culture is closely tied to the Teochew language, and the coastal environment that it has developed in.
+Teochew culture is closely tied to the language of the Teochew people. Teochew opera is probably the best known art form that uses the Teochew language. There is also a tradition of folk rhymes and songs that were orally transmitted, usually through women, some of which were recorded in song books.
+
+The coastal environment is also a big part of Teochew life. Many Teochew people are devotees of the goddess Māzǔ (媽祖, T: Ma6zou2), whom they believe protects people at sea. Fishing is an important economic activity, and seafood is important to Teochew cuisine, in condiments such as dried shrimp and in dishes like steamed fish. Teochews have also developed an elaborate ritual around drinking tea, known as gōngfū chá (功夫茶, T: kang1hu1 te5).
 
 
+Trade, emigration, and the Teochew diaspora
+-------------------------------------------
 
-Teochew language closely tied to Teochew opera, music.
+The earliest records of trade between the Southern coast of China and Southeast Asia date from the 1st century BCE. The goods coming from Southeast Asia included metals and tropical luxury goods, such as rhinoceros horns, birds’ nests, and kingfisher feathers, which were traded for fabrics and manufactures from the North of China. Goods imported into China later included incense, religious goods, and spices, but the overall volume of trade grew slowly over the centuries because of limited demand. The Southern coastal regions, including what would later become Chaozhou, were also on the political periphery of the Chinese state. The area was originally settled by non-Han-Chinese peoples. From the Han dynasty onwards, it was gradually colonized and settled by Han Chinese from the North.
 
-Songbooks, nursery rhymes
+The coastal provinces, including Guangdong province where Chaozhou is located, were seen as a political and military risk to central governments because of their distance from the Chinese capitals in the North, and their contact with the outside world through the sea. The founding emperor of the Ming dynasty imposed a sweeping “sea ban” in 1394 CE, forbidding private maritime trade along the entire coast. Emigration from Canton (Guangzhou) was also banned soon afterwards, in 1398. This was aimed at stamping out piracy, as well as to stop any potential supporters or loyalists of the previous dynasty who might try to hide along the coast. However, illicit trade and smuggling still went on, through bases such as Nan‘ao island. The Ming sea ban was eventually lifted in 1567, because it was seen as ineffective.
 
-Mazu culture
+After the founding of the Qing dynasty, which succeeded the Ming, another sea ban was imposed, which lasted from 1644 to 1684. Once again, rebel holdouts who were loyal to the previous regime were the reason. Zhèng Chénggōng 鄭成功, also known as Koxinga, was the son of a Ming loyalist, and founded his own independent state in Fujian that clashed with the Qing forces. He later retreated to Taiwan (the island of Formosa) in 1661, where he died in 1662. After his kingdom was finally defeated by the Qing in 1683, the sea ban was lifted and private trade could legally resume.
 
-Cuisine is shaped by location on the coast. Use of seafood. Gongfu tea.
+As population density grew during the Qing, and agricultural production became more commoditized, the demand for goods and hence the volume of foreign trade also increased. The port of Zhanglin 樟林, located in Chenghai county, was originally a fishing port. After the end of the sea ban, it became an important trading port. Many of the famous red-headed boats (紅頭船, M: hóngtóu chuán, T: ang7thau7 tsung5) set sail from there. Their design dated from a 1723 regulation, where boats were to be painted different colors according to their province of origin, with red for Guangdong. The period after the sea ban was the first big wave of Teochew migration in modern history.
 
+One of the main goods shipped to Zhanglin was rice from Siam (Thailand). As traders regularly went to Southeast Asia, many Teochews and other Chinese also settled there. Siam was one of the main destinations for Teochew traders and migrants, such that Teochews are the largest language group within the ethnic Chinese living in Thailand today. King Taksin, who led the Siamese in overthrowing Burmese rule and who founded the Thonburi kingdom, actually had a Teochew father.
 
-Emigration and the Teochew diaspora
------------------------------------
+After the Treaty of Tientsin in 1858, Swatow was opened up as a treaty port to Western traders, who were not only allowed to do trade, but also given extraterritorial legal rights within those cities. Swatow had only been a small fishing village, but then became the main port and economic center of the region. This was the start of the second major wave of Teochew emigration. Unlike the first wave, this was driven by the demand for cheap labor in European colonies and plantations, the so-called “coolie trade”.
 
-Long history of emigration and trade from Teochew to Southeast Asia.
-
-Increased after opening of treaty ports. First wave of emigration from Zhanglin, second wave of emigration from Swatow.
-
-Significant populations of Teochew people in Thailand, Malaysia, Singapore, Hong Kong.
+Today, there are large communities of Teochew people in Thailand, Hong Kong, Singapore and Malaysia, and in other Southeast Asian countries, as well as in the West from secondary migration. Prominent overseas Teochews include the banker Lien Ying Chow of Singapore, and the businessman Li Ka-Shing of Hong Kong. Swatow was one of the first Special Economic Zones in China to be opened to foreign investment and free market capitalism in the 1980s. Although it has not grown as aggressively as its neighbors in the Pearl River Delta like Shenzhen and Hong Kong, it is still a vibrant major city of over 5 million people.
 
 
 Characteristics of the Min languages
@@ -90,7 +91,7 @@ Min languages such as Teochew are a distinctive and divergent branch of the Chin
 
 This is a technical point that is based upon the comparison of pronunciation across Chinese languages and reconstruction of the hypothetical ancient pronunciation. Other unusual characteristics of Min are not strictly unique to it, but in combination make it special. Min languages preserve the final -p, -t, -k sounds (stops) that were present in ancient Chinese but which have been lost in many modern Chinese languages. Compared to northern languages like Mandarin, Min languages have a more complex tonal system (usually 7 tones), a higher proportion of monosyllabic words, and more numerous words for negation (e.g. about ten in Teochew vs. only three in Mandarin).
 
-The original inhabitants of the Min region did not speak Sinitic languages. Chinese historians referred to them as the Yue or Min-Yue people, and they probably spoke an Austroasiatic language. Ethnic Han Chinese began to colonize the region during the Han dynasty, bringing their language with them. This Han-era Chinese was the basis for Min Chinese. Later immigration from the North, as well as the posting of government officials speaking the court language, also contributed to the evolution of Min. Some words in Min languages are hypothesized to be survivals from the ancient Yue language, some of which are common everyday words (examples from Norman, 1991).
+The original inhabitants of the Min region did not speak Sinitic languages. Chinese historians referred to them as the Yue or Min-Yue people, and they probably spoke an Austroasiatic language. Ethnic Han Chinese brought their Sinitic language with them when they began settling in the Southern coast during the Han dynasty. This Han-era Chinese was the basis for Min Chinese. Later immigration from the North, as well as the posting of government officials speaking the court language, also contributed to the evolution of Min. Some words in Min languages are hypothesized to be survivals from the ancient Yue language, some of which are common everyday words (examples from Norman, 1991).
 
 > tam5 • “wet”
 
@@ -144,6 +145,8 @@ References and further reading
 On Teochew/Chaozhou history, geography and emigration:
  * Wu 2003
  * Phua 1993
+
+ * Wang 1958
 
 <hr />
 
