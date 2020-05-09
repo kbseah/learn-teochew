@@ -32,8 +32,8 @@ If you have corrections or suggestions, please
 [contact me with this form](https://forms.gle/igjwwiz2z2Dpr3SE6).
 
 Learn Teochew is a passion project of mine, and I am committed to keeping it
-free for learners. If you would like to support the project, please do
-[get in touch](https://forms.gle/igjwwiz2z2Dpr3SE6).
+free for learners. If you would like to support the project, please visit my
+[Ko-fi page](https://ko-fi.com/kbseah).
 
 ## Contents
 
