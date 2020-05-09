@@ -39,7 +39,7 @@ Koons, Alvin & Koons, Barbara. (2016) \[1967\]. *Spoken Swatow* (2 vols.). Hong 
 
  * Basic course in Swatow Teochew, with complete phonetic spelling, progressive lessons, and vocabulary list. Emphasizes substitution drills. Highly recommended.
 
-Lee Cher Leng 李子玲 (2003). Xīnjiāpōrén jiǎng de Cháozhōuhuà 「新加坡人講的潮州話」 (Teochew as spoken by Singaporeans), in: Lee Chee Hiang 李志賢 (ed.) *Hǎiwài Cháorén de yímín jīngyàn* 《海外潮人的移民經驗》 (Migration experience of overseas Teochews).
+Lee Cher Leng 李子玲. (2003). Xīnjiāpōrén jiǎng de Cháozhōuhuà 「新加坡人講的潮州話」 (Teochew as spoken by Singaporeans), in: Lee Chee Hiang 李志賢 (ed.) *Hǎiwài Cháorén de yímín jīngyàn* 《海外潮人的移民經驗》 (Migration experience of overseas Teochews).
 
 Lǐ Yǒngmíng 李永明. (1959). *Cháozhōu Fāngyán* 《潮州方言》 (*The Chaozhou dialect*). Beijing: Zhōnghuá Shūjú 中華書局.
 
@@ -67,11 +67,15 @@ Phua Chay Leong 潘醒農. (1950). Mǎláiyǎ Cháoqiáo Tōngjiàn 《馬來亞
 
 Phua Chay Leong 潘醒農. (1993). Cháoqiáo Sùyuán Jì 《潮僑溯源集》 (Anthology on the Roots of the Teochew Diaspora). River Edge, N.J.: Global Publishing Co.
 
+Snow, Don. (2004). *Cantonese as written language : The growth of a written Chinese vernacular*. Hong Kong: Hong Kong University Press.
+
 Veniranda, Yohana. (2015). *Perfective aspect and negation in Pontianak Teochew* (Doctoral dissertation). University of Delaware, Newark, Delaware. [University of Delaware](http://udspace.udel.edu/handle/19716/17687)
+
+Wang Gungwu. (2003) \[1958\]. *The Nanhai Trade : Early Chinese trade in the South China Sea*. Singapore: Eastern Universities Press.
 
 Wū Qīuyù 巫秋玉. (2003). Míng-Qīng shíqī Cháoshàn gángkǒu fāzhǎn yǔ Cháorén xìa Nányáng 「明清時期 潮汕港口發展與潮人下南洋」 (Development of ports in the Chaoshan region and emigration of Chaozhou people to the Nanyang in the Ming and Qing eras), in: Lee Chee Hiang 李志賢 (ed.) *Hǎiwài Cháorén de yímín jīngyàn* 《海外潮人的移民經驗》 (Migration experience of overseas Teochews).
 
-Xu Hui Ling 許惠玲. (2007). *Aspect of Chaozhou grammar. A synchronic description of the Jieyang variety. Journal of Chinese Linguistics Monograph Series No. 22*. Hong Kong: Chinese University Press. [JSTOR](https://www.jstor.org/stable/23826160)
+Xu Hui Ling 許惠玲. (2007). *Aspect of Chaozhou grammar. A synchronic description of the Jieyang variety*. Journal of Chinese Linguistics Monograph Series No. 22. Hong Kong: Chinese University Press. [JSTOR](https://www.jstor.org/stable/23826160)
 
 Xú Yǔháng 徐宇航. (2013). 19 shìjì de Cháozhōu fāngyán yīnxì 「十九世紀的潮州方言音系」 (Phonological system of the Chaozhou dialect in the nineteenth century). *Journal of Chinese Studies* 57, 223–244.
 

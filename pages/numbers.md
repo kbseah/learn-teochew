@@ -462,7 +462,7 @@ Or it can be used as a classifier for *ngeung5*:
 References and further reading
 ------------------------------
 
- * Li (1959) Chapter 4
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 4
 
 <hr />
 

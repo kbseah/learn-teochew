@@ -289,13 +289,10 @@ Apart from functioning as a resultative complement (see above), it can serve a n
 References and further reading
 ------------------------------
 
-Mantel (2017) 3.4.1.3 and 3.4.1.4
-
-Koons and Koons Ch. 19
-
-Yue-Hashimoto (2003) 4.12
-
-Li (1959) chapter 5 part 11
+ * Chappell, Hilary (2017), A sketch of Southern Min grammar, Sections 3.4.1.3 and 3.4.1.4
+ * Koons, Alvin & Koons, Barbara (2016) \[1967\], *Spoken Swatow* , Chapter 19
+ * Yue, Anne O. (2003), Chinese dialects: Grammar, Section 4.12
+ * Lǐ Yǒngmíng 李永明 (1959),《潮州方言》, Chapter 5 part 11
 
 <hr />
 

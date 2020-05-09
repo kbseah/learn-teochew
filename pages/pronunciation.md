@@ -337,9 +337,12 @@ Regional differences in pronunciation – table from Guangdong Peng’im
 References and further reading
 ------------------------------
 
- * 騰達 箸 《潮語拼音教程》 <https://kahaani.github.io/gatian/index.html>
- * Dylan Sung, 1998. Chinese tone classifications. <http://dylansung.tripod.com/sapienti/anctones.htm>
- * Wikipedia: Four Tones (Middle Chinese). <https://en.wikipedia.org/wiki/Four_tones_(Middle_Chinese>)
- * <http://hailufeng.com/detail/?newsid=23156>
- * Xu Yuhang (2013) Phonological system of the Chaozhou dialect in the nineteenth century. Journal of Chinese Studies 57, July 2013, pp. 223-243.
- * On problem of writing Chinese regional languages with characters, see chapter 3 in Don Snow, Cantonese as written language
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 2
+ * Lín Lúnlún 林倫倫 (2012), 《潮汕方言：潮人的精神家園》, Chapter 4 (on Teochew rime dictionaries)
+ * [Software for typing in Teochew](https://kahaani.github.io/dieghv/), accompanied by [a tutorial on Teochew phonology](https://kahaani.github.io/gatian/index.html)
+ * Dylan Sung, 1998. [Chinese tone classifications](http://dylansung.tripod.com/sapienti/anctones.htm).
+ * Wikipedia: [Four Tones (Middle Chinese)](https://en.wikipedia.org/wiki/Four_tones_(Middle_Chinese))
+ * Xú Yǔháng 徐宇航 (2013),「十九世紀的潮州方言音系」
+
+On the problem of writing Chinese regional languages with characters:
+ * Snow, Don. (2004). *Cantonese as written language*, Chapter 3

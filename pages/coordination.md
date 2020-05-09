@@ -425,6 +425,6 @@ huar 還 - “still” (adv?)
 References and further reading
 ------------------------------
 
- * Li 1959 chapter 5 section 22
- * Lim 1886
- * Koons & Koons vol. 2 – see also ch. 23
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 5 part 22
+ * Lim Hiong Seng 林雄成 (1886), *Handbook of the Swatow vernacular*
+ * Koons, Alvin & Koons, Barbara (2016) \[1967\], *Spoken Swatow* , Volume 2, Chapter 23

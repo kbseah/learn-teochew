@@ -214,5 +214,6 @@ In a sample of four conversations, Lee (2003) found that the vast majority of lo
 References and further reading
 ------------------------------
 
- * Li Yongming (1991)
- * Lee Cher Leng (2003)
+ * Lǐ Yǒngmíng 李永明 (1991), 「新加坡潮州話的外語借詞和特殊詞語」
+ * Lee Cher Leng 李子玲 (2003), 「新加坡人講的潮州話」
+ * Lín Lúnlún 林倫倫 (2012), 《潮汕方言：潮人的精神家園》, Chapter 2

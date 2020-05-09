@@ -434,10 +434,11 @@ Some [auxiliary verbs](auxiliary_verbs.md) also have meanings related to time.
 References and further reading
 ------------------------------
 
- * Xu 2007 Chapter 6
- * Li Chapter 5 section 4
- * Yue 2003, Matthews and Yip 2011
- * Veniranda 2015
+ * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 6
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 5 part 4
+ * Yue, Anne O. (2003), Chinese dialects: Grammar
+ * Matthews, Stephen & Yip, Virginia (2011), *Cantonese: A comprehensive grammar*.
+ * Veniranda, Yohana (2015), *Perfective aspect and negation in Pontianak Teochew*
 
 <hr />
 

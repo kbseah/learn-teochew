@@ -439,6 +439,6 @@ Modality can also be expressed through adverbs.
 References and further reading
 ------------------------------
 
- * Xu 2007, Table 9.1
- * Li, pp. 213-214
- * Matthews & Yip
+ * Xu Hui Ling 許惠玲 (2007). *Aspect of Chaozhou grammar*, Table 9.1
+ * Lǐ Yǒngmíng 李永明 (1959),《潮州方言》, pp. 213-214
+ * Matthews, Stephen & Yip, Virginia (2011), *Cantonese: A comprehensive grammar*

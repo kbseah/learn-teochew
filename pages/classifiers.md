@@ -387,5 +387,5 @@ This is for real!
 References and further reading
 ------------------------------
 
- * Xu (2007) Chapter 5
- * Lim (1886) pg. 157-158
+ * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 5
+ * Lim Hiong Seng 林雄成 (1886), *Handbook of the Swatow vernacular*, pp. 157-158

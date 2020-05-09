@@ -315,5 +315,5 @@ Negative of *ai3* 愛 - “will”
 References and further reading
 ------------------------------
 
- * Xu (2007), Chapter 9 – this section draws extensively from the discussion here.
- * Yue (2003), section 4.3
+ * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 9 (this section draws extensively from the discussion here)
+ * Yue, Anne O. (2003), Chinese dialects: Grammar, Section 4.3

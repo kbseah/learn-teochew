@@ -220,5 +220,5 @@ This applies to several surnames, which are pronounced one way when part of some
 References and further reading
 ------------------------------
 
- * Li 1959 Ch. 4 part 2 - Vocabulary for relations
- * Li 1959 Ch. 2 part 7 - Alternative pronunciations
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 4 part 2 (vocabulary for family relations)
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 2 part 7 (alternative pronunciations)

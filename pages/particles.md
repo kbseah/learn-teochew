@@ -261,4 +261,4 @@ See Knowing one but not the other for examples
 References and further reading
 ------------------------------
 
- * Li Ch 5 section 22, Ch 3 section 5
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 5 part 22, Chapter 3 part 5

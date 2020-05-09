@@ -172,8 +172,8 @@ Unlike *khoi’4* / *pung1*, the verb *sang3* 送 can be used in the sense of �
 References and further reading
 ------------------------------
 
- * Xu 2007 chapter 8
- * Koons & Koons chapter 23
+ * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 8
+ * Koons, Alvin & Koons, Barbara (2016) \[1967\], *Spoken Swatow*, Chapter 23
 
 <hr />
 

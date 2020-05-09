@@ -673,6 +673,14 @@ In the example above, the prefix *kui3* 貴 “precious” or “esteemed” is 
 >
 > Could you please take off your shoes before entering?
 
+
+References and further reading
+------------------------------
+
+ * Yue, Anne O. (2003), Chinese dialects: Grammar
+ * Chappell, Hilary (2017), A sketch of Southern Min grammar
+ * Xu Hui Ling 許惠玲 (2007), *Aspect of Chaozhou grammar*, Chapter 10
+
 <hr />
 
 [^1]: What every teenager dreads to hear on coming home past midnight.

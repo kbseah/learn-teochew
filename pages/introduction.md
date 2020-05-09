@@ -134,19 +134,18 @@ With so many speakers, should there be any cause for concern? After all, in term
 References and further reading
 ------------------------------
 
- * Li (1959) chapter 1
- * Lin (2012)
- * Xu (2007) chapter 1
- * Norman (1991)
- * Norman (2003)
+ * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 1
+ * Lín Lúnlún 林倫倫 (2012), 《潮汕方言：潮人的精神家園》
+ * Xu Hui Ling 許惠玲, (2007), *Aspect of Chaozhou grammar*, Chapter 1
+ * Norman, Jerry (1991), The Mǐn dialects in historical perspective.
+ * Norman, Jerry (2003), The Chinese dialects: phonology.
  * [Ethnologue: Chinese, Min Nan](https://www.ethnologue.com/language/nan)
  * [Glottolog: Min Nan Chinese](https://glottolog.org/resource/languoid/id/minn1241)
 
 On Teochew/Chaozhou history, geography and emigration:
- * Wu 2003
- * Phua 1993
-
- * Wang 1958
+ * Wū Qīuyù 巫秋玉 (2003), 「明清時期 潮汕港口發展與潮人下南洋」
+ * Phua Chay Leong 潘醒農 (1993), 《潮僑溯源集》
+ * Wang Gungwu (2003) \[1958\], *The Nanhai Trade*.
 
 <hr />
 

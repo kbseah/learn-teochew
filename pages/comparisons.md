@@ -536,6 +536,12 @@ The expression *tso6iu6* 左右 is not applied directly after the number, but af
 >
 > He’s aged about sixty this year.
 
+References and further reading
+------------------------------
+
+ * Yue, Anne O. (2003), Chinese dialects: Grammar
+ * Chappell, Hilary (2017), A sketch of Southern Min grammar
+
 <hr />
 
 [^1]: Authentic yam paste is made with lard (*teu1iu5* 豬油 or *la5* 膋) and garnished with ginkgo nuts (*pe’4kue2* 白果). Accept no substitutes.
