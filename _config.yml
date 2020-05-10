@@ -15,12 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 title: Learn Teochew
 email: kb.seah@gmail.com
+tagline: Teochew for heritage speakers
 description: > # this means to ignore newlines until "baseurl:"
-  Study guide to Teochew language for heritage speakers
+  Study guide to Teochew language for heritage speakers. Teochew (潮州話), also
+  known as Chaozhou, Chiu-chow, or Chaoshan, is a Chinese language in the
+  Southern Min subfamily. This site helps to explain the grammar and usage of
+  the language to heritage speakers who would like to improve their
+  understanding of Teochew.
 baseurl: "/learn-teochew" # the subpath of your site, e.g. /blog
 url: "https://kbseah.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kbseah
 github_username:  kbseah
+
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
