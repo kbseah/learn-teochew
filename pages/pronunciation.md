@@ -240,7 +240,7 @@ A few rules may help in remembering how some of the tones should change:
 
 However, deciding what constitutes a series is not easy. Syllables in a polysyllabic word will certainly undergo sandhi. Sandhi stops at phrase and sentence boundaries. Sandhi can also be modified when speaking for emphasis, or to convey different shades of meaning (e.g. see Li, 1959, pg. 16). It is probably easiest to be aware of the basic sandhi changes and learn the patterns by listening to native speakers.
 
-In this study guide, the example phrases and sentences will be notated with the tones *after* sandhi, to reflect how the phrases or sentences should sound when spoken out loud, but the [Wiktionary index](teochew_wiktionary_index/teochew_wiktionary_index.md) uses the original (“citation”) tone, which is the standard practice for dictionaries.
+In this study guide, the example phrases and sentences will be notated with the tones *after* sandhi, to reflect how the phrases or sentences should sound when spoken out loud, but the [Wiktionary index]({{ site.baseurl }}{% link pages/teochew_wiktionary_index/teochew_wiktionary_index.md %}) uses the original (“citation”) tone, which is the standard practice for dictionaries.
 
 Orthography
 -----------
@@ -325,7 +325,7 @@ Both forms are encountered in various compound words:
 
 > tai7hak8 • dai7hag8 • 大學 • “university” (both characters with literary pronunciation)
 
-In addition, a number of characters are pronounced differently when used as a surname. See [“Terms of address”](address.md).
+In addition, a number of characters are pronounced differently when used as a surname. See [“Terms of address”]({{ site.baseurl }}{% link pages/address.md %}).
 
 
 Regional differences in pronunciation

@@ -11,7 +11,7 @@ Aspect and time expressions
 
 Chinese languages generally lack tense. Unlike Indo-European languages, which change the form of the verb depending on the tense (e.g. German present tense *Ich esse* “I eat”, preterite *Ich aß* “I ate”), Chinese languages indicate time in other ways: using time adverbs, through context, and using aspect markers.
 
-For how to tell time on the clock and in the calendar, see [“Numbers and counting”](numbers.md).
+For how to tell time on the clock and in the calendar, see [“Numbers and counting”]({{ site.baseurl }}{% link pages/numbers.md %}).
 
 Contents
 --------
@@ -33,7 +33,7 @@ In English, what is usually taught in school as “tenses” are actually combin
 >
 > (The speaker is relating events from the past. The cake was already baked at that point in time, and was relevant then, but is not relevant to the present.)
 
-In Chinese, the verbs themselves do not change in form, like “bake/baked” in the example above. To indicate time and aspect, additional words are added before or after the verb. These can be adverbs, verb complements (see [“Verbal complements”](verbal_complements.md)), auxiliary verbs, and a special class of words called aspect markers.
+In Chinese, the verbs themselves do not change in form, like “bake/baked” in the example above. To indicate time and aspect, additional words are added before or after the verb. These can be adverbs, verb complements (see [“Verbal complements”]({{ site.baseurl }}{% link pages/verbal_complements.md %})), auxiliary verbs, and a special class of words called aspect markers.
 
 ### Comparison of aspect markers
 
@@ -73,7 +73,7 @@ The affirmative aspect is used to affirm that an event or action has already bee
 
 The habitual aspect is used to mean that a particular action or event is performed habitually.
 
-These two aspects are indicated with *u6* 有, which is explained under [“Auxiliary verbs”](auxiliary_verbs.md).
+These two aspects are indicated with *u6* 有, which is explained under [“Auxiliary verbs”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %}).
 
 ### Perfective aspect
 
@@ -93,7 +93,7 @@ The main aspect marker for the perfective is *liau2* 了, which is cognate with 
 >
 > If there was corruption, the Corrupt Practices Investigation Board would have come to investigate long ago.
 >
-> ([*Speech by Low Thia Khiang*](texts/low_thia_khiang.md))
+> ([*Speech by Low Thia Khiang*]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %}))
 
 
 ### Change-of-state aspect
@@ -150,7 +150,7 @@ There is also a hybrid form with both the *pak4* prefix and *kue3* suffix, and *
 >
 > I’ve eaten more salt than you’ve eaten rice.[^1]
 
-Notice that the word *kue3* is also used as a comparative (see [“Comparisons, Quantities, Degrees”](comparisons.md)).
+Notice that the word *kue3* is also used as a comparative (see [“Comparisons, Quantities, Degrees”]({{ site.baseurl }}{% link pages/comparisons.md %})).
 
 The word *pak4* is also a verb meaning “to know”, “recognize”.
 
@@ -252,7 +252,7 @@ Teochew:
 >
 > Once upon a time, the North Wind and the Sun were arguing over which of them was stronger.
 >
-> ([*North Wind and the Sun*](texts/aesop.md))
+> ([*North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %}))
 
 In contrast, *pang7ko3* emphasizes that the action is deliberate.
 
@@ -363,7 +363,7 @@ Time-related adverbs
 
 Adverbs can be used to specify the timing of an action or event.
 <!--
-Overlaps with [“Coordination”](coordination.md)
+Overlaps with [“Coordination”]({{ site.baseurl }}{% link pages/coordination.md %})
 -->
 
 ### Past
@@ -414,13 +414,13 @@ thang7kua3 唐～
 
 > *e7-pai2* • *ê7bai2* • 下擺 • “next time”
 
-See also [“Coordination”](coordination.md).
+See also [“Coordination”]({{ site.baseurl }}{% link pages/coordination.md %}).
 
 
 Time-related auxiliary verbs
 ----------------------------------
 
-Some [auxiliary verbs](auxiliary_verbs.md) also have meanings related to time.
+Some [auxiliary verbs]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %}) also have meanings related to time.
 
 > *u6* • *u6* • 有 • “have” (affirmative aspect): events in the past
 

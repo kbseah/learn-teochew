@@ -126,7 +126,7 @@ V2 is typically one of the following:
 >
 > If [the wind] starts to blow, I’ll freeze to death. If [the sun] keeps shining, I’ll die of heat. This day has been so fearsome.
 >
-> ([*The North Wind and the Sun*](texts/aesop.md))
+> ([*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %}))
 
 ### *lo’8* • *loh8* • 落
 
@@ -259,7 +259,7 @@ Apart from functioning as a resultative complement (see above), it can serve a n
 
 ### Modal verb - “should” (obligation)
 
-*Tie’8* can function as a modal verb meaning “should”, expressing obligation. See [“Modality”](auxiliary_verbs.md)
+*Tie’8* can function as a modal verb meaning “should”, expressing obligation. See [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})
 
 ### Adjective - “correct” (confirmation)
 

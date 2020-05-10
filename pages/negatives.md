@@ -26,7 +26,7 @@ Negatives with *m6* 唔 and *bo5* 無
 
 #### Negating *si6* 是 “to be”
 
-The copula *si6* 唔 is negated by *m6*: *m7si6* 唔是. (See [“Auxiliary verbs”](auxiliary_verbs.md).)
+The copula *si6* 唔 is negated by *m6*: *m7si6* 唔是. (See [“Auxiliary verbs”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %}).)
 
 > Ua2 ***m7si7*** zik4pung6-nang5.
 >
@@ -60,7 +60,7 @@ Ungradeable adjectives describe properties that cannot be placed on a sliding sc
 >
 > He was not satisfied because he could not dig up anything [to use against us]!
 >
-> [“Speech by Low Thia Khiang”](texts/low_thia_khiang.md)
+> [“Speech by Low Thia Khiang”]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
 >
 > \*\*\*
 >
@@ -74,13 +74,13 @@ Ungradeable adjectives describe properties that cannot be placed on a sliding sc
 >
 > You don’t know your own strength!
 >
-> [“North Wind and the Sun”](texts/aesop.md)
+> [“North Wind and the Sun”]({{ site.baseurl }}{% link pages/texts/aesop.md %})
 
 Gradeable adjectives, on the other hand, are negated with *bhoi6* 袂 (see below).
 
 ### *bo5* • *bho5* • 無
 
-*bo5* is the negative form of the auxiliary verb *u6* 有 (see [“Auxiliary verbs”](auxiliary_verbs.md)).
+*bo5* is the negative form of the auxiliary verb *u6* 有 (see [“Auxiliary verbs”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})).
 
 #### Negative of u6 有
 
@@ -174,7 +174,7 @@ A few are not modal verbs:
 Negatives of modal verbs
 ------------------------
 
-Modal verbs have special negative forms. Most of these appear to be derived from fusion of *m6* and the original modal verb, e.g. *m6* 唔 + *oi6* 會 (*boi6* 𠁞/袂), *m6* + *ho2* 好 (*mo2* 孬). Usage is straightforward, being just like the respective positive modal verbs, which are further explained in the section [“Modality”](auxiliary_verbs.md).
+Modal verbs have special negative forms. Most of these appear to be derived from fusion of *m6* and the original modal verb, e.g. *m6* 唔 + *oi6* 會 (*boi6* 𠁞/袂), *m6* + *ho2* 好 (*mo2* 孬). Usage is straightforward, being just like the respective positive modal verbs, which are further explained in the section [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %}).
 
 ### *boi6* • *bhoi6* • 𠁞 or 袂 - ability, “unable to”
 
@@ -198,7 +198,7 @@ It is also used to negate compounds that are derived from *oi6*:
 
 > *boi7sai2* • *bhoi7sai2* • 袂使 • unable (permission, capacity)
 
-The usage *boi7sai2* 袂使 comes from Hokkien, and is common in overseas Teochew (see [“Loan words”](overseas.md)). The Teochew equivalent is *mo2* 孬.
+The usage *boi7sai2* 袂使 comes from Hokkien, and is common in overseas Teochew (see [“Loan words”]({{ site.baseurl }}{% link pages/overseas.md %})). The Teochew equivalent is *mo2* 孬.
 
 #### Negating gradeable adjectives
 

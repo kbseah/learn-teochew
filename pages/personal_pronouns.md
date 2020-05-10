@@ -65,7 +65,7 @@ The variation in different pronunciations of the exclusive “we” pronoun – 
 Possessive pronouns
 -------------------
 
-The possessive pronouns are formed by adding the genitive marker *kai5* 個 to the pronouns. See [“Classifiers and kai5 個”](classifiers.md).
+The possessive pronouns are formed by adding the genitive marker *kai5* 個 to the pronouns. See [“Classifiers and kai5 個”]({{ site.baseurl }}{% link pages/classifiers.md %}).
 
 > I1 si7 **uang2-kai7** pheng7iou2.
 >

@@ -72,7 +72,7 @@ The terms *a1ti6* and *a1mue6* may sound condescending, if the speaker is not mu
 Familial terms
 --------------
 
-In Chinese families, elder relations are not typically referred to by their personal names, but by their kinship to the speaker. Where the kinship term could refer to more than one person, such as when a parent has several siblings, the term is qualified by stating their birth order, e.g. *tua7kou1* 大姑 “father’s eldest sister”, *sar1ku6* 三舅 “mother’s third brother” (see [Numbers and Counting](numbers.md)). Kinship terms can also be reduplicated, e.g. *kou1kou1* 姑姑 “auntie”, *ku7ku6* 舅舅 “uncle”, or prefixed with *a1* 阿, when there is no ambiguity or when addressing the person directly. When personal names or nicknames are combined with kinship terms, the kinship term comes after the name, e.g. Florence *kou1kou1* “Aunt Florence”.
+In Chinese families, elder relations are not typically referred to by their personal names, but by their kinship to the speaker. Where the kinship term could refer to more than one person, such as when a parent has several siblings, the term is qualified by stating their birth order, e.g. *tua7kou1* 大姑 “father’s eldest sister”, *sar1ku6* 三舅 “mother’s third brother” (see [Numbers and Counting]({{ site.baseurl }}{% link pages/numbers.md %})). Kinship terms can also be reduplicated, e.g. *kou1kou1* 姑姑 “auntie”, *ku7ku6* 舅舅 “uncle”, or prefixed with *a1* 阿, when there is no ambiguity or when addressing the person directly. When personal names or nicknames are combined with kinship terms, the kinship term comes after the name, e.g. Florence *kou1kou1* “Aunt Florence”.
 
 ### Immediate family
 
@@ -197,9 +197,9 @@ The Speak Mandarin Campaign, launched in 1979 by the Singapore government, promo
 
 ### Surnames with alternative pronunciations (又讀)
 
-Several Chinese characters have different pronunciations depending on the meaning and context. For example, 車 is pronounced *jū* in Mandarin when it means “chariot” in classical texts, but is pronounced *chē* for other uses, and in modern Mandarin. (See also “Literary vs. vernacular pronunciations” under [“Pronunciation”](pronunciation.md).)
+Several Chinese characters have different pronunciations depending on the meaning and context. For example, 車 is pronounced *jū* in Mandarin when it means “chariot” in classical texts, but is pronounced *chē* for other uses, and in modern Mandarin. (See also “Literary vs. vernacular pronunciations” under [“Pronunciation”]({{ site.baseurl }}{% link pages/pronunciation.md %}).)
 
-This applies to several surnames, which are pronounced one way when part of someone’s name, but in another way when part of a ‘normal’ word. One example is the name of the Singapore Teochew businessman Lien Ying Chow 連瀛洲 (M: *Lián Yíngzhōu*), pronounced *Hiar7 Iong7tsiu1* in Teochew. The character 連 is usually pronounced *liang5*, but when used as a surname should be pronounced *Hiar5*. (See [“Interview with Chua Hong Kee”](texts/chua_hong_kee.md).) The following list is not exhaustive.
+This applies to several surnames, which are pronounced one way when part of someone’s name, but in another way when part of a ‘normal’ word. One example is the name of the Singapore Teochew businessman Lien Ying Chow 連瀛洲 (M: *Lián Yíngzhōu*), pronounced *Hiar7 Iong7tsiu1* in Teochew. The character 連 is usually pronounced *liang5*, but when used as a surname should be pronounced *Hiar5*. (See [“Interview with Chua Hong Kee”]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %}).) The following list is not exhaustive.
 
 | Character | Surname (FIPA) | Surname (Peng'im) | Other (FIPA) | Other (Peng'im) |
 |-----------|----------------|-------------------|--------------|-----------------|

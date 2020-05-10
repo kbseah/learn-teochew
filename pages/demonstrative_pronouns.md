@@ -29,7 +29,7 @@ The Mandarin equivalents are *zhè* 這 and *nà* 那 respectively. 這 in Teoch
 
 ### *...kai5* • *...gai5* • ...個 • “this / that” + noun
 
-*Tsi2* and *heu2* are combined with *kai5* 個 or an appropriate classifier for the basic meaning of “this” or “that”, referring to a noun. (See [“Classifiers and 個 kai5”](pages/classifiers.md))
+*Tsi2* and *heu2* are combined with *kai5* 個 or an appropriate classifier for the basic meaning of “this” or “that”, referring to a noun. (See [“Classifiers and 個 kai5”]({{ site.baseurl }}{% link pages/classifiers.md %}))
 
 > **Tsi2kai5** si7 ua2 soi2hang3 seung2 kai7 ang1gong1kiar2.
 >
@@ -67,7 +67,7 @@ The Mandarin equivalents are *zhè* 這 and *nà* 那 respectively. 這 in Teoch
 
 ### *...tsho’4* • *...coh4* • ...撮 • “these / those” + noun
 
-Just as *kai5* 個 is the default classifier for single objects, *tsho’4* 撮 is the default classifier for plurals (see [“Classifiers and 個 kai5”](pages/classifiers.md)). *Tsi2tsho’4* and *heu2tsho’4* therefore mean “these” and “those” respectively.
+Just as *kai5* 個 is the default classifier for single objects, *tsho’4* 撮 is the default classifier for plurals (see [“Classifiers and 個 kai5”]({{ site.baseurl }}{% link pages/classifiers.md %})). *Tsi2tsho’4* and *heu2tsho’4* therefore mean “these” and “those” respectively.
 
 Lim 1886 gives a pronunciation *tsi2tshuar6kai7* for “these” / “those”, and transcribes *tshuar6* as 賤.
 

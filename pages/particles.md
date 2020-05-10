@@ -23,7 +23,7 @@ Contents
 Question particles
 ------------------
 
-Particles used in questions are discussed in more detail under [“Questions”](questions.md). A summary is given below:
+Particles used in questions are discussed in more detail under [“Questions”]({{ site.baseurl }}{% link pages/questions.md %}). A summary is given below:
 
 | Definition            | Flattened IPA | Peng'im | Characters |
 |-----------------------|------|------|-------|
@@ -63,7 +63,7 @@ Emphasis can be used to confirm something that had been put to the speaker in a 
 >
 > Yes, yes, there has indeed been an influence
 >
-> [*Interview with Chua Hong Kee*](texts/chua_hong_kee.md)
+> [*Interview with Chua Hong Kee*]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %})
 
 *no7* can also indicate that the speaker has just realized or recognized a fact, or wishes to acknowledge it. In the following example, the speaker is skeptical that his conversation partner is able to say something in English.
 
@@ -77,7 +77,7 @@ Emphasis can be used to confirm something that had been put to the speaker in a 
 >
 > So you don’t know how to translate it, after all?
 >
-> [*Wang Sa & Ye Fong – Comedy Sketch*](texts/wang_sa_ye_fong.md)
+> [*Wang Sa & Ye Fong – Comedy Sketch*]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
 
 Li (1959) writes this word with a character consisting of a mouth radical 口 and the number two 二, because it is pronounced like 二 *no6*. However this character is not available in Unicode, so it is substituted here with the character 二.
 
@@ -121,7 +121,7 @@ At the end of entire sentence as emphasis.
 >
 > All the computers were taken away by them!
 >
-> [*Low Thia Khiang Speech*](texts/low_thia_khiang.md)
+> [*Low Thia Khiang Speech*]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
 
 To emphasize the subject or topic of the sentence:
 
@@ -135,7 +135,7 @@ To emphasize the subject or topic of the sentence:
 >
 > It there was corruption, the Corrupt Practices Investigation Bureau would have come knocking long ago. They wouldn’t keep you waiting.
 >
-> [*Low Thia Khiang Speech*](texts/low_thia_khiang.md)
+> [*Low Thia Khiang Speech*]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
 
 ### ma1 • ma1 • 嗎 • certainty
 
@@ -165,7 +165,7 @@ Indicates a pause, to emphasize the subject or topic of the sentence.
 >
 > Our Singapore is a multi-ethnic society.
 >
-> [*Wang Sa & Ye Fong – Comedy Sketch*](texts/wang_sa_ye_fong.md)
+> [*Wang Sa & Ye Fong – Comedy Sketch*]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
 
 It can also contrast a phrase or a clause with another one preceding it. In the following example, the first *ne5* reinforces *puk4kue3* “however”. The second *ne5* emphasizes the contrast in the *u7kai5*… *u7kai5*… pair (“some are …, some others are …”).
 
@@ -179,7 +179,7 @@ It can also contrast a phrase or a clause with another one preceding it. In the 
 >
 > However, the languages of us Chinese people, some are pleasant sounding, while some are not.
 >
-> [*Wang Sa & Ye Fong – Comedy Sketch*](texts/wang_sa_ye_fong.md)
+> [*Wang Sa & Ye Fong – Comedy Sketch*]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
 
 ### li1 • li1 • 哩 • “softening”, affirmation
 
@@ -250,7 +250,7 @@ Interjections are “standalone” particles
 >
 > *A*: I am just a normal person acting clever. / *B*: Is that so?
 >
-> [*Wang Sa & Ye Fong – Comedy Sketch*](texts/wang_sa_ye_fong.md)
+> [*Wang Sa & Ye Fong – Comedy Sketch*]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
 
 ### ai2io7 • ai2io7 • ～～ • disappointment or despair
 

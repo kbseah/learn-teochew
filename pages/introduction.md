@@ -30,7 +30,7 @@ The terrain of the Chaozhou region comprises coastal plains fed by numerous rive
 ![Map of Teochew counties in 1911](/assets/images/teochew_map_en.png)
 -->
 ### Map of counties in Teochew Prefecture in 1911
-![Map of Teochew counties in 1911, Chinese labels](/assets/images/teochew_map_zh.png)
+![Map of Teochew counties in 1911, Chinese labels]({{ site.baseurl }}{% link /assets/images/teochew_map_zh.png %})
 
 This map is based on the [China Historial GIS (CHGS) project](https://sites.fas.harvard.edu/~chgis/data/chgis/) dataset, version 6, and was rendered with [QGIS](https://qgis.org/en/site/) v3.8.1.
 
@@ -104,7 +104,7 @@ The Min language group is itself further divided into Northern and Southern Min.
 Unique features of Teochew language
 -----------------------------------
 
-Teochew can be understood to some extent by speakers of other Southern Min languages, especially Hokkien, to which it is the most closely related. However, there are several features that set it apart. In terms of pronunciation, Teochew retains the low-rising 陽上 tone (traditionally numbered 6, see [“Pronunciation and orthography”](pages/pronunciation.md)), which has been lost in most other Southern Min languages. Teochew lacks syllables that end in the -n and -t consonants, e.g. Hokkien *huat* 發 vs. Teochew *huak4*.
+Teochew can be understood to some extent by speakers of other Southern Min languages, especially Hokkien, to which it is the most closely related. However, there are several features that set it apart. In terms of pronunciation, Teochew retains the low-rising 陽上 tone (traditionally numbered 6, see [“Pronunciation and orthography”]({{ site.baseurl }}{% link pages/pronunciation.md %})), which has been lost in most other Southern Min languages. Teochew lacks syllables that end in the -n and -t consonants, e.g. Hokkien *huat* 發 vs. Teochew *huak4*.
 
 Some high-frequency words are different between Teochew and Hokkien, for example:
 

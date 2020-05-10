@@ -322,7 +322,7 @@ Unlike *tiar7*, *tuar1tuar1* comes before a verb or adjective.
 
 #### *kui2*•*gui2*•幾 or *kua2*•*gua2*•幾
 
-In addition to being an interrogative (“how many”, see [“Questions”](pages/questions.md)), *kui2* can also mean “a few”, and is used similarly to its Mandarin cognate *jǐ*.
+In addition to being an interrogative (“how many”, see [“Questions”]({{ site.baseurl }}{% link pages/questions.md %})), *kui2* can also mean “a few”, and is used similarly to its Mandarin cognate *jǐ*.
 
 > I1 tsi2kai7 loi6pai3 u7-tsiak4 **kui6**-ua2 ou7ni5 lou7.
 >
@@ -508,7 +508,7 @@ Probably loaned from Hokkien, although common. Mainland Teochew uses tshuang7pou
 >
 > Anyway, you're silly, everybody calls me Grandpa Sun, I'm the biggest one under Heaven
 >
-> [*The North Wind and the Sun*](texts/aesop.md)
+> [*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %})
 
 ### “About”
 

@@ -66,7 +66,7 @@ Nouns and noun phrases are joined with *ka’4*:
 >
 > The only thing he does all day is to watch TV and play computer games.
 
-*Ka’4* also means “with”, “for” (see [“Passives and ‘give’ constructions”](pages/passives.md)), but in these cases is a preposition/coverb, not a conjunction:
+*Ka’4* also means “with”, “for” (see [“Passives and ‘give’ constructions”]({{ site.baseurl }}{% link pages/passives.md %})), but in these cases is a preposition/coverb, not a conjunction:
 
 > Ua2 e7-loi6pai7 **ka’4** pheng7iou2 kheu2 Hiang1kang2.
 >
@@ -269,7 +269,7 @@ The Hokkien cognate is written 才, borrowing the character for an equivalent wo
 
 ### *liau2* • *liao2* • 了 • “so”, “and then”
 
-Similar to English “So, …” or “After that, ….” In the following example, the first *liau2* is like English “and then”, whereas the second *liau2* is a perfective aspect marker modifying the verb *huak8tshuk4* (see [“Aspect”](pages/aspect.md)).
+Similar to English “So, …” or “After that, ….” In the following example, the first *liau2* is like English “and then”, whereas the second *liau2* is a perfective aspect marker modifying the verb *huak8tshuk4* (see [“Aspect”]({{ site.baseurl }}{% link pages/aspect.md %})).
 
 > **Liau2**, i1 huak8tshuk4 liau7 tsik4kai7 por2kau3
 >
@@ -281,12 +281,12 @@ Similar to English “So, …” or “After that, ….” In the following exam
 >
 > And then, \[the auditors\] issued a report
 >
-> [*Speech by Low Thia Khiang*](texts/low_thia_khiang.md)
+> [*Speech by Low Thia Khiang*]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
 
 
 ### *zu2* • *ru2* • 愈 • “the more that X, the more Y”
 
-When increasing or intensifying something causes something else to increase too. The word **zu2** 愈 is also used in comparisons, typically in the word *zu6keng2* 愈更 (see [“Comparisons, Quantities, and Degrees”](pages/comparisons.md)).
+When increasing or intensifying something causes something else to increase too. The word **zu2** 愈 is also used in comparisons, typically in the word *zu6keng2* 愈更 (see [“Comparisons, Quantities, and Degrees”]({{ site.baseurl }}{% link pages/comparisons.md %})).
 
 > i1 thau2 **zu6** li7hai7, heu6kai7-nang5-kai7 mi6hiuh5 mau1 **zu6**-king1, bo7 tui6 **zu6**-ke6
 >
@@ -298,7 +298,7 @@ When increasing or intensifying something causes something else to increase too.
 >
 > the stronger it [the North Wind] blew, the tighter the man wrapped his coat around himself, and the lower he wore his cap
 >
-> [*The North Wind and the Sun*](texts/aesop.md)
+> [*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %})
 
 Conditionals and conjecture (“if”, “maybe”)
 -------------------------------------------
