@@ -17,8 +17,8 @@ title: Learn Teochew
 email: kb.seah@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Study guide to Teochew language for heritage speakers
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/learn-teochew" # the subpath of your site, e.g. /blog
+url: "https://kbseah.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kbseah
 github_username:  kbseah
 
