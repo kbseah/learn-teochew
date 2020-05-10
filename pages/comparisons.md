@@ -9,6 +9,8 @@ Comparisons, degrees and quantity
 =================================
 {: .no_toc}
 
+Specific constructions, i.e. the arrangement of words of words and grammatical units, are required to compare two or more things, or state that they are equal to each other, or to state that one of them is the most or least in some respect. In addition, there are numerous adjectives and adverbs available to express degrees and quantities in Teochew.
+
 Contents
 --------
 {: .no_toc}

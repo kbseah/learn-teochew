@@ -9,6 +9,8 @@ Verbal complements
 ==================
 {: .no_toc}
 
+Chinese languages have so-called resultative verb compounds (RVCs). These comprise a main verb (describing an action or event) followed by a second verb or adjective that describes the result after the main verb’s action has occurred. The second verb is known as the resultative verbal complement. Similarly, there are directional verb compounds (DVCs), where the main verb stands for a movement, and is followed by one or two verbs (the directional verbal complement) that describe the direction or aim of the movement.  
+
 Contents
 --------
 {: .no_toc}
@@ -16,7 +18,6 @@ Contents
 1. TOC
 {:toc}
 
-Chinese languages have so-called resultative verb compounds (RVCs). These comprise a main verb (describing an action or event) followed by a second verb or adjective that describes the result after the main verb’s action has occurred. The second verb is known as the resultative verbal complement. Similarly, there are directional verb compounds (DVCs), where the main verb stands for a movement, and is followed by one or two verbs (the directional verbal complement) that describe the direction or aim of the movement.  
 
 In the following Mandarin sentence, the main verb is *xué* 學 “learn”, without a complement:
 

@@ -9,6 +9,9 @@ Demonstrative pronouns
 ========
 {: .no_toc}
 
+Demonstrative pronouns are words like “this” and “that”, which point to specific things, persons, etc. In Teochew, the basic demonstratives are *tsi2* 只 and *heu2* 許, which are roughly equivalent to “this” and “that” in English. The other demonstratives are derived from these two words.
+
+
 Contents
 --------
 {: .no_toc}
@@ -16,7 +19,6 @@ Contents
 1. TOC
 {:toc}
 
-Demonstrative pronouns are words like “this” and “that”, which point to specific things, persons, etc. In Teochew, the basic demonstratives are *tsi2* 只 and *heu2* 許, which are roughly equivalent to “this” and “that” in English. The other demonstratives are derived from these two words.
 
 *tsi2 / heu2* • *zi2 / he2* • 只 / 許 • “This / that”
 -------------------------------------------------------

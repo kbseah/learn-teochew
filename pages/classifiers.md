@@ -9,6 +9,13 @@ Classifiers and *kai5* 個
 =========================
 {: .no_toc}
 
+Classifiers, also known as “measure words” 量詞, are a distinctive feature of Chinese languages.
+
+In English, mass nouns (uncountable nouns) such as “water” or “flour” are usually qualified with a unit of measure or the container used to hold them, e.g. “a liter of water”, “a cup of flour”. Measure words are also used to refer to groups, especially of animals: “a pride of lions”, “a murder of ravens”.
+
+In Chinese languages, however, all nouns, whether countable or uncountable, take a classifier. The most common “generic” classifier is *kai5* 個, which is cognate to Mandarin *gè*. However in Teochew, this word also has several other important functions that are not found in Mandarin. These are described below under the section on “*kai5* • *gai5* • 個”.
+
+
 Contents
 --------
 {: .no_toc}
@@ -18,12 +25,6 @@ Contents
 
 Classifiers
 -----------
-
-Classifiers, also known as “measure words” 量詞, are a distinctive feature of Chinese languages.
-
-In English, mass nouns (uncountable nouns) such as “water” or “flour” are usually qualified with a unit of measure or the container used to hold them, e.g. “a liter of water”, “a cup of flour”. Measure words are also used to refer to groups, especially of animals: “a pride of lions”, “a murder of ravens”.
-
-In Chinese languages, however, all nouns, whether countable or uncountable, take a classifier. The most common “generic” classifier is *kai5* 個, which is cognate to Mandarin *gè*. However there are some important differences, described below under the section on “*kai5* • *gai5* • 個”.
 
 ### How to use classifiers
 

@@ -9,6 +9,9 @@ Terms of address
 ================
 {: .no_toc}
 
+Like all Chinese languages, Teochew has a rich vocabulary for describing family relations. This is an important topic for many heritage speakers, since the extended family and older relatives are likely to be the context in which they are most likely to encounter the language. Titles and forms of polite address, as well as commonly encountered surnames, are also useful to know and described here.
+
+
 Contents
 --------
 {: .no_toc}

@@ -9,6 +9,8 @@ Negatives
 =========
 {: .no_toc}
 
+Teochew, like other Min languages, has a rich set of negative words, in comparison to modern Mandarin, which has only three (bù 不, bié 別, méi 沒). 
+
 Contents
 --------
 {: .no_toc}
