@@ -14,7 +14,7 @@ Low Thia Khiang 劉程強 (T: Lau5 Thiar7khiang5, M: Líu Chéngqiáng) is a pol
 
 In this speech, delivered at an election rally on 2 September 2015, Low defends the WP’s position against the PAP’s claims. As a prepared speech, the language here is influenced by written Chinese and Mandarin. The inclusion of this speech here does not imply any endorsement of its political or other views.
 
-Source: <https://www.youtube.com/watch?v=d8WZTGo6K1U>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d8WZTGo6K1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr />
 
