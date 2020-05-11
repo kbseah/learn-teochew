@@ -9,7 +9,7 @@ Negatives
 =========
 {: .no_toc}
 
-Teochew, like other Min languages, has a rich set of negative words, in comparison to modern Mandarin, which has only three (bù 不, bié 別, méi 沒). 
+Teochew, like other Min languages, has a rich set of negative words, in comparison to modern Mandarin, which has only three (bù 不, bié 別, méi 沒).
 
 Contents
 --------
@@ -181,6 +181,8 @@ Modal verbs have special negative forms. Most of these appear to be derived from
 ### *boi6* • *bhoi6* • 𠁞 or 袂 - ability, “unable to”
 
 Negative of *oi6* 會
+
+*boi6* is written with a number of a different characters. Many Teochew texts use 𠁞 (不+會), but the Taiwan Education Ministry recommends 袂 for the cognate word in Taiwanese Hokkien. Because many computer fonts do not have 𠁞, this guide prefers 袂. See the discussion on orthography at [“Pronunciation”]({{ site.baseurl }}{% link pages/pronunciation.md %})
 
 > Ua2 boi7 pha’4 mua7tsia’4.
 >
