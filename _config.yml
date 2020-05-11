@@ -39,6 +39,7 @@ remote_theme: pmarsceill/just-the-docs
 # just-the-docs specific
 heading_anchors: true
 footer_content: "Original content copyright (c) 2019 Brandon Seah"
+logo: "/assets/images/learn-teochew-logo-site-top.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
