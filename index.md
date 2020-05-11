@@ -62,8 +62,7 @@ Technical note
 --------------
 
 This website makes use of extended CJK characters and other special characters
-that may not be supported by the default fonts on many computers. Nonetheless,
-it is still possible to view most of the content without them. Unsupported
+that may not be supported by the default fonts on many computers. Unsupported
 characters should appear as a question mark � or empty boxes on most systems.
 
 If you cannot see the following Chinese characters –
@@ -74,6 +73,11 @@ If you cannot see the following Chinese characters –
 then you should download a font that supports extended CJK characters, such as
 [Noto Sans CJK TC](https://www.google.com/get/noto/) (follow the installation
 instructions for your operating system).
+
+These rare characters are only used in a few places in this guide, and the
+Chinese characters in this guide are only a supplement to the phonetic spelling,
+so you will still be able to see most of the content on the site without
+installing additional CJK fonts.
 
 If you cannot see the following IPA and accented characters –
 
