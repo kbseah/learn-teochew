@@ -13,7 +13,9 @@ The first Bible translations into the Teochew language were produced in the late
 
 Three versions are presented below for comparison: the original 1898 version, a revised version in vernacular Teochew by Wong (2015), and the Revised CUV Mandarin version. The English translation is from the English Revised Version.
 
-Source: Simon Wong (2015). “Bible Translation of Non-Mandarin Han *Fangyan* (Dialects) in Mainland China: The case of Swatow.” *The Bible Translator*, 66 pp. 24-44. (Used with permission)
+Source: Simon Wong (2015). “Bible Translation of Non-Mandarin Han *Fangyan* (Dialects) in Mainland China: The case of Swatow.” *The Bible Translator*, 66 pp. 24-44.
+
+(Used by kind courtesy of Mr Simon Wong)
 
 
 Contents

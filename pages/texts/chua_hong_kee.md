@@ -14,6 +14,8 @@ In this extract, he explains the impact that the Speak Mandarin Campaign in Sing
 
 The [recording can be heard online](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/25e8c0fb-1161-11e3-83d5-0050568939ad), along with a transcript in Mandarin.
 
+(Used with permission from the National Archives of Singapore.)
+
 <hr />
 
 L: (M) Cài xiānshēng, nín kéyǐ zài shuō yíxià jiùshì “Jiǎng Huáyǔ Yùndòng”, qíshí dùi xìbān de yíngxiǎng zài nálǐ?
