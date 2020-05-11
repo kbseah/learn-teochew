@@ -3,7 +3,7 @@ layout: default
 title: Texts
 has_children: true
 permalink: /pages/texts/
-nav_order: 99
+nav_order: 98
 ---
 
 Texts

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bibliography
-nav_order: 98
+nav_order: 100
 ---
 
 Bibliography
