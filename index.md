@@ -52,6 +52,8 @@ your email address will not be shared with third parties. -->
 
 [Support the Project](https://ko-fi.com/kbseah){: .btn .btn-green }
 
+[Follow on Twitter](https://twitter.com/LearnTeochew){: .btn .btn-green }
+
 Learn Teochew is a passion project of mine, and will always be free to read
 online. These pages will continue to be expanded and updated, so do check back
 often!

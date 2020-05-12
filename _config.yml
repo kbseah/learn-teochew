@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "baseurl:"
   understanding of Teochew.
 baseurl: "/learn-teochew" # the subpath of your site, e.g. /blog
 url: "https://kbseah.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lteochew
+twitter_username: LearnTeochew
 github_username:  kbseah
 
 encoding: utf-8
