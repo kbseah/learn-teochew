@@ -54,6 +54,8 @@ your email address will not be shared with third parties. -->
 
 [Follow on Twitter](https://twitter.com/LearnTeochew){: .btn .btn-green }
 
+[Follow on Facebook](https://www.facebook.com/learnteochew){: .btn .btn-green }
+
 Learn Teochew is a passion project of mine, and will always be free to read
 online. These pages will continue to be expanded and updated, so do check back
 often!
