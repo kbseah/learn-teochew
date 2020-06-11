@@ -110,7 +110,7 @@ In Chinese families, elder relations are not typically referred to by their pers
 | mother’s sister’s son (younger)          | piou6ti6  | biou6di6   | 表弟         |
 |------------------------------------------|------------|-------------|-------------|
 | mother’s brother                         | a1ku6      | a1gu6       | 阿舅         |
-| mother’s brother’s wife                  | a1kim6     | a1m2        | 阿妗         |
+| mother’s brother’s wife                  | a1kim6     | a1gim6      | 阿妗         |
 | mother’s brother’s daughter (older)      | piou1tse2  | biou1zê2    | 表姐 |
 | mother’s brother’s daughter (younger)    | piou1mue7  | biou1muê7   | 表妹 |
 | mother’s brother’s son (older than self) | piou1hiar1 | biou1hian1  | 表兄 |
