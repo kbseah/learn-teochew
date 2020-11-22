@@ -35,11 +35,16 @@ Giles, H. A. (1877). *Handbook of the Swatow dialect. With a vocabulary.* Shangh
 
 Goddard, Josiah. (1888). *A Chinese and English vocabulary in the Tie-Chiu dialect*, 2nd. ed. Shanghai: American Presbyterian Mission Press. [Internet Archive](https://archive.org/details/achineseandengl00goddgoog)
 
+Hing Jia Wen 王嘉雯. (2013) Cóng yǔmǎ zhǔanhuàn dào yǔyán zhǔanyí : yǐ Bīngláng-yǔ Cháozhōuhuà wéi lì 从语码转换到语言转移:以槟榔屿潮州话为例
+(From code-switching to language shift : A case study on Penang Teochew) (M.A. dissertation) National University of Singapore, Singapore and Peking University, China. [ScholarBank@NUS](https://scholarbank.nus.edu.sg/bitstream/10635/42964/1/Hing%20Jia%20Wen%20A0037697M.pdf)
+
 Koons, Alvin & Koons, Barbara. (2016) \[1967\]. *Spoken Swatow* (2 vols.). Hong Kong: American Baptist Mission. [Lulu.com (print on demand)](https://www.lulu.com/en/us/shop/alvin-barbara-koons/spoken-swatow-book-one/paperback/product-1kmgvmny.html)
 
  * Basic course in Swatow Teochew, with complete phonetic spelling, progressive lessons, and vocabulary list. Emphasizes substitution drills. Highly recommended.
 
 Lee Cher Leng 李子玲. (2003). Xīnjiāpōrén jiǎng de Cháozhōuhuà 「新加坡人講的潮州話」 (Teochew as spoken by Singaporeans), in: Lee Chee Hiang 李志賢 (ed.) *Hǎiwài Cháorén de yímín jīngyàn* 《海外潮人的移民經驗》 (Migration experience of overseas Teochews).
+
+Lee Cher Leng. Grandmother’s Tongue : Decline of Teochew language in Singapore. In: Li Wei (ed.) *Multilingualism in the Chinese diaspora worldwide : Transnational connections and local social realities*. New York: Routledge. (ISBN 978-1-138-79424-5)
 
 Lǐ Yǒngmíng 李永明. (1959). *Cháozhōu Fāngyán* 《潮州方言》 (*The Chaozhou dialect*). Beijing: Zhōnghuá Shūjú 中華書局.
 
@@ -69,6 +74,10 @@ Phua Chay Leong 潘醒農. (1993). Cháoqiáo Sùyuán Jì 《潮僑溯源集》
 
 Snow, Don. (2004). *Cantonese as written language : The growth of a written Chinese vernacular*. Hong Kong: Hong Kong University Press.
 
+Snow, Don and Chen Nuanling. (2015). Missionaries and written Chaoshanese. *Global Chinese* 1 (1) : 5-26. [doi:10.1515/glochi-2015-1001](https://doi.org/10.1515/glochi-2015-1001)
+
+Tung Tong-ho 董同龢 (1959). Sì gè Mǐnnán fāngyán 「四個閩南方言」 (Four Southern Min dialects). *Bulletin of the Institute of History and Philology, Academia Sinica* 30 (2) : 729-1042. [BIHP website](https://www2.ihp.sinica.edu.tw/en/publish21.php?TM=5&M=2&C=53&pid=68)
+
 Veniranda, Yohana. (2015). *Perfective aspect and negation in Pontianak Teochew* (Doctoral dissertation). University of Delaware, Newark, Delaware. [University of Delaware](http://udspace.udel.edu/handle/19716/17687)
 
 Wang Gungwu. (2003) \[1958\]. *The Nanhai Trade : Early Chinese trade in the South China Sea*. Singapore: Eastern Universities Press.
@@ -82,3 +91,5 @@ Xú Yǔháng 徐宇航. (2013). 19 shìjì de Cháozhōu fāngyán yīnxì 「�
 Yeo, Pamela Yu Hui. (2011). *A sketch grammar of Singapore Teochew* (Academic exercise). Singapore: Nanyang Technological University. [Nanyang Technological University](http://hdl.handle.net/10220/7801)
 
 Yue, Anne O. (2003). Chinese dialects: Grammar. In G. Thurgood & R. J. LaPolla (Eds.), *The Sino-Tibetan Languages*. London: Routledge, pp. 84–125.
+
+Zhāng Chǔhào 張楚浩. (1976). Xīnjīapō Cháozhōuhuà yǔfǎ yánjīu 「新加坡潮州話語法硏究」 (A study of the Chao-chou dialect as spoken in Singapore) (M.A. dissertation). Chinese University of Hong Kong, Hong Kong. [CUHK Electronic Theses and Dissertations Collection](https://repository.lib.cuhk.edu.hk/en/item/cuhk-321252)

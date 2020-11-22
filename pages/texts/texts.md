@@ -13,9 +13,9 @@ Texts
 Learning Teochew can be difficult because it is mostly a spoken language, and
 there are few printed texts in the language.
 
-Here is a selection of texts, either from published sources or transcribed from
-videos or audio recordings, to show Teochew in use, beyond the short example
-sentences in the study guide.[^1]
+Here is a selection of texts from different times and places, either from
+published sources or transcribed from videos or audio recordings, to show
+Teochew in use, beyond the short example sentences in the study guide.[^1]
 
 Each text is transcribed in “flattened” IPA and Guangdong Peng’im (see
 [Pronunciation and Orthography](../pronunciation.md)) as well as Chinese
@@ -31,6 +31,7 @@ in touch!](https://forms.gle/igjwwiz2z2Dpr3SE6)
  * [Chua Hong Kee Interview]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %})
  * [Wang Sa and Ye Fong]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
  * [Low Thia Khiang Speech]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
+ * [The Moon Shines Brightly (nursery rhyme)]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
  * [Swadesh List]({{ site.baseurl }}{% link pages/texts/swadesh.md %})
 
 
