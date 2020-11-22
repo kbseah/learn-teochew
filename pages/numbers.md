@@ -34,7 +34,7 @@ The number system in Teochew is like other Chinese languages: counting is in bas
 | four                   | si3                   | si3                 | 四         |
 | five                   | ngou6                 | ngou6               | 五         |
 | six                    | lak8                  | lag8                | 六         |
-| seven                  | tshik4                | cik4                | 七         |
+| seven                  | tshik4                | cig4                | 七         |
 | eight                  | poi’4                 | boih4               | 八         |
 | nine                   | kau2                  | gao2                | 九         |
 | ten                    | tsap8                 | zab8                | 十         |
@@ -166,7 +166,7 @@ When reciting strings of numbers, such as telephone numbers, *khang1* (“null�
 
 > I1-kai7 tiang7ue7 ho7be2 si7 tshik4-**iou1**-**iou1**-**khang1**-tshik4-ngou6.
 >
-> I1-gai7 diang7ue7 ho7bhê2 si7 cik4-**iou1**-**iou1**-**kang1**-cik4-ngou6.
+> I1-gai7 diang7ue7 ho7bhê2 si7 cig4-**iou1**-**iou1**-**kang1**-cig4-ngou6.
 >
 > 伊個 電話 號碼 是 七幺幺空七五。
 >
