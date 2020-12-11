@@ -31,6 +31,7 @@ in touch!](https://forms.gle/igjwwiz2z2Dpr3SE6)
  * [Chua Hong Kee Interview]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %})
  * [Wang Sa and Ye Fong]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
  * [Low Thia Khiang Speech]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
+ * [Pear Stories]({{ site.baseurl }}{% link pages/texts/pear_story.md %})
  * [The Moon Shines Brightly (nursery rhyme)]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
  * [Swadesh List]({{ site.baseurl }}{% link pages/texts/swadesh.md %})
 
