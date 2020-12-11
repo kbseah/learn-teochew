@@ -69,9 +69,9 @@ Contents
 
 <hr />
 
-<sup>13</sup> Buk4 di6 uang2 zip8to7 iu6hok8, zui7si7 kiu6 uang2 thuk8tshuk8 ak8tsia2.
+<sup>13</sup> Mai3 di6 uang2 zip8to7 iu6hok8, zui7si7 kiu6 uang2 thuk8tshuk8 ak8tsia2.
 
-<sup>13</sup> Bhug4 di6 uang2 rib8do7 iu6hog8, rui7si7 giu6 uang2 tug8cug8 ag8zia2.
+<sup>13</sup> Mai3 di6 uang2 rib8do7 iu6hog8, rui7si7 giu6 uang2 tug8cug8 ag8zia2.
 
 <sup>13</sup> 勿 致 阮 入在 誘惑、 惟是 救 阮 脫出 惡者。
 
@@ -113,9 +113,9 @@ Contents
 
 <hr />
 
-<sup>13</sup> Buk4 sai2 uang2 zip8to7 iu6hok8, kiu6 uang2 thuk4li5 heu2kai7 ak8nang5. Ing1ui5 kok4, khuang7leng5, iong7keung5, tou1 si7 Leu6kai5. Tsi2kau3 si2si3. A1-meng6!
+<sup>13</sup> Mai3 sai2 uang2 zip8to7 iu6hok8, kiu6 uang2 thuk4li5 heu2kai7 ak8nang5. Ing1ui5 kok4, khuang7leng5, iong7keung5, tou1 si7 Leu6kai5. Tsi2kau3 si2si3. A1-meng6!
 
-<sup>13</sup> Bhug4 sai2 uang2 rib8do7 iu6hog8, giu6 uang2 tug4li5 he2gai7 ag8nang5. Ing1ui5 gog4, kuang7lêng5, iong7geng5, dou1 si7 Le6gai5. Zi2gao3 si2si3. A1-meng6!
+<sup>13</sup> Mai3 sai2 uang2 rib8do7 iu6hog8, giu6 uang2 tug4li5 he2gai7 ag8nang5. Ing1ui5 gog4, kuang7lêng5, iong7geng5, dou1 si7 Le6gai5. Zi2gao3 si2si3. A1-meng6!
 
 <sup>13</sup> 勿 使 阮 入在 誘惑， 救 阮 脫離 許個 惡人。 因為 國、 權能、 榮光， 都是 汝個。 至到 世世。 亞孟！
 
