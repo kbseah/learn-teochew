@@ -30,7 +30,7 @@ The terrain of the Chaozhou region comprises coastal plains fed by numerous rive
 ![Map of Teochew counties in 1911](/assets/images/teochew_map_en.png)
 -->
 ### Map of counties in Teochew Prefecture in 1911
-![Map of Teochew counties in 1911, Chinese labels]({{ site.baseurl }}{% link /assets/images/teochew_map_zh.png %})
+![Map of Teochew counties in 1911, Chinese labels]({{ site.baseurl }}{% link /assets/images/teochew_prefecture_map.png %})
 
 This map is based on the [China Historial GIS (CHGS) project](https://sites.fas.harvard.edu/~chgis/data/chgis/) dataset, version 6, and was rendered with [QGIS](https://qgis.org/en/site/) v3.8.1.
 
