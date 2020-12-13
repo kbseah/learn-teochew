@@ -19,8 +19,10 @@ who want to improve their understanding of the language.
 👉 If you have no prior knowledge of Teochew, one of the resources listed in the
 [Preface]({{ site.baseurl }}{% link pages/preface.md %}) may be more helpful.
 
-👉 First review the page on [pronunciation]({{ site.baseurl }}{% link pages/pronunciation.md %}) to learn the
+👉 First review the page on [Pronunciation]({{ site.baseurl }}{% link pages/pronunciation.md %}) to learn the
 phonetic spelling used on this website.
+
+👉 Check out the latest [News and updates]({{ site.baseurl }}{% link pages/news.md %}) on our blog.
 
 
 Contents
@@ -38,15 +40,13 @@ Contents
 
 [Bibliography]({{ site.baseurl }}{% link pages/bibliography.md %}){: .btn .btn-blue }
 
+[News]({{ site.baseurl }}{% link pages/news.md %}){: .btn .btn-blue }
+
 You can navigate the site from any page through the menu bar.
 
 
 Get in touch!
 -------------
-<!--
-To stay informed of new developments, sign up for our mailing list here. This
-list will only be used to inform subscribers about updates to this website, and
-your email address will not be shared with third parties. -->
 
 [Contact Me](https://forms.gle/igjwwiz2z2Dpr3SE6){: .btn .btn-green }
 
@@ -55,6 +55,8 @@ your email address will not be shared with third parties. -->
 [Follow on Twitter](https://twitter.com/LearnTeochew){: .btn .btn-green }
 
 [Follow on Facebook](https://www.facebook.com/learnteochew){: .btn .btn-green }
+
+[Subscribe to our Atom feed]({{ site.baseurl }}{% link feed.xml %}){: .btn .btn-green }
 
 Learn Teochew is a passion project of mine, and will always be free to read
 online. These pages will continue to be expanded and updated, so do check back
