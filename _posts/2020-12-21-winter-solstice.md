@@ -17,16 +17,22 @@ Teochew vocabulary:
 >
 > Winter Solstice
 
+<hr />
+
 > rig8tao5 / rig8tao5gong1
 >
 > 日頭 / 日頭公
 >
 > the Sun
 
+<hr />
+
 > ngang5
 >
 > 寒
 >
 > cold (adj.)
+
+<hr />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSG.SFCCA%2Fposts%2F3843772252308784&width=500&show_text=true&height=660&appId" width="500" height="660" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
