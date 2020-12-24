@@ -24,15 +24,30 @@ characters, along with a rough English translation.
 If you would like to contribute interesting texts or transcriptions, please [get
 in touch!](https://forms.gle/igjwwiz2z2Dpr3SE6)
 
- * [A Graduate Kneels Before a Magistrate]({{ site.baseurl }}{% link pages/texts/graduate.md %})
+Bible excerpts:
+
  * [The Beatitudes]({{ site.baseurl }}{% link pages/texts/beatitudes.md %})
  * [Lord’s Prayer]({{ site.baseurl }}{% link pages/texts/lords_prayer.md %})
+ * [The Christmas Story]({{ site.baseurl }}{% link pages/texts/christmas_story.md %})
+
+Stories:
+
+ * [A Graduate Kneels Before a Magistrate]({{ site.baseurl }}{% link pages/texts/graduate.md %})
  * [The North Wind and the Sun]({{ site.baseurl }}{% link pages/texts/aesop.md %})
+
+Conversations, speeches:
+
  * [Chua Hong Kee Interview]({{ site.baseurl }}{% link pages/texts/chua_hong_kee.md %})
  * [Wang Sa and Ye Fong]({{ site.baseurl }}{% link pages/texts/wang_sa_ye_fong.md %})
  * [Low Thia Khiang Speech]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
  * [Pear Stories]({{ site.baseurl }}{% link pages/texts/pear_story.md %})
+
+Poetry, nursery rhymes:
+
  * [The Moon Shines Brightly (nursery rhyme)]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
+
+Other:
+
  * [Swadesh List]({{ site.baseurl }}{% link pages/texts/swadesh.md %})
 
 
