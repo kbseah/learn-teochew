@@ -5,8 +5,6 @@ date: 2020-12-21
 parent: News
 ---
 
-## Winter Solstice
-
 The Winter Solstice is known as Dang1zoih4 冬節 in Teochew. In Mandarin it is usually called Dōngzhì 冬至. This is the shortest day (and the longest night) of the year, and also the day when the sun reaches its lowest point in the sky. In the Northern Hemisphere this is usually on or around 21 December. After this date, the days start to get longer again and we can look forward to the coming of Spring. People who live close to the Equator, however, usually will not notice much difference in the length of the day or the position of the sun in the sky.
 
 Teochew vocabulary:

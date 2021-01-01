@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Yesterday, today, and tomorrow
+title: Yesterday, Today, and Tomorrow
 date: 2020-06-11
 parent: News
 ---
-
-## Yesterday, today, and tomorrow
 
 It’s Teochew Thursday! 📖
 (Please follow this page for regular updates)

@@ -5,8 +5,6 @@ date: 2020-05-22
 parent: News
 ---
 
-## The pessimism of the police interpreter
-
 A useful source on Teochew as spoken in Singapore more than 100 years ago is the "Handbook of the Swatow Vernacular" by Lim Hiong Seng, published in 1886.
 
 The author, according to the book's title page, was an interpreter in the police courts of the Straits Settlements. Perhaps because of his profession, some of the example sentences in the book have a quite... pessimistic view of the human condition.

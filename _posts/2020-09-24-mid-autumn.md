@@ -5,8 +5,6 @@ date: 2020-09-24
 parent: News
 ---
 
-## Mid Autumn Festival
-
 (recipe below)
 
 Learn-Teochew wishes everybody an enjoyable Mid Autumn Festival! (but not necessarily 身体健康 星光闪耀 😛)

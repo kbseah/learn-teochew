@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Family relations - Immediate family
+title: Family Relations - Immediate family
 date: 2020-05-28
 parent: News
 ---
-
-## Family relations - Immediate family
 
 It's Teochew Thursday! 📖
 (follow this page to get more updates like this)

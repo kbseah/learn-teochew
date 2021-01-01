@@ -5,8 +5,6 @@ date: 2020-10-08
 parent: News
 ---
 
-## Teochew Place Names in Singapore
-
 If you are interested in Teochew place names in multicultural Singapore, it is worth watching a recently posted video on YouTube on Teochew names of MRT (subway) stations in Singapore. The video is by Allan Tan, who regularly posts Teochew language videos to his channel, and is narrated in Teochew, with English subtitles:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T2Q3VAZFfXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

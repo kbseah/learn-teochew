@@ -5,8 +5,6 @@ date: 2020-12-02
 parent: News
 ---
 
-## Peace is a Great Blessing
-
 Teochew idiom:
 
 > pêng5ang1 deng1 dua7tang3

@@ -5,8 +5,6 @@ date: 2020-12-18
 parent: News
 ---
 
-## Empathy for a Toothache
-
 Teochew idiom:
 
 > ki2tian3 zian3 zai1 ki2tian3 nang5

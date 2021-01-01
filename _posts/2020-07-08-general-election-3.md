@@ -5,7 +5,7 @@ date: 2020-07-08
 parent: News
 ---
 
-## General Election 2020 Special III • 新加坡 2020年 国会大选 特刊（三）
+## 新加坡 2020年 国会大选 特刊（三）
 
 This is our last update before the election on 10 July.
 

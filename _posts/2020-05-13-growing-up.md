@@ -1,11 +1,9 @@
 ---
 layout: post
-title: First post
+title: First Post
 date: 2020-05-13
 parent: News
 ---
-
-## First post
 
 Growing up in Singapore, I learned a little bit of Teochew from my grandmother and some older relatives, but learned English and Mandarin at school, and spoke mostly English with friends and family. I told myself that "some day" I would learn Teochew properly.
 

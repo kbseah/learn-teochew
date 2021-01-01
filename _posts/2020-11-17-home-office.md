@@ -5,8 +5,6 @@ date: 2020-11-17
 parent: News
 ---
 
-## Home Office
-
 > mêng5ceng5 a1si6 ceng5guin7?
 >
 > 眠床 啊是 床櫃

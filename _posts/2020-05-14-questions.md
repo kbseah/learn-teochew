@@ -5,8 +5,6 @@ date: 2020-05-14
 parent: News
 ---
 
-## Questions
-
 It's Teochew Thursday!
 
 Today's topic is Questions (mung7doi5 問題) 🧐❓

@@ -5,8 +5,6 @@ date: 2020-06-25
 parent: News
 ---
 
-## The numbers one and two
-
 It’s Teochew Thursday! 📖
 
 1️⃣ 2️⃣ Today we’ll learn that there are two different words each for the numbers one and two.

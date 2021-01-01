@@ -5,8 +5,6 @@ date: 2020-06-24
 parent: News
 ---
 
-## General Election 2020 Special
-
 🗳🇸🇬 General Election Special Edition of Learn Teochew 📖
 
 📣 The General Election is coming to Singapore! In normal times, there would be big election rallies with politicians giving speeches in different languages, including Chinese dialects like Teochew.

@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Where are you from?
+title: Where Are You From?
 date: 2020-09-10
 parent: News
 ---
-
-## Where are you from?
 
 If you are of Teochew descent, you may have been asked where in Teochew your ancestors are from. You may have also noticed the names of the old counties in clan association publications, on old gravestones, and in descriptions of local dialects / regional pronunciations of the Teochew language.
 

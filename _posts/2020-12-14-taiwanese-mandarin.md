@@ -5,8 +5,6 @@ date: 2020-12-14 18:00:00 +0200
 parent: News
 ---
 
-## Grammatical Differences in Taiwanese Mandarin
-
 I recently came across this video from a Taiwanese Youtuber who teaches Mandarin. She points out some differences in grammar between colloquial Mandarin as used in Taiwan compared to the standard Putonghua used in Mainland China. There are many videos about differences in pronunciation (lèsè vs lājī for 垃圾 “rubbish” being a well-known example) and vocabulary (e.g. tǔdòu 土豆 vs. mǎlíngshǔ 马铃薯 “potato”), but fewer about grammar.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YqzbwCpLZl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,8 +5,6 @@ date: 2020-06-04
 parent: News
 ---
 
-## Differences between Teochew and Hokkien
-
 It’s Teochew Thursday! 📖
 (Please follow this page for updates)
 

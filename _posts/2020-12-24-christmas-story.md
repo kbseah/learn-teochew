@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The Christmas Story in Teochew
+title: Christmas Story in Teochew
 date: 2020-12-24
 parent: News
 ---
-
-## The Christmas Story in Teochew
 
 Christmas is soon upon us, and our Christian friends might appreciate hearing the Christmas story in Teochew. This version (Luke 2:4-14) comes from an 1892 translation of the Four Gospels and Book of Acts in romanized Teochew, published by Presbyterian missionaries from Britain.
 

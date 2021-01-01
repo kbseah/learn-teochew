@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Family relations - Paternal
+title: Family Relations - Paternal
 date: 2020-07-02
 parent: News
 ---
-
-## Family relations - Paternal
 
 It’s Teochew Thursday! 📖
 

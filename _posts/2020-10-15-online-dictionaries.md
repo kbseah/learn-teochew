@@ -5,8 +5,6 @@ date: 2020-10-15
 parent: News
 ---
 
-## Online Teochew Dictionaries
-
 When learning a language, one of the most important resources to have is a dictionary. In this post, we’ll introduce some of the online dictionaries that can help Teochew learners.
 
 Before we do so, a reminder that there are two kinds of Chinese dictionaries: character dictionaries 字典 (T: ri7diang2, M: zìdiǎn) and word dictionaries 词典 (T: se5diang2, M: cídiǎn). Character dictionaries only deal with individual characters (e.g. pronunciation, etymology) but if you want to learn a language it’s best to have a word dictionary. That’s because Chinese words (词) are made up of one or more characters.

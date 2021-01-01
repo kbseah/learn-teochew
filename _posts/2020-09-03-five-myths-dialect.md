@@ -5,8 +5,6 @@ date: 2020-09-03
 parent: News
 ---
 
-## Five Myths about Chinese Dialects
-
 This post was inspired by this tweet:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You do know that teochew is a dialect of mandarin right? Which is basically mandarin but with different pronunciation? 🤔🤔</p>&mdash; 心好累 (@ghostingcas) <a href="https://twitter.com/ghostingcas/status/1263166312592732160?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

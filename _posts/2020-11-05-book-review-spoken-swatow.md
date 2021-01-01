@@ -5,8 +5,6 @@ date: 2020-11-05
 parent: News
 ---
 
-## Book review – *Spoken Swatow*
-
 How can you learn Teochew from scratch? Our website Learn Teochew is intended as a guide for people who already have some exposure to the language and who want to learn more. What if you need something at a more basic level?
 
 I first heard about Spoken Swatow by Alvin and Barbara Koons in a blog post from the [Teochew Store](https://www.theteochewstore.org/blogs/latest/131521411-spoken-swatow-teochew-language-textbook-for-english-speakers-gets-reprint-after-49-years). It is a primer in the Swatow dialect of Teochew, written by Christian missionaries (a married couple) from the US who worked in Hong Kong in the 1960s. Although most of us associate that city with the Cantonese language, there is a vibrant Teochew minority there, including churches that still preach in the Teochew language. The book was originally meant to be a guide for new missionaries and pastoral workers sent to work with the Teochew-speaking churches in Hong Kong, however it is also suitable for general use as the focus is on everyday language, not just the church context.

@@ -5,8 +5,6 @@ date: 2020-07-05
 parent: News
 ---
 
-## General Election 2020 Special II
-
 One common misconception about Chinese dialects is that dialects are just Mandarin with a different pronunciation for the same words. That’s not true, because “dialects” like Teochew have their own unique grammar and vocabulary.
 
 The Elections Department of Singapore has released a multilingual FAQ for voters, for the upcoming General Election (https://www.eld.gov.sg/velda.html). The questions and answers are in the four official languages of Singapore (Malay, Chinese Mandarin, Tamil, and English) as well as Chinese dialects, namely Cantonese, Hakka, Hainanese, Hokkien, and Teochew.
