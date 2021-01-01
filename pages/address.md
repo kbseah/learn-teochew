@@ -147,7 +147,7 @@ In Chinese families, elder relations are not typically referred to by their pers
 | son-in-law                    | kiar7sai3          | gian7sai3          | 仔婿        |
 | son-in-law                    | a1neung5           | a1neng5            | 阿郎        |
 | brother’s daughter (niece)    | tsau6sung1         | zao6sung1          | 走孫        |
-| brother’s son (nephew)        | tau1sung1          | tao1sung1          | 逗孫        |
+| brother’s son (nephew)        | tau1sung1          | dao1sung1          | 逗孫        |
 | granddaughter                 | sung1neung2        | sung1neng2         | 孫女        |
 | grandson                      | sung1              | sung1              | 孫          |
 | daughter’s daughter           | gua7sung1neung2    | ghua7sung1neng2    | 外孫女       |
