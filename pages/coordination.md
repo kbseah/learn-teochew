@@ -237,11 +237,11 @@ EFFECT, **ing1ui5** CAUSE
 
 CAUSE, tsiu6 EFFECT
 
-> Ua2 tou2khung3, **tsiu7** kheu2 tshue7 tsiak4.
+> Ua2 tou2khung3, **tsiu7** kheu2 tshue7 tsia’4.
 >
-> Ua2 dou2kung3, **ziu7** ke2 cuê7 ziag4.
+> Ua2 dou2kung3, **ziu7** ke2 cuê7 ziah4.
 >
-> 我 肚困， **就** 去 揣 嚼。
+> 我 肚困， **就** 去 揣 食。
 >
 > I hungry, **then** go find eat.
 >
@@ -391,11 +391,11 @@ This construction has the meaning “the moment X occurs, then Y”. This event 
 
 ### *an2ne1* • *an2nê1* • 按呢 • “in that case”
 
-> Leu2 ai2 tsiak4 ou7ni5, **an2ne1** tie’4 ka1ki7 o’4 tso2ni7 tso3.
+> Leu2 ai2 tsia’4 ou7ni5, **an2ne1** tie’4 ka1ki7 o’4 tso2ni7 tso3.
 >
-> Le2 ai2 ziag4 ou7ni5, **an2nê1** diêh4 ga1gi7 oh4 zo2ni7 zo3.
+> Le2 ai2 ziah4 ou7ni5, **an2nê1** diêh4 ga1gi7 oh4 zo2ni7 zo3.
 >
-> 汝 愛 嚼 芋泥， **按呢** 着 家己 學 做呢 做。
+> 汝 愛 食 芋泥， **按呢** 着 家己 學 做呢 做。
 >
 > You want eat yam-paste, **in-that-case** should self learn how make.
 >

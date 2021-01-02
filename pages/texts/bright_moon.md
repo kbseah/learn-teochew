@@ -103,7 +103,7 @@ ai²¹³⁻⁵¹ tsiaʔ⁵⁻¹ ho⁵¹⁻²⁵ te⁵⁵ li lai⁵⁵⁻¹¹ tsu
 
 ai3 ziah8 ho2-dê5 li lai5 zuan1
 
-愛 嚼 好茶 哩 來 煎
+愛 食 好茶 哩 來 煎
 
 if you want to have good tea you have to come and boil it
 

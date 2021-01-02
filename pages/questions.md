@@ -139,11 +139,11 @@ The following statements are more or less equivalent:
 
 *mi’4kai5* can also mean “anything”:
 
-> I1 mi’4kai5 long6 ai2 tsiak4.
+> I1 mi’4kai5 long6 ai2 tsia’4.
 >
-> I1 mih4gai5 long6 ai2 ziag4.
+> I1 mih4gai5 long6 ai2 ziah4.
 >
-> 伊 乜個 攏 愛 嚼。
+> 伊 乜個 攏 愛 食。
 >
 > He anything all want eat.
 >

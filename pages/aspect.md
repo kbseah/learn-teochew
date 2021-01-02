@@ -100,11 +100,11 @@ The main aspect marker for the perfective is *liau2* 了, which is cognate with 
 
 Closely related to the perfective aspect. This indicates that there is a new situation that has just happened, but which also affects the present context.
 
-> Tsiak4 pung7 **lou7**!
+> Tsia’4 pung7 **lou7**!
 >
-> Ziag4 bung7 **lou7**!
+> Ziah4 bung7 **lou7**!
 >
-> 嚼 飯 **𡀔**！
+> 食 飯 **𡀔**！
 >
 > Eat rice **CHS**!
 >
@@ -128,11 +128,11 @@ Most Chinese languages use a cognate of *kue3* 過 after the verb as the experie
 
 Teochew and other Min languages use the prefix *pak4* 識 instead.
 
-> Leu2 **pak4** tsiak4khou2 bo5?
+> Leu2 **pak4** tsia’4khou2 bo5?
 >
-> Le2 **bag4** ziag4kou2 bho5?
+> Le2 **bag4** ziah4kou2 bho5?
 >
-> 汝 **識** 嚼苦 無？
+> 汝 **識** 食苦 無？
 >
 > You EXP eat-bitterness NEG?
 
@@ -140,11 +140,11 @@ Teochew and other Min languages use the prefix *pak4* 識 instead.
 
 There is also a hybrid form with both the *pak4* prefix and *kue3* suffix, and *kue3* is sometimes also used by itself, perhaps influenced by Mandarin and standard written Chinese.
 
-> Ua2 **pak4** tsiak4 **kue3** kai7 iam5, tsoi7 kue3 leu2 tsiak4 **kue3** kai7 pung7.
+> Ua2 **pak4** tsia’4 **kue3** kai7 iam5, tsoi7 kue3 leu2 tsia’4 **kue3** kai7 pung7.
 >
-> Ua2 **bag4** ziag4 **guê3** gai7 iam5, zoi7 guê3 le2 ziag4 **guê3** gai7 bung7.
+> Ua2 **bag4** ziah4 **guê3** gai7 iam5, zoi7 guê3 le2 ziah4 **guê3** gai7 bung7.
 >
-> 我 **識** 嚼 **過** 個 鹽， 濟 過 汝 嚼 **過** 個 飯。
+> 我 **識** 食 **過** 個 鹽， 濟 過 汝 食 **過** 個 飯。
 >
 > I **EXP** eat **EXP** REL salt, more COMP you eat **EXP** REL rice.
 >
@@ -182,11 +182,11 @@ In Mandarin, this is expressed with the adverb *gānggāng* 剛剛. In Teochew, 
 
 Grammatically, these are adverbs rather than proper aspect markers. For example, they can be combined with other aspect markers, like the progressive marker *lo6* 囉:
 
-> I1 **tu1tu1 lo6** tsiak4pung7, leu2 ai2 kie2 i1 kheu2 ti7ko7?
+> I1 **tu1tu1 lo6** tsia’4pung7, leu2 ai2 kie2 i1 kheu2 ti7ko7?
 >
-> I1 **du1du1 lo6** ziag4bung7, le2 ai2 giê2 i1 ke2 di7go7?
+> I1 **du1du1 lo6** ziah4bung7, le2 ai2 giê2 i1 ke2 di7go7?
 >
-> 伊 **堵堵 囉** 嚼飯， 汝 愛 叫 伊 去 哋塊？
+> 伊 **堵堵 囉** 食飯， 汝 愛 叫 伊 去 哋塊？
 >
 > He **just PRG**-eat, you want call him go where?
 >
@@ -308,11 +308,11 @@ Actions that test or try something.
 
 The marker *thoi2* 睇 literally means “to see”, which is similar in spirit to the English expressions “try it and see” and “we shall see”.
 
-> Leu2 tsiak4-**thoi2**, oi7 kha’4 tiam1 boi6?
+> Leu2 tsia’4-**thoi2**, oi7 kha’4 tiam1 boi6?
 >
-> Le2 ziag4-**toi2**, oi7 kah4 diam1 bhoi6?
+> Le2 ziah4-**toi2**, oi7 kah4 diam1 bhoi6?
 >
-> 汝 嚼**睇**， 會 佮 甜 袂？
+> 汝 食**睇**， 會 佮 甜 袂？
 >
 > You eat-**TEN**, can too sweet NEG?
 >

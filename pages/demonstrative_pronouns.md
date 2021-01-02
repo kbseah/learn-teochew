@@ -144,11 +144,11 @@ These are derived from a fusion of *tsi2* 只 / *heu2* 許 with another word, wh
 
 *Tsie2mue’4* / *hie2mue’4* “this thing” / “that thing” is like *tsi2kai5* / *heu2kai5*, referring to anything, not necessarily plural.
 
-> ***Tsie2mue’4*** bo3ho6 tsiak4, hie2mue’4 iou6 u7 bi7sou3.
+> ***Tsie2mue’4*** bo3ho6 tsia’4, hie2mue’4 iou6 u7 bi7sou3.
 >
-> ***Ziê2muêh4*** bho3ho6 ziag4, hiê2muêh4 iou6 u7 bhi7sou3.
+> ***Ziê2muêh4*** bho3ho6 ziah4, hiê2muêh4 iou6 u7 bhi7sou3.
 >
-> ***照物*** 無好 嚼，～物 夭 有 味素。
+> ***照物*** 無好 食，～物 夭 有 味素。
 >
 > ***This-thing*** not-good eat, that-thing more have flavor.
 >
@@ -174,11 +174,11 @@ Location and direction
 
 *tsi2ko3* 只塊 and *heu2ko3* 許塊 are the generic pronouns for “here” and “there”.
 
-> Kie2 i1 mai2 to7 ***tsi2ko3*** tsiak4hung1.
+> Kie2 i1 mai2 to7 ***tsi2ko3*** tsia’4hung1.
 >
-> Giê2 i1 mai2 do7 ***zi2ko3*** ziag4hung1.
+> Giê2 i1 mai2 do7 ***zi2ko3*** ziah4hung1.
 >
-> 叫 伊 莫 在 ***只塊*** 嚼薰。
+> 叫 伊 莫 在 ***只塊*** 食薰。
 >
 > Call he NEG at ***here*** smoke.
 >

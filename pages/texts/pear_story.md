@@ -342,7 +342,7 @@ tseɪŋ³³ hʊa³⁵hi⁵³ tsu¹¹ tsɪaʔ⁵ tsɪaʔ⁵ tsɪaʔ⁵
 
 zêng1 huan1hi2 zu6 ziah8 ziah8 ziah8.
 
-真 歡喜 就 嚼 嚼 嚼。
+真 歡喜 就 食 食 食。
 
 [They are] very happy and keep eating.
 
@@ -396,7 +396,7 @@ tʰɔɪ̃⁵³-tɪɔʔ² ... eɪ ... sã³³ kaɪ¹¹ nou¹³kɪa⁵³ tseɪk²
 
 toin2-dioh8 ... ê ... san1-gai5 nou1gian2 zêg8-nang5 ciu2 zu6 kioh8-zoh4 zêg8-gai5 guê2zi2 lo1-ziah8 zêng1 riang5 si6 i1-gai5 guê2zi2 ma1.
 
-睇着 ⋯⋯ ei ⋯⋯ 三個 孥囝 一儂 手 就 挈作 一個 果子 囉嚼，真 然 是 伊個 果子 嗎。
+睇着 ⋯⋯ ei ⋯⋯ 三個 孥囝 一儂 手 就 挈作 一個 果子 囉食，真 然 是 伊個 果子 嗎。
 
 [He] saw three children each holding a fruit in hand and eating... really resembles his fruit.
 

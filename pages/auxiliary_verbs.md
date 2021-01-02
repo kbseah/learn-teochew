@@ -102,11 +102,11 @@ It can also mean the existence of something, usually in the context of a time or
 
 *u6* 有 is added in front of another verb, when the speaker wants to affirm that the action has indeed occurred or has been completed. This is known as the affirmative aspect, or perfect aspect (see [“Aspect and time”]({{ site.baseurl }}{% link pages/aspect.md %})).
 
-> Tsong6li2 king1zik8 ***u7*** tsiak4 ou7ni5.
+> Tsong6li2 king1zik8 ***u7*** tsia’4 ou7ni5.
 >
-> Zong6li2 ging1rig8 ***u7*** ziag4 ou7ni5.
+> Zong6li2 ging1rig8 ***u7*** ziah4 ou7ni5.
 >
-> 總理 經日 ***有*** 嚼 芋泥
+> 總理 經日 ***有*** 食 芋泥
 >
 > Prime-minister today ***have*** eat yam-paste.
 >
@@ -320,11 +320,11 @@ position to do something”). Compare to *oi7hiau2* and *oi7sai2* above.
 Among other functions (see [“Verbal complements”]({{ site.baseurl }}{% link pages/verbal_complements.md %})), tie’8 着 has the modal meanings of “should” or
 “must”.
 
-> Nang2 e7loi6pai3 **tie’4** ga’8 A1-Meng5 tsiak4 tsa6tshang1.
+> Nang2 e7loi6pai3 **tie’4** ga’8 A1-Meng5 tsia’4 tsa6tshang1.
 >
-> Nang2 ê7loi6pai3 **diêh4** gah8 A1-Mêng5 ziag4 za6cang1.
+> Nang2 ê7loi6pai3 **diêh4** gah8 A1-Mêng5 ziah4 za6cang1.
 >
-> 俺 下禮拜 **着** 佮 阿明 嚼 早餐。
+> 俺 下禮拜 **着** 佮 阿明 食 早餐。
 >
 > We-incl. next-week **should** with A-Meng eat breakfast.
 >

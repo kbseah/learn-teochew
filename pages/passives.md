@@ -27,11 +27,11 @@ The basic construction is:
 
 > \[object\] PASS \[agent\] \[verb\]
 >
-> Tsheung7deng2-kai7 piar2 long6tsong2 **khoi’4** nou1kiar2 tsiak8-kheu7 lou7.
+> Tsheung7deng2-kai7 piar2 long6tsong2 **khoi’4** nou1kiar2 tsia’8-kheu7 lou7.
 >
-> Ceng7dêng2-gai7 bian2 long6zong2 **khoih4** nou1gian2 ziag8-ke7 lou7.
+> Ceng7dêng2-gai7 bian2 long6zong2 **khoih4** nou1gian2 ziah8-ke7 lou7.
 >
-> 床頂 個 餅 攏總 **乞** 奴仔 嚼去 路。
+> 床頂 個 餅 攏總 **乞** 奴仔 食去 路。
 >
 > Table-top-REL biscuits all **PASS** children eat-away-PERF.
 >
@@ -51,11 +51,11 @@ The basic construction is:
 
 The passive marker is thought to have evolved from the verb “to give” via the related sense of “to allow” (see “‘Give’ constructions” below, and Xu 2007 chapter 8).
 
-> **Khoi’4** A1Meng5 tso7-kai7 piar2 tsing1sik8 bo7ho6tsiak2.
+> **Khoi’4** A1Meng5 tso7-kai7 piar2 tsing1sik8 bo7ho6tsia’2.
 >
-> **Koih4** A1Mêng5 zo7-gai7 bian2 zing1sig8 bho7ho6ziag2.
+> **Koih4** A1Mêng5 zo7-gai7 bian2 zing1sig8 bho7ho6ziah2.
 >
-> **乞** 阿明 做 個 餅 真實 無好嚼。
+> **乞** 阿明 做 個 餅 真實 無好食。
 >
 > **PASS** Ah-Meng make REL biscuits really NEG-good-eat.
 >

@@ -29,11 +29,11 @@ There are several ways to compare two nouns or noun-phrases with or without an a
 
 > NOUN1 ADJ **kue3** NOUN2
 >
-> Ua2-kai7 ou7ni5 ho6tsiak4-**kue5** leu2-kai7.
+> Ua2-kai7 ou7ni5 ho6tsia’4-**kue5** leu2-kai7.
 >
-> Ua2-gai7 ou7ni5 ho6ziag4-**guê5** le2-gai7.
+> Ua2-gai7 ou7ni5 ho6ziah4-**guê5** le2-gai7.
 >
-> 我個 芋泥 好嚼*過* 汝個。
+> 我個 芋泥 好食*過* 汝個。
 >
 > I-GEN yam-paste tasty-**more** you-GEN.
 >
@@ -45,11 +45,11 @@ This comparative is similar to the comparative in Mandarin, and may be influence
 
 > NOUN1 **pi2** NOUN2 \[**ka3**\] ADJ
 >
-> Ua2-kai7 ou7ni5 **pi6** leu2-kai7 (**ka2**) ho6tsiak8.
+> Ua2-kai7 ou7ni5 **pi6** leu2-kai7 (**ka2**) ho6tsia’8.
 >
-> Ua2-gai7 ou7ni5 **bi6** le2-gai7 (**ga2**) ho6ziag8.
+> Ua2-gai7 ou7ni5 **bi6** le2-gai7 (**ga2**) ho6ziah8.
 >
-> 我個 芋泥 *比* 汝個 (*較*) 好嚼。
+> 我個 芋泥 *比* 汝個 (*較*) 好食。
 >
 > I-GEN yam-paste **compare** you-GEN (**more**) tasty.
 >
@@ -63,11 +63,11 @@ Unlike the preceding, these are used in apposition:
 
 > NOUN1 ADJ; NOUN2 **zu6keng3** ADJ
 >
-> Leu2kai7 ou7ni5 ho6tsiak4; ua2kai7 **zu6**(**keng2**) ho6tsiak4.
+> Leu2kai7 ou7ni5 ho6tsia’4; ua2kai7 **zu6**(**keng2**) ho6tsia’4.
 >
-> Le2gai7 ou7ni5 ho6ziag4; ua2gai7 **ru6**(**gêng2**) ho6ziag4.
+> Le2gai7 ou7ni5 ho6ziah4; ua2gai7 **ru6**(**gêng2**) ho6ziah4.
 >
-> 汝個 芋泥 好嚼；我個 *愈*（*敬*） 好嚼。
+> 汝個 芋泥 好食；我個 *愈*（*敬*） 好食。
 >
 > You-GEN yam-paste tasty; I-GEN **more-**(**even**) tasty.
 >
@@ -105,11 +105,11 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > \*\*\*
 >
-> I1 tseu2-kai7 ou7ni5 **ka2** ho6tsiak4.
+> I1 tseu2-kai7 ou7ni5 **ka2** ho6tsia’4.
 >
-> I1 ze2-gai7 ou7ni5 **ga2** ho6ziag4.
+> I1 ze2-gai7 ou7ni5 **ga2** ho6ziah4.
 >
-> 伊 煮個 芋泥 *較* 好嚼。
+> 伊 煮個 芋泥 *較* 好食。
 >
 > He cook-REL yam-paste **more** tasty.
 >
@@ -137,11 +137,11 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > \*\*\*
 >
-> Leu2 tseu6tsiak8 **su1** ua3.
+> Leu2 tseu6tsia’8 **su1** ua3.
 >
-> Le2 ze6ziag8 **su1** ua3.
+> Le2 ze6ziah8 **su1** ua3.
 >
-> 汝 煮嚼 *輸* 我。
+> 汝 煮食 *輸* 我。
 >
 > You cooking **lose** I.
 >
@@ -217,11 +217,11 @@ Superlative constructions
 
 ### *ho’4*•*hoh4*•酷 “very” + ADJ
 
-> Ua2 **ho’4**-ku2 bo7 tsiak8tie’4 tsie2ser1 phang1 kai7 ku6tshai2kue2.
+> Ua2 **ho’4**-ku2 bo7 tsia’8tie’4 tsie2ser1 phang1 kai7 ku6tshai2kue2.
 >
-> Ua2 **hoh4**-gu2 bho7 ziag8diêh4 ziê2sên1 pang1 gai7 gu6cai2guê.
+> Ua2 **hoh4**-gu2 bho7 ziah8diêh4 ziê2sên1 pang1 gai7 gu6cai2guê.
 >
-> 我 酷久 無 嚼着 照生 香 個 韭菜粿。
+> 我 酷久 無 食着 照生 香 個 韭菜粿。
 >
 > I **very**-long NEG eat this-extent fragrant REL garlic-chives-pastry.
 >
@@ -247,11 +247,11 @@ Superlative constructions
 
 Unlike the preceding superlatives, *si2* 死 follows the adjective. *Si2* 死 literally means “death”, so the figurative meaning here would be along the lines of “so superlative it knocks you dead”.
 
-> Leu2-kai7 ku6tshai2kue2 ho6tsiak8-**si2**!
+> Leu2-kai7 ku6tshai2kue2 ho6tsia’8-**si2**!
 >
-> Le2-gai7 gu6cai2guê2 ho6ziag8-**si2**!
+> Le2-gai7 gu6cai2guê2 ho6ziah8-**si2**!
 >
-> 汝個 韭菜粿 好嚼死！
+> 汝個 韭菜粿 好食死！
 >
 > You-GEN garlic-chives-pastry delicious-**extreme**!
 >
@@ -326,11 +326,11 @@ Unlike *tiar7*, *tuar1tuar1* comes before a verb or adjective.
 
 In addition to being an interrogative (“how many”, see [“Questions”]({{ site.baseurl }}{% link pages/questions.md %})), *kui2* can also mean “a few”, and is used similarly to its Mandarin cognate *jǐ*.
 
-> I1 tsi2kai7 loi6pai3 u7-tsiak4 **kui6**-ua2 ou7ni5 lou7.
+> I1 tsi2kai7 loi6pai3 u7-tsia’4 **kui6**-ua2 ou7ni5 lou7.
 >
-> I1 zi2gai7 loi6bai3 u7-ziag4 **gui6**-ua2 ou7ni5 lou7.
+> I1 zi2gai7 loi6bai3 u7-ziah4 **gui6**-ua2 ou7ni5 lou7.
 >
-> 伊 只個 禮拜 有嚼 *幾*碗 芋泥 路。
+> 伊 只個 禮拜 有食 *幾*碗 芋泥 路。
 >
 > He this week have-eat **several**-bowl yam-paste PERF.
 >
@@ -352,11 +352,11 @@ If *kui2* is used in a question, *kua2* is used in the (not very informative) re
 
 *Kui2/kua2* can also be used to indicate an estimate of a number. In that case *kui2/kua2* comes after the numeral, like in English “ten-odd” (about ten):
 
-> I1 tsion7-kai7 loi6pai3 u7-tsiak4 tsap4-**kua6** ua2 ou7ni5.
+> I1 tsion7-kai7 loi6pai3 u7-tsia’4 tsap4-**kua6** ua2 ou7ni5.
 >
-> I1 zion7-gai7 loi6bai3 u7-ziag4 zap4-**gua6** ua2 ou7ni5.
+> I1 zion7-gai7 loi6bai3 u7-ziah4 zap4-**gua6** ua2 ou7ni5.
 >
-> 伊 上個 禮拜 有嚼 十*幾* 碗 芋泥。
+> 伊 上個 禮拜 有食 十*幾* 碗 芋泥。
 >
 > He last-week have-eat ten-**about** bowl yam-paste.
 >
@@ -438,11 +438,11 @@ An adverb meaning “a little bit”. Its negative form is *bo7mi’4*•*bho7mi
 >
 > \*\*\*
 >
-> Tsi2-ti’8kiar2 ti7ko5-u7 tsiak8 oi7 la6?
+> Tsi2-ti’8kiar2 ti7ko5-u7 tsia’8 oi7 la6?
 >
-> Zi2-dih8gian2 di7go5-u7 ziag8 oi7 la6?
+> Zi2-dih8gian2 di7go5-u7 ziah8 oi7 la6?
 >
-> 只滴囝 哋塊 有 嚼 會 *𤰉*？
+> 只滴囝 哋塊 有 食 會 *𤰉*？
 >
 > This-little-bit where have eat can **enough**?
 >
@@ -508,7 +508,7 @@ Probably loaned from Hokkien, although common. Mainland Teochew uses tshuang7pou
 >
 > You anyway silly, people all call me as Sun-Grandpa, under-heaven is I most big
 >
-> Anyway, you're silly, everybody calls me Grandpa Sun, I'm the biggest one under Heaven
+> Anyway, you’re silly, everybody calls me Grandpa Sun, I’m the biggest one under Heaven
 >
 > [*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %})
 

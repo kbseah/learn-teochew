@@ -232,11 +232,11 @@ In Teochew, the complement of extent can be *ka’4* 佮 or *kau3* 到.
 
 > SUBJECT V1 - ka’8 - V2
 >
-> Ua2 tsiak4-***ka’8*** tsing1pa2.
+> Ua2 tsia’4-***ka’8*** tsing1pa2.
 >
-> Ua2 ziag4-***gah8*** zing1ba2.
+> Ua2 ziah4-***gah8*** zing1ba2.
 >
-> 我 嚼***佮*** 真飽。
+> 我 食***佮*** 真飽。
 >
 > I eat-***until*** very-full.
 >
