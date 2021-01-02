@@ -660,7 +660,7 @@ I tshe tsap-kǎi gūe’ kǎi sǐau, i ài ou, ou bǒ mue’kíar la.
 
 I1 cê1 zab4-gai7 ghuêh8 gai7 siao3, i1 ai2 ou1, ou1 bho7 muêh4gian6 la1.
 
-伊 查 十個 月 個 數，伊 愛 污，污 無 物仔 la。
+伊 查 十個 月 個 數，伊 愛 污，污 無 物件 la。
 
 Despite checking our books for ten months, and wanting to do us in, they haven’t been able to find anything.
 
@@ -674,7 +674,7 @@ I ou bǒ mue’kíar m7-kam-ngúang!
 
 I1 ou1 bho7 muêh4gian6 m7-gam1nguang6!
 
-伊 污 無 物仔 唔甘願！
+伊 污 無 物件 唔甘願！
 
 They couldn’t find anything, and are not happy about it!
 
