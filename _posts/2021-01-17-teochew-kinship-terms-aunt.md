@@ -39,4 +39,4 @@ What about uncles? The Teochew terms are equivalent or similar to those used in 
 
 ### Previous posts
 
- * [a1ai5 阿嬡 “mother”]({{ site.baseurl }}{% link _drafts/teochew-kinship-terms-mother.md %})
+ * [a1ai5 阿嬡 “mother”]({{ site.baseurl }}{% link _posts/2021-01-13-teochew-kinship-terms-mother.md %})
