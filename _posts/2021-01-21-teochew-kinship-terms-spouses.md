@@ -5,6 +5,8 @@ date: 2021-01-21
 parent: News
 ---
 
+Prepare yourself for the upcoming Chinese New Year!
+
 This is the third in a series of posts on Teochew kinship terms, featuring words used to address relatives that are found in Teochew or other Minnan languages but not in Mandarin.
 
 ![]({{ site.baseurl }}{% link /assets/images/kinship-terms/kinship-03.png %}){:width="400px"}
@@ -17,5 +19,5 @@ Equivalent terms are used in most Southern Min languages, although the pronuncia
 
 ### Previous posts
 
- * [a1ai5 阿嬡 “mother”]({{ site.baseurl }}{% link _drafts/teochew-kinship-terms-mother.md %})
- * [a1gim6 阿妗 “mother’s brother’s wife”, a1m2 阿姆 “father’s elder brother’s wife”]({{ site.baseurl }}{% link _drafts/teochew-kinship-terms-aunt.md %})
+ * [a1ai5 阿嬡 “mother”]({{ site.baseurl }}{% link _posts/2021-01-13-teochew-kinship-terms-mother.md %})
+ * [a1gim6 阿妗 “mother’s brother’s wife”, a1m2 阿姆 “father’s elder brother’s wife”]({{ site.baseurl }}{% link _posts/2021-01-17-teochew-kinship-terms-aunt.md %})
