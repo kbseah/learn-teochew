@@ -23,7 +23,7 @@ Many contain "mih4" 乜:
  * What (manner)? mih4sên1iên7? 乜生樣？
  * What (situation)? mih4se7? 乜事？
 
-Read more here: https://kbseah.github.io/learn-teochew/pages/questions.html
+Read more [here]({{ site.baseurl }}{% link pages/questions.md %})
 
 ## 問題
 

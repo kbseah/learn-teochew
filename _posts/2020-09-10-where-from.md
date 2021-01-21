@@ -27,6 +27,6 @@ Traditionally, Teochew people speak of the eight districts (boih4ib4 八邑), ev
 >
 > We (inclusive) are the same people. (i.e. “You are one of us”)
 
-Read more on the Learn-Teochew website: https://kbseah.github.io/learn-teochew/pages/introduction.html
+Read more on the [Learn Teochew website ]({{ site.baseurl }})
 
 Sources: Mapping data is from the Chinese Historical GIS project (https://sites.fas.harvard.edu/~chgis/data/chgis/v6/). The map was drawn in the open source program QGIS (https://qgis.org/en/site/).
