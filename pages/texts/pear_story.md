@@ -346,8 +346,6 @@ zêng1 huan1hi2 zu6 ziah8 ziah8 ziah8.
 
 [They are] very happy and keep eating.
 
-> ziah8 – “to eat”; usually pronounced ziag8 but the stop endings may be more weakly differentiated in Singapore Teochew
-
 <hr />
 
 a³³nɛ³³ tsi³³tsuŋ³³ si¹¹ tʰɔɪ̃⁵³ ... kʰə³³ leɪŋ³³ʊa¹¹ tseɪk² pɔɪ̃³³ si¹¹ tʰɔɪ̃⁵³ hi³³kaɪ¹¹ tɪaʔ⁵ kʊɛ¹³tsi⁵³ kaɪ¹¹ naŋ⁵⁵
