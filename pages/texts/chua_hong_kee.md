@@ -36,7 +36,7 @@ The “Speak Mandarin Campaign began in the 70s or 80s, right? Did it already be
 
 C: (T) \[…\] hǔagèu kǎi ǔngtóng khìlǎi ne, tsǔ sǐ-ǔ ìarhíang thǎuthāu tsǔ… lèu tsǔ bǒ-mi’ tsai ma.
 
-C: (T) \[…\] hua7ghe2 gai7 ung7dong6 ki2lai7 nê1, zu7 si7-u7 ian2hiang6 tau7tau5 zu7… le2 zu7 bho7-mih4 zai1 ma.
+C: (T) \[…\] hua7ghe2 gai7 ung7dong6 ki2lai7 nê1, zu7 si7-u7 ian2hiang6 tao7tao5 zu7… le2 zu7 bho7-mih4 zai1 ma.
 
 蔡：【潮】X 華語 個 運動 起來 ne，就 是有 影響 頭頭 就⋯⋯ 汝 就 無乜 知 ma。
 
@@ -184,7 +184,7 @@ To find a child aged about ten to join (the troupe), that’s an impossibility, 
 
 Só-ìh tsìa ǔ tsǎutsíu ùa kim-ǎi-zīk tshō’ ǐng-uang khùar-ně láu, khùar-ně láu lǐeu.
 
-So6-in2 zia2 u7 zau7ziu6 ua2 gim1-ai7-rig8 coh8 ing7-uang1 kuan2-nê7 lao6, kuan2-nê7 lao6 liêu7.
+So6-in2 zia2 u7 zao7ziu6 ua2 gim1-ai7-rig8 coh8 ing7-uang1 kuan2-nê7 lao6, kuan2-nê7 lao6 liêu7.
 
 所以 正 有 造就 我 今仔日 撮 演員 寬呢老，寬呢老 了。
 
@@ -264,7 +264,7 @@ There’s no way to make up for something like that.
 
 Tsì-ú tsǔ tàr nàng tsìtsūng tsǔ tsì-ǔ tsìtsho’ láu-kǎi, i seu-tsu i-kǎi ǔe tshīang-lǐeu i-kǎi khior tsàu-khěu la.
 
-Zi2-u6 zu7 dan2 nang2 zi2zung5 zu7 zi2u7 zi2coh4 lao6-gai7, i1 se1zu1 i1-gai7 uê7 ciang5-liêu3 i1-gai7 kion1 zau2-ke3 la1.
+Zi2-u6 zu7 dan2 nang2 zi2zung5 zu7 zi2u7 zi2coh4 lao6-gai7, i1 se1zu1 i1-gai7 uê7 ciang5-liêu3 i1-gai7 kion1 zao2-ke3 la1.
 
 只有 就 呾 俺 只陣 就 只有 只撮 老個，伊 XX 伊個 話 唱 了 伊個 腔 走去 la。
 
