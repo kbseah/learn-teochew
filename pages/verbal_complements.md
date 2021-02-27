@@ -9,7 +9,13 @@ Verbal complements
 ==================
 {: .no_toc}
 
-Chinese languages have so-called resultative verb compounds (RVCs). These comprise a main verb (describing an action or event) followed by a second verb or adjective that describes the result after the main verb’s action has occurred. The second verb is known as the resultative verbal complement. Similarly, there are directional verb compounds (DVCs), where the main verb stands for a movement, and is followed by one or two verbs (the directional verbal complement) that describe the direction or aim of the movement.  
+Chinese languages have so-called resultative verb compounds (RVCs). These
+comprise a main verb (describing an action or event) followed by a second verb
+or adjective that describes the result after the main verb’s action has
+occurred. The second verb is known as the resultative verbal complement.
+Similarly, there are directional verb compounds (DVCs), where the main verb
+stands for a movement, and is followed by one or two verbs (the directional
+verbal complement) that describe the direction or aim of the movement.  
 
 Contents
 --------
@@ -19,7 +25,8 @@ Contents
 {:toc}
 
 
-In the following Mandarin sentence, the main verb is *xué* 學 “learn”, without a complement:
+In the following Mandarin sentence, the main verb is *xué* 學 “learn”, without
+a complement:
 
 > Wǒ xué tán gàngqín.
 >
@@ -29,7 +36,8 @@ In the following Mandarin sentence, the main verb is *xué* 學 “learn”, wit
 >
 > I am learning to play the piano. *or* I learn piano-playing.
 
-With a resultative complement *huì* 會 “able”, we can clarify the result of the action “to learn”: gaining a new ability.
+With a resultative complement *huì* 會 “able”, we can clarify the result of the
+action “to learn”: gaining a new ability.
 
 > Wǒ xué-***huì*** tán gàngqín (lè).
 >
@@ -39,7 +47,8 @@ With a resultative complement *huì* 會 “able”, we can clarify the result o
 >
 > I have learned to play the piano.
 
-There is a similar pattern in English with phrasal verbs. Phrasal verbs consist of the main verb plus a particle, which can be separated in some cases.
+There is a similar pattern in English with phrasal verbs. Phrasal verbs consist
+of the main verb plus a particle, which can be separated in some cases.
 
 > I ask you to ***stand up*** for your beliefs.
 >
@@ -47,13 +56,16 @@ There is a similar pattern in English with phrasal verbs. Phrasal verbs consist 
 >
 > I will never ***give up*** my secret recipe for yam paste.
 
-The syntax of verbal complements in Teochew is similar to Mandarin, however there are some complements that do not use their Mandarin cognates, particularly the complement of extent.
+The syntax of verbal complements in Teochew is similar to Mandarin, however
+there are some complements that do not use their Mandarin cognates,
+particularly the complement of extent.
 
 
 Resultative
 -----------
 
-Resultative verbal complements (RVCs) describe the result of an action. RVCs follow the pattern:
+Resultative verbal complements (RVCs) describe the result of an action. RVCs
+follow the pattern:
 
 > *V1* (main verb) - *V2* (adjective or intransitive verb)
 >
@@ -75,11 +87,14 @@ Resultative verbal complements (RVCs) describe the result of an action. RVCs fol
 >
 > (Folk song *Thih1ou7ou5* • 天烏烏) [^1]
 
-As the examples above show, resultative complements (V2) are as varied as the main verbs (V1) they go with. There are a number of resultative complements, however, that are more commonly encountered:
+As the examples above show, resultative complements (V2) are as varied as the
+main verbs (V1) they go with. There are a number of resultative complements,
+however, that are more commonly encountered:
 
 ### *tie’8* • *diêh8* • 着
 
-Same word used where in Mandarin a number of different resultative complements are used (see Li, 1959).
+Same word used where in Mandarin a number of different resultative complements
+are used (see Li, 1959).
 
  * *zhòng* • 中 or *zhòngle* • 中了
  * *dào* • 到
@@ -89,7 +104,8 @@ Same word used where in Mandarin a number of different resultative complements a
 
 ### *tek8* • *dêg8* • 得 • ability
 
-Different from Mandarin *dé* 得, which is used as a complement of extent (see below).
+Different from Mandarin *dé* 得, which is used as a complement of extent (see
+below).
 
 ### *ho2* • *ho2* • 好 • completion of action
 
@@ -103,7 +119,8 @@ Different from Mandarin *dé* 得, which is used as a complement of extent (see 
 Directional
 -----------
 
-Directional verbal complements (DVCs) describe the direction of an action, and is typically a 3-verb construction. DVCs follow the pattern:
+Directional verbal complements (DVCs) describe the direction of an action, and
+is typically a 3-verb construction. DVCs follow the pattern:
 
 > *V1* (main verb) - *V2* (directional complement) - *V3* (*lai5* or *kheu3*)
 >
@@ -117,15 +134,19 @@ V2 is typically one of the following:
 
 ### *khi2* • *ki2* • 起
 
-> ***Thau3-khi7lai7*** li1 ngang7si2, ***phak8-khi7lai7*** li1 zua’4si2, tsier2ser1-kai7 thih1si5 tsing1 kar6uih3.
+> ***Thau3-khi7lai7*** li1 ngang7si2, ***phak8-khi7lai7*** li1 zua’4si2,
+> tsier2ser1-kai7 thih1si5 tsing1 kar6uih3.
 >
-> ***Tao3-ki7lai7*** li1 ngang7si2, ***pag8-ki7lai7*** li1 ruah4si2, ziên2sên1-gai7 tin1si5 zing1 gan6uin3.
+> ***Tao3-ki7lai7*** li1 ngang7si2, ***pag8-ki7lai7*** li1 ruah4si2,
+> ziên2sên1-gai7 tin1si5 zing1 gan6uin3.
 >
 > ***透起來*** 哩 寒死， ***曝起來*** 哩 熱死， 照生個 天時 真 敢畏。
 >
-> ***blow-raise-up*** then cold-die, ***shine-raise-up*** then heat-die, this-day-GEN weather very fearsome.
+> ***blow-raise-up*** then cold-die, ***shine-raise-up*** then heat-die,
+> this-day-GEN weather very fearsome.
 >
-> If [the wind] starts to blow, I’ll freeze to death. If [the sun] keeps shining, I’ll die of heat. This day has been so fearsome.
+> If [the wind] starts to blow, I’ll freeze to death. If [the sun] keeps
+> shining, I’ll die of heat. This day has been so fearsome.
 >
 > ([*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %}))
 
@@ -181,7 +202,10 @@ V2 is typically one of the following:
 Potential
 ---------
 
-If you want to express an action that could (or could not) take place, i.e. a potential action, then the V1-V2 resultative compound can be modified by adding the modal verb *oi6* 會 or *oi7tek8* 會得 or its negative *boi6* 袂 or *boi7tek8* 袂得 between V1 and V2.
+If you want to express an action that could (or could not) take place, i.e. a
+potential action, then the V1-V2 resultative compound can be modified by adding
+the modal verb *oi6* 會 or *oi7tek8* 會得 or its negative *boi6* 袂 or
+*boi7tek8* 袂得 between V1 and V2.
 
 > *V1* - oi6 • oi6 • 會 - *V2*
 >
@@ -250,9 +274,12 @@ Also to indicate reaching or arriving at a goal or an objective.
 *tie’8* • *diêh8* • 着
 ----------------------
 
-This is a versatile word in Teochew, used very differently from the cognate *zhè* / *zháo* in Mandarin. The following is based on discussion by Li (1959).
+This is a versatile word in Teochew, used very differently from the cognate
+*zhè* / *zháo* in Mandarin. The following is based on discussion by Li (1959).
 
-Apart from functioning as a resultative complement (see above), it can serve a number of other grammatical functions. It’s safe to say that it would be very difficult to speak Teochew for a day without using *tie’8*!
+Apart from functioning as a resultative complement (see above), it can serve a
+number of other grammatical functions. It’s safe to say that it would be very
+difficult to speak Teochew for a day without using *tie’8*!
 
 ### Main verb - “encounter”, “be afflicted by”
 
@@ -260,7 +287,8 @@ Apart from functioning as a resultative complement (see above), it can serve a n
 
 ### Modal verb - “should” (obligation)
 
-*Tie’8* can function as a modal verb meaning “should”, expressing obligation. See [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})
+*Tie’8* can function as a modal verb meaning “should”, expressing obligation.
+See [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})
 
 ### Adjective - “correct” (confirmation)
 

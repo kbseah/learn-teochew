@@ -9,7 +9,11 @@ Comparisons, degrees and quantity
 =================================
 {: .no_toc}
 
-Specific constructions, i.e. the arrangement of words of words and grammatical units, are required to compare two or more things, or state that they are equal to each other, or to state that one of them is the most or least in some respect. In addition, there are numerous adjectives and adverbs available to express degrees and quantities in Teochew.
+Specific constructions, i.e. the arrangement of words of words and grammatical
+units, are required to compare two or more things, or state that they are equal
+to each other, or to state that one of them is the most or least in some
+respect. In addition, there are numerous adjectives and adverbs available to
+express degrees and quantities in Teochew.
 
 Contents
 --------
@@ -21,33 +25,36 @@ Contents
 Comparative constructions
 -------------------------
 
-There are several ways to compare two nouns or noun-phrases with or without an adjective.
+There are several ways to compare two nouns or noun-phrases with or without an
+adjective.
 
-### *kue3*•*guê3*•過
+### *guê3* • 過
 
-*Kue3* is used as a suffix to an adjective. The construction is:
+*Guê3* is used as a suffix to an adjective. The construction is:
 
-> NOUN1 ADJ **kue3** NOUN2
+> NOUN1 ADJ **guê3** NOUN2
 >
-> Ua2-kai7 ou7ni5 ho6tsia’4-**kue5** leu2-kai7.
+> ua⁵³kai¹¹ ou¹¹ni⁵⁵ ho³⁵tsiaʔ²**kue⁵⁵** lɯ⁵³kai⁵⁵
 >
-> Ua2-gai7 ou7ni5 ho6ziah4-**guê5** le2-gai7.
+> Ua2-gai5(7) ou7ni5 ho2(6)ziah8(4)-**guê3(5)** le2-gai5.
 >
-> 我個 芋泥 好食*過* 汝個。
+> 我個 芋泥 好食 *過* 汝個。
 >
 > I-GEN yam-paste tasty-**more** you-GEN.
 >
 > My yam paste tastes better than yours. [^1]
 
-### *pi2*•*bi2*•比 + *ka3*•ga3*•較
+### *bi2* • 比 + *ga3* • 較
 
-This comparative is similar to the comparative in Mandarin, and may be influenced by Mandarin or written Chinese. In this construction, the adjective comes after the second noun:
+This comparative is similar to the comparative in Mandarin, and may be
+influenced by Mandarin or written Chinese. In this construction, the adjective
+comes after the second noun:
 
-> NOUN1 **pi2** NOUN2 \[**ka3**\] ADJ
+> NOUN1 **pi2** NOUN2 \[**ga3**\] ADJ
 >
-> Ua2-kai7 ou7ni5 **pi6** leu2-kai7 (**ka2**) ho6tsia’8.
+> ua⁵³kai¹¹ ou¹¹ni⁵⁵ **pi³⁵** lɯ⁵³kai¹¹ (**ka⁵³**) ho³⁵tsiaʔ⁵
 >
-> Ua2-gai7 ou7ni5 **bi6** le2-gai7 (**ga2**) ho6ziah8.
+> Ua2-gai5(7) ou7ni5 **bi2(6)** le2-gai5(7) (**ga3(2)**) ho2(6)ziah8.
 >
 > 我個 芋泥 *比* 汝個 (*較*) 好食。
 >
@@ -55,17 +62,18 @@ This comparative is similar to the comparative in Mandarin, and may be influence
 >
 > My yam paste, when compared to yours, tastes better.
 
-*Ka3* is optional, and comes before the adjective. *Ka3* can also be used by itself, see below.
+*Ga3* is optional, and comes before the adjective. *Ga3* can also be used by
+itself, see below.
 
-### *zu2*•*ru2*•愈, *keng3*•*gêng3*•敬, and *zu6keng3*•*ru6gêng3*•愈敬
+### *ru2* • 愈, *gêng3* • 敬, and *ru2(6)gêng3* • 愈敬
 
 Unlike the preceding, these are used in apposition:
 
-> NOUN1 ADJ; NOUN2 **zu6keng3** ADJ
+> NOUN1 ADJ; NOUN2 **ru2(6)gêng3** ADJ
 >
-> Leu2kai7 ou7ni5 ho6tsia’4; ua2kai7 **zu6**(**keng2**) ho6tsia’4.
+> lɯ⁵³kai¹¹ ou¹¹ni⁵⁵ ho³⁵tsiaʔ⁵ / ua⁵³kai¹¹ **zu³⁵**(**keŋ⁵³**) ho³⁵tsiaʔ⁵.
 >
-> Le2gai7 ou7ni5 ho6ziah4; ua2gai7 **ru6**(**gêng2**) ho6ziah4.
+> Le2gai5(7) ou7ni5 ho2(6)ziah8; ua2gai5(7) **ru2(6)**(**gêng3(2)**) ho2(6)ziah8.
 >
 > 汝個 芋泥 好食；我個 *愈*（*敬*） 好食。
 >
@@ -73,13 +81,16 @@ Unlike the preceding, these are used in apposition:
 >
 > Your yam paste is tasty; my yam paste is even tastier.
 
-In this example, the second part omits *ou7ni5* “yam paste” because it is implied.
+In this example, the second part omits *ou7ni5* “yam paste” because it is
+implied.
 
-If the topic being compared is understood, e.g. from context or non-verbal cues, it can be omitted. For example, if someone has just heard another person sing the praises of his competitor’s yam paste, he might say indignantly:
+If the topic being compared is understood, e.g. from context or non-verbal
+cues, it can be omitted. For example, if someone has just heard another person
+sing the praises of his competitor’s yam paste, he might say indignantly:
 
-> Ua2-kai7 **zu6keng2** ho2!
+> ua⁵³kai¹¹ **zu³⁵keŋ⁵³** ho⁵³
 >
-> Ua2-gai7 **ru6gêng2** ho2!
+> Ua2-gai5(7) **ru2(6)gêng3(2)** ho2!
 >
 > 我個 *愈敬* 好！
 >
@@ -87,15 +98,16 @@ If the topic being compared is understood, e.g. from context or non-verbal cues,
 >
 > Mine is even better!
 
-### *iou6*•*iou6*•夭 and *ka3*•*ga3*•較
+### *iou6* • 夭 and *ga3* • 較
 
-Like *zu2*, these can also be used in apposition, or with a single noun where the other thing it is being compared with is understood from the context.
+Like *ru2*, these can also be used in apposition, or with a single noun where
+the other thing it is being compared with is understood from the context.
 
 > \[NOUN1 ADJ\]; NOUN2 **iou6** ADJ
 >
-> I1-kai7 ou7ni5 **iou6** tiam5.
+> i³³kai¹¹ ou¹¹ni⁵⁵ **iou³⁵** tiam⁵⁵
 >
-> I1-gai7 ou7ni5 **iou6** diam5.
+> I1-gai5(7) ou7ni5 **iou6** diam5.
 >
 > 伊個 芋泥 *夭* 甜。
 >
@@ -105,9 +117,9 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > \*\*\*
 >
-> I1 tseu2-kai7 ou7ni5 **ka2** ho6tsia’4.
+> i³³ tsɯ⁵³kai¹¹ ou¹¹ni⁵⁵ **ka⁵³** ho³⁵tsiaʔ⁵
 >
-> I1 ze2-gai7 ou7ni5 **ga2** ho6ziah4.
+> I1 ze2-gai5(7) ou7ni5 **ga3(2)** ho2(6)ziah8.
 >
 > 伊 煮個 芋泥 *較* 好食。
 >
@@ -115,19 +127,20 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > The yam paste that he cooks is tastier.
 
-### *iar5*•*ian5*•贏 and *su1*•*su1*•輸
+### *ian5* • 贏 and *su1* • 輸
 
-*Iar5* and *su1* are unlike the preceding because they do not require an adjective.
+*Ian5* and *su1* are unlike the preceding because they do not require an
+adjective.
 
-> NOUN1 **iar5** NOUN2
+> NOUN1 **ian5** NOUN2
 
 -or-
 
 > NOUN2 **su1** NOUN1
 
-> Ua2-kai7 ou7ni5 **iar5** leu2-kai7.
+> ua⁵³kai¹¹ ou¹¹ni⁵⁵ **ĩã¹¹** lɯ⁵³kai⁵⁵
 >
-> Ua2-gai7 ou7ni5 **ian5** le2-gai7.
+> Ua2-gai5(7) ou7ni5 **ian5(7)** le2-gai5(7).
 >
 > 我個 芋泥 *贏* 你個。
 >
@@ -137,9 +150,9 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > \*\*\*
 >
-> Leu2 tseu6tsia’8 **su1** ua3.
+> lɯ⁵³ tsɯ³⁵tsiaʔ⁵ **su³³** ua⁵³
 >
-> Le2 ze6ziah8 **su1** ua3.
+> Le2 ze2(6)ziah8 **su1** ua2.
 >
 > 汝 煮食 *輸* 我。
 >
@@ -147,11 +160,11 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 >
 > Your cooking is inferior to mine.
 
-*Iar5* can also be suffixed with *kue3*, but *su1* cannot.
+*Ian5* can also be suffixed with *guê3*, but *su1* cannot.
 
-> Ua2-kai7 ou7ni5 **iar7kue5** leu2-kai7.
+> ua⁵³kai¹¹ ou¹¹ni⁵⁵ **ĩã¹¹kue⁵⁵** lɯ⁵³kai¹¹
 >
-> Ua2-gai7 ou7ni5 **ian7guê5** le2-gai7.
+> Ua2-gai7 ou7ni5 **ian5(7)guê3(5)** le2-gai7.
 >
 > 我個 芋泥 *贏過* 汝個。
 >
@@ -161,7 +174,7 @@ Like *zu2*, these can also be used in apposition, or with a single noun where th
 
 This construction is also capable of emphatic brevity:
 
-> Ua2 **iar5** leu3; leu2 **su1** ua3.
+> ua⁵³ **ĩã⁵⁵** lɯ⁵²; lɯ⁵² **su³³** ua²¹³
 >
 > Ua2 **ian5** le3; le2 **su1** ua3.
 >
@@ -172,15 +185,15 @@ This construction is also capable of emphatic brevity:
 Equality constructions
 ----------------------
 
-### *ka’8*•*gah8*•佮 + *per7ier7*•*bên7iên7*•平樣
+### *gah8* • 佮 + *bên5(7)iên7* • 平樣
 
 This is used to compare two noun phrases:
 
-> NOUN1 **ka’2** NOUN2 **per7ier7**
+> NOUN1 **gah8** NOUN2 **bên5(7)iên7**
 >
-> Leu2-kai7 ou7ni5 ko’8 lo’4 teu1iu5 tsiu2 **ka’6** ua2-kai7 **per7ier7**.
+> lɯ⁵³kai¹¹ ou¹¹ni⁵⁵ koʔ⁸ loʔ² tɯ³³iu⁵⁵ tsiu¹¹ **kahʔ⁵³** ua⁵³kai¹¹ **pẽ¹¹ĩẽ¹¹**
 >
-> Le2-gai7 ou7ni5 goh8 loh4 de1iu5 ziu2 **gah6** ua2-gai7 **pên7iên7**.
+> Le2-gai5(7) ou7ni5 goh4(8) loh8(4) de1iu5 ziu6(7) **gah8(4)** ua2-gai5(7) **pên5(7)iên7**.
 >
 > 汝個 芋泥 閣 落 豬油 就 *佮* 我個 *平樣*。
 >
@@ -190,9 +203,9 @@ This is used to compare two noun phrases:
 >
 > \*\*\*
 >
-> I1-eng7-kai7 to1 **ka’6** ua2-kai7 **per7ier7**.
+> i³³ eŋ¹¹ kai¹¹ to³³ **kaʔ²** ua⁵³kai¹¹ pẽ¹¹ĩẽ¹¹
 >
-> I1-êng7-gai7 do1 **gah6** ua2-gai7 **bên7iên7**.
+> I1-êng7-gai5(7) do1 **gah8(4)** ua2-gai5(7) **bên5(7)iên7**.
 >
 > 伊用個 刀 *佮* 我個 *平樣*。
 >
@@ -203,11 +216,11 @@ This is used to compare two noun phrases:
 Superlative constructions
 -------------------------
 
-### *tsing1*•*zing1*•真 “very” + ADJ
+### *zing1* • 真 “very” + ADJ
 
-> Leu2 tso7-kai7 ku6tshai2kue2 ia7-si7 **tsing1**ho2.
+> lɯ⁵³ tso¹¹kai¹¹ ku³⁵tsʰai⁵³kue⁵³ ia¹¹si¹¹ **tsiŋ³³**ho⁵³
 >
-> Le2 zo7-gai7 gu6cai2guê2 ia7-si7 **zing1**ho2.
+> Le2 zo6(7)-gai7 gu2(6)cai3(2)guê2 ia7-si7 **zing1**ho2.
 >
 > 汝 做個 韭菜粿 亦是 *真*好。
 >
@@ -215,11 +228,11 @@ Superlative constructions
 >
 > Your garlic chives kuih are also very good.
 
-### *ho’4*•*hoh4*•酷 “very” + ADJ
+### *hoh4* • 酷 “very” + ADJ
 
-> Ua2 **ho’4**-ku2 bo7 tsia’8tie’4 tsie2ser1 phang1 kai7 ku6tshai2kue2.
+> ua⁵³ **hoʔ⁸**ku⁵³ bo¹¹ tsiaʔ²tieʔ² tsie⁵³sẽ³³ pʰaŋ³³ kai¹¹ ku³⁵tsʰai⁵³kue⁵³
 >
-> Ua2 **hoh4**-gu2 bho7 ziah8diêh4 ziê2sên1 pang1 gai7 gu6cai2guê.
+> Ua2 **hoh4(8)**-gu2 bho5(7) ziah8(4)diêh4 ziê3(2)sên1 pang1 gai5(7) gu2(6)cai3(2)guê2.
 >
 > 我 酷久 無 食着 照生 香 個 韭菜粿。
 >
@@ -227,15 +240,16 @@ Superlative constructions
 >
 > I haven’t had such delicious garlic chives kuih for a very long time.
 
-### *siang6*•siang7*•上 + ADJ and *siang7teng2*•*siang7dêng2*•上頂 + ADJ
+### *siang6* • 上 + ADJ and *siang6(7)dêng2* • 上頂 + ADJ
 
 “Best” or “very best”.
 
-*Siang6* is the literary pronunciation, vs. the vernacular pronunciation *tsier7* used in expressions like *mung5tsier7* 晚上 “night”.
+*Siang6* is the literary pronunciation, vs. the vernacular pronunciation
+*ziên7* used in expressions like *mung2(6)ziên7* 晚上 “night”.
 
-> Ua2 to7 tou7pang5 kai7 kang1hu6 **siang7** ho2.
+> ua⁵³ to¹¹ tou¹¹paŋ⁵⁵ kai¹¹ kaŋ³³hu³³ **siaŋ¹¹** ho⁵³
 >
-> Ua2 do7 dou7pang5 gai7 gang1hu6 **siang7** ho2.
+> Ua2 do6(7) dou5(7)bang5 gai5(7) gang1hu1 **siang6(7)** ho2.
 >
 > 我 在 廚房 個 工夫 上 好。
 >
@@ -243,13 +257,15 @@ Superlative constructions
 >
 > My skill in the kitchen is the best.
 
-### ADJ + *si2*•*si2*•死 and derivatives
+### ADJ + *si2* • 死 and derivatives
 
-Unlike the preceding superlatives, *si2* 死 follows the adjective. *Si2* 死 literally means “death”, so the figurative meaning here would be along the lines of “so superlative it knocks you dead”.
+Unlike the preceding superlatives, *si2* 死 follows the adjective. *Si2* 死
+literally means “death”, so the figurative meaning here would be along the
+lines of “so superlative it knocks you dead”.
 
-> Leu2-kai7 ku6tshai2kue2 ho6tsia’8-**si2**!
+> lɯ⁵³kai¹¹ ku³⁵tsʰai⁵³kue⁵³ ho³⁵tsiaʔ⁵ **si⁵³**
 >
-> Le2-gai7 gu6cai2guê2 ho6ziah8-**si2**!
+> Le2-gai5(7) gu2(6)cai3(2)guê2 ho2(6)ziah8-**si2**!
 >
 > 汝個 韭菜粿 好食死！
 >
@@ -259,15 +275,15 @@ Unlike the preceding superlatives, *si2* 死 follows the adjective. *Si2* 死 li
 
 An alternative is
 
-> sADJ kao2 ai2si2 – ADJ gao2 ai2si2 – ADJ 到 愛死
+> ADJ kau⁵³ ai⁵³si⁵³ – ADJ gao3(2) ai3(2)si2 – ADJ 到 愛死
 
-### ADJ + *tso’8*•*zoh8*•絕
+### ADJ + *zoh8* • 絕
 
-*Tso’8* follows the adjective, in the same manner as *si2*.
+*Zoh8* follows the adjective, in the same manner as *si2*.
 
-> Tsi6tsho’8mue’4 tshu2bi7-**tso’8**!
+> tsi³⁵tsʰoʔ²mueʔ² tsʰu⁵³bi¹¹ **tsoʔ⁵**
 >
-> Zi6coh8muêh4 cu2bhi7-**zoh8**!
+> Zi2(6)coh8(4)muêh8(4) cu3(2)bhi7-**zoh8**!
 >
 > 只撮物 趣味 *絕*！
 >
@@ -275,11 +291,11 @@ An alternative is
 >
 > These things are very amusing!
 
-It can also be combined with *gao2si2*:
+It can also be combined with *gao3(2)si2*:
 
-> Tsi6tsho’8 ku6tshai2kue2 phang1 **gao2 si6tso’8**!
+> tsiʔ³⁵tsʰoʔ⁵ ku³⁵tsʰai⁵³kue⁵³ pʰaŋ³³ **kau⁵³ si³⁵tsoʔ⁵**
 >
-> Zi6coh8 gu6cai2guê2 pang1 **gao2 si6coh8**!
+> Zi2(6)coh4(8) gu2(6)cai3(2)guê2 pang1 **gao3(2) si2(6)coh8**!
 >
 > 只撮 韭菜粿 香 到 死絕！
 >
@@ -292,13 +308,18 @@ Adverbs and adjectives of degree and quantity
 
 ### “Only”
 
-#### *tiar7/niar7*•*dian7/nian7*•爾
+#### *dian7/nian7* • 爾
 
-The character 爾 has Teochew literary pronunciation *zeu2* (Mandarin *ěr*), and is probably not etymologically the same word as *tiar7*, but is used here for its semantic value, as it has this meaning in literary Chinese. *Niar7* is the Hokkien pronunciation; *tiar7* is attested in Lim (1886). It can also be reduplicated, i.e. *tiar7tiar7*. *Tiar7* is a particle that comes at the end of a clause or sentence.
+The character 爾 has Teochew literary pronunciation *re2* (Mandarin *ěr*), and
+is probably not etymologically the same word as *dian7*, but is used here for
+its semantic value, as it has this meaning in literary Chinese. *Nian7* is the
+Hokkien pronunciation; *dian7* is attested in Lim (1886). It can also be
+reduplicated, i.e. *dian7dian7*. *Dian7* is a particle that comes at the end of
+a clause or sentence.
 
-> Ua2 tseu6 ou7ni5 u7-lo’4 puar2pue1 tsui2 **tiar7**.
+> ua⁵³ tsɯ³⁵ ou¹¹ni⁵⁵ u¹¹ loʔ² pũã⁵³pue³³ tsui⁵³ **tĩã¹¹**
 >
-> Ua2 ze6 ou7ni5 u7-loh4 buan2buê1 zui2 **tiar7**.
+> Ua2 ze2(6) ou7ni5 u6(7)-loh8(4) buan3(2)buê1 zui2 **dian7**.
 >
 > 我 煮 芋泥 有落 半杯 水 *爾*。
 >
@@ -306,13 +327,13 @@ The character 爾 has Teochew literary pronunciation *zeu2* (Mandarin *ěr*), an
 >
 > I only added half a cup of water when cooking yam paste.
 
-#### *tuar1tuar1*•*duan1duan1*•單單
+#### *duan1duan1* • 單單
 
-Unlike *tiar7*, *tuar1tuar1* comes before a verb or adjective.
+Unlike *dian7*, *duan1duan1* comes before a verb or adjective.
 
-> Ua2 tseu6 ou7ni5 **tuar1tuar1** lo’4 puar2pue1 tsui2.
+> ua⁵³ tsɯ³⁵ ou¹¹ni⁵⁵ **tũã³³tũã³³** loʔ² pũã⁵³pue³³ tsui⁵³
 >
-> Ua2 ze6 ou7ni5 **duan1duan1** loh4 buan2buê1 zui2.
+> Ua2 ze2(6) ou7ni5 **duan1duan1** loh8(4) buan3(2)buê1 zui2.
 >
 > 我 煮 芋泥 單單 落 半杯 水。
 >
@@ -322,13 +343,15 @@ Unlike *tiar7*, *tuar1tuar1* comes before a verb or adjective.
 
 ### “A few”, “several”
 
-#### *kui2*•*gui2*•幾 or *kua2*•*gua2*•幾
+#### *gui2* • 幾 or *gua2* • 幾
 
-In addition to being an interrogative (“how many”, see [“Questions”]({{ site.baseurl }}{% link pages/questions.md %})), *kui2* can also mean “a few”, and is used similarly to its Mandarin cognate *jǐ*.
+In addition to being an interrogative (“how many”, see
+[“Questions”]({{ site.baseurl }}{% link pages/questions.md %})), *gui2* can also
+mean “a few”, and is used similarly to its Mandarin cognate *jǐ*.
 
-> I1 tsi2kai7 loi6pai3 u7-tsia’4 **kui6**-ua2 ou7ni5 lou7.
+> i³³ tsi³⁵kai¹¹ loi³⁵pai²¹³ u¹¹ tsiaʔ² **kui³⁵** ua⁵³ ou¹¹ni⁵⁵ lou¹¹
 >
-> I1 zi2gai7 loi6bai3 u7-ziah4 **gui6**-ua2 ou7ni5 lou7.
+> I1 zi2(6)gai5(7) loi2(6)bai3 u6(7)-ziah8(4) **gui2(6)**-ua2 ou7ni5 lou7.
 >
 > 伊 只個 禮拜 有食 *幾*碗 芋泥 路。
 >
@@ -336,11 +359,12 @@ In addition to being an interrogative (“how many”, see [“Questions”]({{ 
 >
 > He has eaten several bowls of yam paste this week.
 
-If *kui2* is used in a question, *kua2* is used in the (not very informative) reply.
+If *gui2* is used in a question, *gua2* is used in the (not very informative)
+reply.
 
-> A: Ning2 ai2 kui6-ua2 ou7ni5? B: Uang2 ai2 **kua6**-ua2.
+> A: / niŋ⁵³ ai⁵³ kui³⁵ua⁵³ ou¹¹ni⁵⁵ / B: / uaŋ⁵³ ai⁵³ **kua³⁵**ua⁵³ /
 >
-> A: Ning2 ai2 gui6-ua2 ou7ni5? B: Uang2 ai2 **gua6**-ua2.
+> A: Ning2 ai3(2) gui2(6)-ua2 ou7ni5? B: Uang2 ai3(2) **gua2(6)**-ua2.
 >
 > 甲：恁 愛 幾碗 芋泥？乙：阮 愛 *幾*碗。
 >
@@ -348,13 +372,14 @@ If *kui2* is used in a question, *kua2* is used in the (not very informative) re
 >
 > A: How many bowls of yam paste do you want? B: We want a few bowls.
 
-*Kua2* meaning “a few” is also written as 寡.
+*Gua2* meaning “a few” is also written as 寡.
 
-*Kui2/kua2* can also be used to indicate an estimate of a number. In that case *kui2/kua2* comes after the numeral, like in English “ten-odd” (about ten):
+*Gui2/gua2* can also be used to indicate an estimate of a number. In that case
+*gui2/gua2* comes after the numeral, like in English “ten-odd” (about ten):
 
-> I1 tsion7-kai7 loi6pai3 u7-tsia’4 tsap4-**kua6** ua2 ou7ni5.
+> i³³ tsĩõ¹¹kai¹¹ loi³⁵pai²¹³ u¹¹tsiaʔ² tsap²**kua³⁵** ua⁵³ ou¹¹ni⁵⁵
 >
-> I1 zion7-gai7 loi6bai3 u7-ziah4 zap4-**gua6** ua2 ou7ni5.
+> I1 zion7-gai5(7) loi2(6)bai3 u6(7)-ziah8(4) zap8(4)-**gua2(6)** ua2 ou7ni5.
 >
 > 伊 上個 禮拜 有食 十*幾* 碗 芋泥。
 >
@@ -366,13 +391,14 @@ If *kui2* is used in a question, *kua2* is used in the (not very informative) re
 
 The following are used for uncountable or mass nouns:
 
-#### *tam7po’8*•*dam7boh8*•淡薄
+#### *dam7boh8* • 淡薄
 
-According to Li (1991) this is a regional word used in Singapore/Malaysia but not in mainland Teochew.
+According to Li (1991) this is a regional word used in Singapore/Malaysia but
+not in mainland Teochew.
 
-> Lo’4 go’8 **tam7po’4** iam5 ia7 oi7sai2.
+> loʔ² goʔ⁵ **tam¹¹poʔ²** iam⁵⁵ ia¹¹ oi¹¹sai⁵³
 >
-> Loh4 goh8 **dam7boh4** iam5 ia7 oi7sai2.
+> Loh8(4) goh8 **dam7boh8(4)** iam5 ia7 oi6(7)sai2.
 >
 > 落 閣 *淡薄* 鹽 亦 會使。
 >
@@ -380,11 +406,11 @@ According to Li (1991) this is a regional word used in Singapore/Malaysia but no
 >
 > A bit more salt wouldn’t hurt.
 
-#### *ti’8kiar2*•*dih8gian2*•滴囝 / *tsek4ti’8kiar2*•*zêg4dih8gian2*•一滴囝
+#### *dih4(8)gian2* • 滴囝 / *zêg4dih4(8)gian2* • 一滴囝
 
-> Leu2 eng7 **tsek4ti’8kiar2** tiar7, ti7ko5 u7 kau7?
+> lɯ⁵³ eŋ¹¹ **tsek²tiʔ⁵kĩã⁵³** tĩã¹¹ / ti¹¹ko⁵⁵ u¹¹ kau¹¹
 >
-> Le2 êng7 **zêg4dih8gian2** dian7, di7go5 u7 gau7?
+> Le2 êng7 **zêg8(4)dih4(8)gian2** dian7, di7go5(7) u6(7) gau7?
 >
 > 汝 用 *一滴囝* 爾，哋塊 有 夠？
 >
@@ -392,15 +418,17 @@ According to Li (1991) this is a regional word used in Singapore/Malaysia but no
 >
 > How does the little bit that you used suffice?
 
-To emphasize how little it is one might use reduplication and say *ti’8ti’8kiar2*.
+To emphasize how little it is one might use reduplication and say
+*dih4(8)dih4(8)gian2*.
 
-#### *mi’4*•*mih4*•乜
+#### *mih4* • 乜
 
-An adverb meaning “a little bit”. Its negative form is *bo7mi’4*•*bho7mih4*•無乜 “not much”.
+An adverb meaning “a little bit”. Its negative form is *bho5(7)mih4* 無乜 “not
+much”.
 
-> Tang7si7 tshuk4kheu3 gua7khau2 tsiu7 **bo7mi’4** eng6.
+> taŋ¹¹si¹¹ tsʰuk²kʰɯ²¹³ gua¹¹kʰau⁵³ tsiu¹¹ bo¹¹miʔ² eŋ³⁵
 >
-> Dang7si7 cug4ke3 ghua7kao2 ziu7 **bho7mih4** êng6.
+> Dang6(7)si6(7) cug8(4)ke3 ghua7kao2 ziu6(7) **bho5(7)mih4** êng6.
 >
 > 但是 出去 外口 就 無乜 用。
 >
@@ -412,11 +440,11 @@ An adverb meaning “a little bit”. Its negative form is *bo7mi’4*•*bho7mi
 
 ### “Enough”
 
-#### *kau3*•*gao3*•夠
+#### *gao3* • 夠
 
-> Leu2 u7-lo’4 **kau2** iam5 bo5?
+> lɯ⁵³ u¹¹loʔ² **kau⁵³** iam⁵⁵ bo⁵⁵
 >
-> Le2 u7-loh4 **gau2** iam5 bho5?
+> Le2 u6(7)-loh8(4) **gao3(2)** iam5 bho5?
 >
 > 汝 有落 *夠* 鹽 無？
 >
@@ -424,11 +452,11 @@ An adverb meaning “a little bit”. Its negative form is *bo7mi’4*•*bho7mi
 >
 > Have you added enough salt?
 
-#### *la6*•*la6*•𤰉
+#### *la6* • 𤰉
 
-> Puar2 theung1si5 iam5 tsiu7 **la6**-lou7.
+> pũã⁵³ tʰɯŋ³³si¹¹ iam⁵⁵ tsiu¹¹ **la³⁵**lou¹¹
 >
-> Buan2 teng1si5 iam5 ziu7 **la6**-lou7.
+> Buan3(2) teng1si5(7) iam5 ziu6(7) **la6**-lou7.
 >
 > 半 湯匙 鹽 就 *𤰉* 𡀔。
 >
@@ -438,31 +466,31 @@ An adverb meaning “a little bit”. Its negative form is *bo7mi’4*•*bho7mi
 >
 > \*\*\*
 >
-> Tsi2-ti’8kiar2 ti7ko5-u7 tsia’8 oi7 la6?
+> tsi⁵³ tiʔ⁵kĩã⁵³mueʔ⁵ ti¹¹ko¹¹ u¹¹ tsiaʔ² oi¹¹ **la³⁵**
 >
-> Zi2-dih8gian2 di7go5-u7 ziah8 oi7 la6?
+> Zi2-dih4(8)gian2(6)muêh8 di7go5(7)-u6(7) ziah8(4) oi6(7) la6?
 >
-> 只滴囝 哋塊 有 食 會 *𤰉*？
+> 只滴囝物 哋塊 有 食 會 *𤰉*？
 >
-> This-little-bit where have eat can **enough**?
+> This-little-bit-thing where have eat can **enough**?
 >
 > How can this little morsel be sufficient?
 
 ### “Many” or “a lot”
 
-#### *tsoi7*•*zoi7*•濟
+#### *zoi7* • 濟
 
 Also written 㩼.
 
 ### “Too much”
 
-#### *kha’4*•*kah4*•佮 + ADJ
+#### *kah4* • 佮 + ADJ
 
-Similar to Mandarin *tài* 太. Same character as *ka’4* (see above).
+Similar to Mandarin *tài* 太. Same character as *gah4* (see above).
 
-> No7-pue1 teu1iu5 **kha’8**-tsoi7-lou7!
+> no¹¹pue³³ tɯ³³iu⁵⁵ **kʰa⁵** tsoi¹¹ lou¹¹
 >
-> No7-buê1 de1iu5 **kah8**-zoi7-lou7!
+> No6(7)-buê1 de1iu5 **kah4(8)**-zoi7-lou7!
 >
 > 兩杯 豬油 *佮*濟𡀔！
 >
@@ -470,11 +498,11 @@ Similar to Mandarin *tài* 太. Same character as *ka’4* (see above).
 >
 > Two cups of lard is already too much!
 
-#### *kue2thau5*•*guê2tao5*•過頭 + ADJ
+#### *guê3(2)tao5* • 過頭 + ADJ
 
-> Leu2-kai7 ou7ni5 **kue2thau7** tiam5.
+> lɯ⁵³kai¹¹ ou¹¹ni⁵⁵ **kue⁵³tʰau¹¹** tiam⁵⁵
 >
-> Le2-gai7 ou7ni5 **guê2tau7** diam5.
+> Le2-gai5(7) ou7ni5 **guê3(2)tao5(7)** diam5.
 >
 > 汝個 芋泥 *過頭* 甜。
 >
@@ -484,11 +512,11 @@ Similar to Mandarin *tài* 太. Same character as *ka’4* (see above).
 
 ### “Everything”, "all"
 
-#### *tshuang7pou6*•*cuang7bou6*•全部
+#### *cuang5(7)bou6* • 全部
 
-> Ua2-kai7 ou7ni5 **tshuang7pou6** khoi’4-nang5 khio’8-kheu3.
+> ua⁵³kai¹¹ ou¹¹ni⁵⁵ **tsʰuaŋ¹¹pou³⁵** kʰoiʔ²nang¹¹ kʰioʔ⁵ kʰɯ²¹³
 >
-> Ua2-gai7 ou7ni5 **cuang7bou6** koih4-nang5 kioh8-ke3.
+> Ua2-gai5(7) ou7ni5 **cuang5(7)bou6** koih8(4)-nang5(7) kioh8-ke3.
 >
 > 我個 芋泥 全部 乞儂 挈去。
 >
@@ -496,13 +524,14 @@ Similar to Mandarin *tài* 太. Same character as *ka’4* (see above).
 >
 > All of my yam paste has been taken by other people.
 
-#### *long6tsong2*•*long6zong2*•攏總 or *long6*•*long6*•攏
+#### *long2(6)zong2* • 攏總 or *long2* • 攏
 
-Probably loaned from Hokkien, although common. Mainland Teochew uses tshuang7pou6 more often.
+Probably loaned from Hokkien, although common. Mainland Teochew uses
+*cuang5(7)bou6* more often.
 
-> Leu2 tsier2 hu6thu5, nang7 long6tsong3 kie2 ua6 tso2 Zik4thau7-Ia5, thih1-e6 si7 ua6 siang7 ting2tua7
+> lɯ⁵³ tsĩẽ⁵³ hu¹¹tʰu⁵⁵ / naŋ¹¹ loŋ³⁵tsoŋ³⁵ kie⁵³ ua³⁵ tso⁵³ zik²tʰau¹¹ ia⁵⁵ / tʰĩ³³e³⁵ si¹¹ ua³⁵ siaŋ¹¹ tiŋ⁵³tua¹¹
 >
-> Le2 ziên2 hu6tu5, nang7 long6zong3 giê2 ua6 zo2 Rig4tao7-Ia5, tin1-ê6 si7 ua6 siang7 ding2dua7
+> Le2 ziên3(2) hu5(7)tu5, nang5(7) long2(6)zong2(6) giê3(2) ua2(6) zo3(2) Rig8(4)tao5(7)-Ia5, tin1-ê6 si6(7) ua2(6) siang6(7) ding2dua7
 >
 > 汝 照 糊塗， 儂 攏總 叫 我 做 日頭爺， 天下 是 我 上 頂大
 >
@@ -514,11 +543,12 @@ Probably loaned from Hokkien, although common. Mainland Teochew uses tshuang7pou
 
 ### “About”
 
-An approximate number, where the lower limit is known, is indicated with a suffix *gua7* that comes directly after the number:
+An approximate number, where the lower limit is known, is indicated with a
+suffix *ghua7* that comes directly after the number:
 
-> I1 king1ni5 u7 lak4tsap4-gua7-hue7.
+> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² gua¹¹ hue¹¹
 >
-> I1 ging1ni5 u7 lag4zab4-ghua7 huê7.
+> I1 ging1ni5 u6(7) lag8(4)zab8(4)-ghua7 huê7.
 >
 > 伊 經年 有 六十外 歲。
 >
@@ -526,11 +556,12 @@ An approximate number, where the lower limit is known, is indicated with a suffi
 >
 > He’s just over sixty this year.
 
-The expression *tso6iu6* 左右 is not applied directly after the number, but after the countable noun.
+The expression *zo2(6)iu6* 左右 is not applied directly after the number, but
+after the countable noun.
 
-> I1 king1ni5 u7 lak4tsap4-hue7 tso6iu6.
+> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² hue¹¹ tso³⁵iu³⁵
 >
-> I1 ging1ni5 u7 lag4zab4-huê7 zo6iu6.
+> I1 ging1ni5 u6(7) lag8(4)zab8(4)-huê7 zo2(6)iu6.
 >
 > 伊 經年 有 六十歲 左右。
 >
@@ -546,4 +577,4 @@ References and further reading
 
 <hr />
 
-[^1]: Authentic yam paste is made with lard (*teu1iu5* 豬油 or *la5* 膋) and garnished with ginkgo nuts (*pe’4kue2* 白果). Accept no substitutes.
+[^1]: Authentic yam paste is made with lard (*de1iu5* 豬油 or *la5* 膋) and garnished with ginkgo nuts (*bêh8(4)guê2* 白果). Accept no substitutes.
