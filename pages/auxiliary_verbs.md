@@ -157,7 +157,8 @@ understood:
 >
 > A: Yes you **must** \[brush your teeth\].
 
-Modality can also be expressed through adverbs, e.g. “certainly”, “surely” (see below).
+Modality can also be expressed through adverbs, e.g. “certainly”, “surely” (see
+below).
 
 One characteristic of modal verbs in Teochew and Southern Min langauges is that
 many of them have special negative forms (see
@@ -316,6 +317,8 @@ position to do something”). Compare to *oi6(7)hiao2* and *oi6(7)sai2* above.
 
 ### ai3 愛 / mai3 莫 • “want”, “will”
 
+These are also written with the characters 欲 ai3 and 勿 mai3 in many texts.
+
 > ua⁵³ **ai⁵³** saŋ⁵³ tsi³⁵tiou¹¹ hɯ⁵⁵ kʰoiʔ² lɯ⁵³
 >
 > Ua2 **ai3(2)** sang3(2) zi2(6)diou5(7) he5 koih8(4) le2.
@@ -340,7 +343,9 @@ position to do something”). Compare to *oi6(7)hiao2* and *oi6(7)sai2* above.
 
 ### diêh8 着 / mêng2 免 • “should”, “must”
 
-Among other functions (see [“Verbal complements”]({{ site.baseurl }}{% link pages/verbal_complements.md %})), diêh8 着 has the modal meanings of “should” or “must”.
+Among other functions (see
+[“Verbal complements”]({{ site.baseurl }}{% link pages/verbal_complements.md %})),
+diêh8 着 has the modal meanings of “should” or “must”.
 
 > naŋ⁵³ e¹¹loi³⁵pai²¹³ **tieʔ²** kaʔ⁵ a¹¹meŋ⁵⁵ tsiaʔ² tsa³⁵tsʰaŋ³³
 >
