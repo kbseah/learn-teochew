@@ -259,6 +259,7 @@ start without a consonant, e.g. /ue/ 話 “speech”.
 uêng
 uêg
 -->
+
 Tones
 -----
 
@@ -318,9 +319,9 @@ affects the preceding syllable in a series of syllables.
 
 A few rules may help in remembering how some of the tones should change:
 
--   Medium-level (1) and low-level (7) do not change
--   The entering tones (4 and 8) interchange
--   The low 陽 tones (5, 6, 7, 8) all become low (7, or 4 in the case of 8)
+ * Medium-level (1) and low-level (7) do not change
+ * The entering tones (4 and 8) interchange
+ * The low 陽 tones (5, 6, 7, 8) all become low (7, or 4 in the case of 8)
 
 However, deciding what constitutes a series is not easy. Syllables in a
 polysyllabic word will certainly undergo sandhi. Sandhi stops at phrase and
@@ -352,49 +353,65 @@ another.
 
 ### Guangdong Peng’im
 
--   Published by the Guangdong Provincial Education Department in 1960. Served
-    as the basis for Gaginang Peng’im, used by the Gaginang online community.
--   Distinguishes between aspirated and unaspirated consonants with e.g.
-    \[p\]/\[b\], \[t\]/\[d\], \[k\]/\[g\], similarly to Hanyu Pinyin. In IPA,
-    these symbols would represent unvoiced/voiced pairs.
--   Glottal stop final is represented by “-h”, like Peh-oi-ji.
--   /z/ or /dz/ is represented by \[r\]
--   /ɯ/ or /ʏ/ is represented by \[e\]; /e/ by \[ê\].
--   Nasalized vowels are marked by adding \[-n\], e.g. \[ain\] (IPA: /ãĩ/).
--   Tones represented by numbers 1 through 8.
+ * Published by the Guangdong Provincial Education Department in 1960.
+ * Used in most works on Teochew published in mainland China.
+ * Distinguishes between aspirated and unaspirated consonants with e.g.
+   \[p\]/\[b\], \[t\]/\[d\], \[k\]/\[g\], similarly to Hanyu Pinyin. In IPA,
+   these symbols would represent unvoiced/voiced pairs.
+ * Glottal stop final is represented by “-h”, like Peh-oi-ji.
+ * /z/ or /dz/ is represented by \[r\]
+ * /ɯ/ or /ʏ/ is represented by \[e\]; /e/ by \[ê\].
+ * Nasalized vowels are marked by adding \[-n\], e.g. \[ain\] (IPA: /ãĩ/).
+ * Tones represented by numbers 1 through 8.
 
 ### Duffus (1883) and Fielde (1883)
 
--   Developed by Christian missionaries for translating Bibles and Christian
-    texts into Teochew/Swatow. Both systems are similar to each other, and
-    appear to be based on the Peh-oi-ji system, also developed by missionaries,
-    for Hokkien. The system used by Lim (1886) is similar to that of Duffus.
--   Aspirated consonants marked by adding \[-h\], e.g. \[ph\] (IPA: /pʰ/). 
--   Duffus (1883) preserves the distinction between /ts/ (written as \[ts\]) and
-    /tʃ/ (written as \[c\]), and their aspirated forms /tsʰ/ (\[ch\]) and /tʃʰ/
-    (\[chh\]). These were later merged into /ts/ and /tsʰ/ by Teochew speakers
-    in the late 19th century (Xu, 2013).
--   /z/ is represented by \[j\] or \[z\]
--   /ɯ/ or /ʏ/ are represented by \[ṳ\]
--   Fielde (1883) uses \[w\] to represent /ua/ in some syllables, \[o\] for /ou/,
-    and \[o̤\] for /o/.
--   Nasalized vowels marked with superscript n, e.g. \[aiⁿ\] (IPA: /ãĩ/)
--   Preserves final /-t/ and /-n/ that were lost in 20th century Teochew.
-    Guangdong Peng'im cannot write /-n/ finals because it already uses [-n] to
-    represent nasalization.
--   Tones represented by accent marks.
--   Syllables that join words or phrases that result in tone change (sandhi)
-    are joined by hyphens.
--   Verb complements and particles that do not result in tone change of the
-    preceding syllable are joined by double hyphens (in Duffus’s system)
+ * Developed by Christian missionaries for translating Bibles and Christian
+   texts into Teochew/Swatow. Both systems are similar to each other, and
+   appear to be based on the Peh-oi-ji system, also developed by missionaries,
+   for Hokkien. The system used by Lim (1886) is similar to that of Duffus.
+ * Used in missionary works and Bible translations published in the 19th
+   century.
+ * Aspirated consonants marked by adding \[-h\], e.g. \[ph\] (IPA: /pʰ/). 
+ * Duffus (1883) preserves the distinction between /ts/ (written as \[ts\]) and
+   /tʃ/ (written as \[c\]), and their aspirated forms /tsʰ/ (\[ch\]) and /tʃʰ/
+   (\[chh\]). These were later merged into /ts/ and /tsʰ/ by Teochew speakers
+   in the late 19th century (Xu, 2013).
+ * /z/ is represented by \[j\] or \[z\]
+ * /ɯ/ or /ʏ/ are represented by \[ṳ\]
+ * Fielde (1883) uses \[w\] to represent /ua/ in some syllables, \[o\] for /ou/,
+   and \[o̤\] for /o/.
+ * Nasalized vowels marked with superscript n, e.g. \[aiⁿ\] (IPA: /ãĩ/)
+ * Preserves final /-t/ and /-n/ that were lost in 20th century Teochew.
+   Guangdong Peng'im cannot write /-n/ finals because it already uses \[-n\] to
+   represent nasalization.
+ * Tones represented by accent marks.
+ * Syllables that join words or phrases that result in tone change (sandhi)
+   are joined by hyphens.
+ * Verb complements and particles that do not result in tone change of the
+   preceding syllable are joined by double hyphens (in Duffus’s system)
 
 ### Other systems
 
--   Gaginang Pengim is used by the Gaginang online portal and associated online
-    communities.
--   Teochew Romanization System of the Teochew Association for Orthoepy and
-    Orthography is also used in some online forums and communities, but more
-    similar to the missionary systems and Peh-oi-ji.
+ * [Gaginang Peng’im](https://web.archive.org/web/20120206231733/http://www.gaginang.org/teochew/pengim-guide.html)
+   is used by the Gaginang online portal and associated online communities,
+   mostly by diaspora Teochews. It is similar to Guangdong Peng’im, e.g. using
+   \[ao\] for /au/, \[-n\] for nasalization, \[p\]/\[b\]/\[bh\] for
+   aspirated/unaspirated/voiced. Differences from Guangdong Peng’im:
+     * Initials: \[j\] for /ts/, \[y\] for /dz/, \[ch\] for /tsʰ/
+     * Vowels: \[eu\] for /ɯ/
+     * Stops: \[-p\] for /p/, \[-k\] for /-k/, and \[-t\] for /-t/
+     * Tone marks: \[a\], \[à\], \[ă\], \[ak\], \[ā\], \[á\], \[ạ\], \[āk\]
+ * Teochew Romanization System of the [Teochew Tsiann-im Tsiann-zi Tshok-tsin-hue](http://teochew.pw) 
+   (Teochew Association for Orthoepy and Orthography) is used in several
+   online communities of Teochews in mainland China. It is similar to the
+   missionary systems and Peh-oi-ji, e.g. in the tone marks, use of hyphens,
+   and preservation of final \[-t\]. Differences from the Duffus system:
+     * Initials: \[z\] for /dz/
+     * Vowels: \[ur\] for /ɯ/
+     * Nasalization shown by suffix \[-nn\]
+ * The textbook *Spoken Swatow* (Koons and Koons, [1967] 2016) uses a phonetic
+    system based on *Manual of Articulatory Phonetics* by W. Smalley (1963). 
 
 ### Word spacing and punctuation
 
@@ -508,6 +525,28 @@ More information on the dialect phonology can be found at the website
 dialect pronunciations are also indicated in online dictionaries like
 [Mogher.com](https://www.mogher.com) and
 [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page).
+
+
+Historical changes in pronunciation
+-----------------------------------
+
+Spoken Teochew was not written with phonetic spelling until the arrival of
+Western missionaries in the 19th century. Their records of Teochew
+pronunciation allow us to see how the pronunciation has changed over the past
+two centuries. Changes include:
+
+ * Merger of /-t/ stop at the end of syllables into /-k/
+ * Merger of /-n/ ending to /-ng/
+ * Distinction between the pairs of initials /ts/ and /tʃ/, and /tsʰ/ and /tʃʰ/
+   has been lost
+
+Some of the older forms may be retained in some regions or in diaspora
+communities. Diaspora communities also experience other phonological changes in
+their speech because of influences from other languages in the wider community.
+
+The historical changes were briefly sketched by Bodman (1982), and more
+carefully reconstructed by Xu (2013).
+
 
 References and further reading
 ------------------------------
