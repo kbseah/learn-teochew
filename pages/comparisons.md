@@ -482,6 +482,35 @@ much”.
 
 Also written 㩼.
 
+#### *gê1* • 加
+
+Both zoi7 and gê1 can mean “many”. In the following quotation, both are used in
+one sentence by the same speaker:
+
+> sõĩ³³ tiaŋ³³si⁵⁵ tʰak²tsɯ³³ kai¹¹ naŋ⁵⁵ ia⁰ bo¹¹ **tsoi¹¹**
+> 
+> ... soin1 diang1si5 tag8(4)ze1 gai5(7) nang5 ia bho5(7)-**zoi7**, 
+> 
+> 先 珍時 讀書 個 儂 也 無**濟**，
+> 
+> past time study-GAI person also NEG-**many**
+> 
+> In the past, not many people went to school.
+> 
+> \*\*\*
+> 
+> tsek² paŋ³³ / siaŋ¹¹ **ke³³** / si¹¹ kau⁵² si⁵²tsap⁵ / si⁵²tsap̬⁵ gua¹¹ naŋ³³ nia⁰
+> 
+> zêg8(4)-bang1... siang6(7)-**gê1**... si6(7) gao3(2) si3(2)zab8, si3(2)zab8-ghua7 nang1 nia.
+> 
+> 一班⋯⋯ 上**加**⋯⋯ 是 到 四十、四十外 儂 爾
+> 
+> one class... most **many** ... is until forty, forty-plus person only
+> 
+> In each class were, at the most, about forty pupils.
+> 
+> [*Oral history interview with Ng Boon Tiang*](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e2078a13-115d-11e3-83d5-0050568939ad) (Accession 000223, reel 1, 11 Oct 1982, ca. 10:00)
+
 ### “Too much”
 
 #### *kah4* • 佮 + ADJ
