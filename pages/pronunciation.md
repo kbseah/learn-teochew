@@ -374,7 +374,7 @@ another.
    century.
  * Aspirated consonants marked by adding \[-h\], e.g. \[ph\] (IPA: /pʰ/). 
  * Duffus (1883) preserves the distinction between /ts/ (written as \[ts\]) and
-   /tʃ/ (written as \[c\]), and their aspirated forms /tsʰ/ (\[ch\]) and /tʃʰ/
+   /tʃ/ (written as \[ch\]), and their aspirated forms /tsʰ/ (\[tsh\]) and /tʃʰ/
    (\[chh\]). These were later merged into /ts/ and /tsʰ/ by Teochew speakers
    in the late 19th century (Xu, 2013).
  * /z/ is represented by \[j\] or \[z\]
