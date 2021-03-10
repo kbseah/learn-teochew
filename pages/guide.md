@@ -16,7 +16,7 @@ Language Guide
  * [Personal pronouns]({{ site.baseurl }}{% link pages/personal_pronouns.md %}) – You and I (and many more)
  * [Demonstrative pronouns]({{ site.baseurl }}{% link pages/demonstrative_pronouns.md %}) – This and That
  * [Terms of address]({{ site.baseurl }}{% link pages/address.md %}) – Titles, what to call relatives, common surnames
- * [Classifiers and kai5 個]({{ site.baseurl }}{% link pages/classifiers.md %})
+ * [Classifiers and *gai5* 個]({{ site.baseurl }}{% link pages/classifiers.md %})
  * [Questions]({{ site.baseurl }}{% link pages/questions.md %})
  * [Comparisons, degrees, and quantity]({{ site.baseurl }}{% link pages/comparisons.md %})
  * [Coordination]({{ site.baseurl }}{% link pages/coordination.md %}) - Joining together phrases to make

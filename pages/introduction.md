@@ -258,22 +258,22 @@ pronunciation, Teochew retains the low-rising 陽上 tone (traditionally numbere
 6, see [“Pronunciation and orthography”]({{ site.baseurl }}{% link pages/pronunciation.md %})),
 which has been lost in most other Southern Min languages. Teochew lacks
 syllables that end in the -n and -t consonants, e.g.  Hokkien *huat* 發 vs.
-Teochew *huak4*.
+Teochew *huag4*.
 
 Some high-frequency words are different between Teochew and Hokkien, for example:
 
 | Teochew  |           |           | Hokkien     |           | Meaning |
-| (FIPA)   | (Peng'im) | Character | (Peh-oi-ji) | Character |         |
+| (IPA)    | (Peng'im) | Character | (Peh-oi-ji) | Character |         |
 | ---------|-----------|-----------|-------------|-----------|---------|
-| uk8      | ug8       | 夗        | khùn        | 睏        | to sleep |
-| thoih2   | toin2     | 睇        | khòaⁿ       | 看        | to see   |
-| tar3     | dan3      | 呾        | kóng        | 講        | to say   |
-| a1ai5    | a1ai5     | 阿嬡      | lāu-bú      | 老母       | mother (third person) |
+| uk⁵      | ug8       | 夗        | khùn        | 睏        | to sleep |
+| tʰõĩ⁵²   | toin2     | 睇        | khòaⁿ       | 看        | to see   |
+| tã²¹³    | dan3      | 呾        | kóng        | 講        | to say   |
+| a³³ai⁵⁵  | a1ai5     | 阿嬡      | lāu-bú      | 老母      | mother (third person) |
 
 The word “to sleep” is also pronounced differently between different regions of
-Chaozhou: *uk8* (Teochew), *ng’8* (Swatow, Thenghai), *ih6* (Jieyang), *ih’8*
+Chaozhou: *ug8* (Teochew), *ngh8* (Swatow, Thenghai), *in6* (Jieyang), *inh8*
 (Swatow, Chaoyang) 夗. The usage of some words is also different between
-Teochew and Hokkien: *thak4tseu1* 讀書 vs. *thak4tshe’4* 讀冊 “read/study”
+Teochew and Hokkien: *tag8(4)ze1* 讀書 vs. *tag8(4)cêh4* 讀冊 “read/study”
 respectively.
 
 Future of the Teochew language

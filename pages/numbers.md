@@ -524,6 +524,4 @@ References and further reading
 
 [^1]: The title of an annoyingly catchy Hokkien song “Tsit-pah-bān”.
 
-[^2]: Similar practices were found around the world before industrialization
-  and mechanical time-keeping. The Romans, for example, divided the night into
-  four watches (Latin *vigiliae*).
+[^2]: Similar practices were found around the world before industrialization and mechanical time-keeping. The Romans, for example, divided the night into four watches (Latin *vigiliae*).
