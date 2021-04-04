@@ -281,10 +281,10 @@ musical notes. The lowest pitch is 1, the highest pitch is 5. For example, a
 tone that falls in pitch, like the fourth tone of Mandarin, would be
 represented by the number sequence 53, or with the symbol ˥˧. In Guangdong
 Peng’im, the tones are simply numbered from 1 to 8 in the traditional order.
-Peh-oi-ji was developed for Hokkien, which has one fewer tone than Teochew. In
-Flattened IPA, the tone marks were chosen to mimic the contour of the pitch,
-much like Hanyu Pinyin, which I felt to be more intuitive. Therefore most of
-the tone marks are different or reversed compared to Peh-oi-ji.
+Peh-oi-ji was developed for Hokkien, which has one fewer tone than Teochew
+(tones 2 and 6 are merged in Hokkien). In the missionary systems (Duffus,
+Fielde in table below), which are similar to Peh-oi-ji, the tilde mark (e.g.
+[ã]) is used to differentiate tone 6 from tone 2.In
 
 | Name | IPA     | Peng’im | Duffus | Fielde |
 |------|---------|---------|--------|--------|
@@ -410,6 +410,7 @@ another.
      * Initials: \[z\] for /dz/
      * Vowels: \[ur\] for /ɯ/
      * Nasalization shown by suffix \[-nn\]
+     * Tone marks: \[a\], \[á\], \[à\], \[ak\], \[â\], \[ă\], \[ā\], \[âk\]
  * The textbook *Spoken Swatow* (Koons and Koons, [1967] 2016) uses a phonetic
     system based on *Manual of Articulatory Phonetics* by W. Smalley (1963). 
 
