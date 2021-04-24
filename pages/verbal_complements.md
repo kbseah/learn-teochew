@@ -69,15 +69,15 @@ follow the pattern:
 
 > *V1* (main verb) - *V2* (adjective or intransitive verb)
 >
-> phak4-ta1 • pag4-da1 • 曝焦 • [to-dry]-[dry]
+> /pʰak² ta³³/ • pag8(4)-da1 • 曝焦 • [to-dry]-[dry]
 >
-> tseu6sek8 • ze6sêg8 • 煮熟 • [to cook]-[cooked]
+> /tsɯ³⁵ sek⁵/ • ze2(6)sêg8 • 煮熟 • [to cook]-[cooked]
 >
 > \*\*\*
 >
-> Nor7-nang5 sie1pha’4 ***long7phua2*** tiar2.
+> nõ¹¹ naŋ⁵⁵ sie³³ pʰaʔ² ***loŋ³⁵ pʰua⁵³*** tĩã⁵³
 >
-> Non7-nang5 siê1pah4 ***long7pua2*** dian2.
+> Non6(7)-nang5 siê1pah4 ***long6(7)pua3(2)*** dian2.
 >
 > 兩人 相拍 ***弄破*** 鼎。
 >
@@ -85,13 +85,13 @@ follow the pattern:
 >
 > They broke the pot while fighting.
 >
-> (Folk song *Thih1ou7ou5* • 天烏烏) [^1]
+> (Folk song *Tin1ou5(7)ou5* • 天烏烏) [^1]
 
 As the examples above show, resultative complements (V2) are as varied as the
 main verbs (V1) they go with. There are a number of resultative complements,
 however, that are more commonly encountered:
 
-### *tie’8* • *diêh8* • 着
+### *diêh8* • 着
 
 Same word used where in Mandarin a number of different resultative complements
 are used (see Li, 1959).
@@ -102,18 +102,18 @@ are used (see Li, 1959).
  * *qǐlái* • 起來
 
 
-### *tek8* • *dêg8* • 得 • ability
+### *dêg8* • 得 • ability
 
 Different from Mandarin *dé* 得, which is used as a complement of extent (see
 below).
 
-### *ho2* • *ho2* • 好 • completion of action
+### /*ho⁵³*/ • *ho2* • 好 • completion of action
 
-### *kih3* • *gin3* • 見
+### /*kĩ²¹³*/ • *gin3* • 見
 
-### *khui1* • *kui1* • 開
+### /*kʰui³³*/ • *kui1* • 開
 
-### *kau3* • *gao3* • 到
+### /*kau²¹³*/ • *gao3* • 到
 
 
 Directional
@@ -124,21 +124,21 @@ is typically a 3-verb construction. DVCs follow the pattern:
 
 > *V1* (main verb) - *V2* (directional complement) - *V3* (*lai5* or *kheu3*)
 >
-> pe7khi6lai7 • bê7ki6lai7 • 扒起來 • [climb]-[rise]-[come] • “climb up”
+> /pe³⁵ kʰi³⁵ lai¹¹/• bê5(7)ki2(6)lai7 • 扒起來 • [climb]-[rise]-[come] • “climb up”
 >
-> khio’4teung2kheu3 • kioh4deng2ke3 • 乞轉去 • [take]-[return]-[go] • “take back”
+> /kʰioʔ² tɯŋ⁵³ kʰɯ²¹³/ • kioh8(4)deng2-ke3 • 乞轉去 • [take]-[return]-[go] • “take back”
 
-V3 is either *lai5* 來 “come” or *kheu3* 去 “go”, depending on the direction.
+V3 is either *lai5* 來 “come” or *ke3* 去 “go”, depending on the direction.
 
 V2 is typically one of the following:
 
-### *khi2* • *ki2* • 起
+### *ki2* • 起
 
-> ***Thau3-khi7lai7*** li1 ngang7si2, ***phak8-khi7lai7*** li1 zua’4si2,
-> tsier2ser1-kai7 thih1si5 tsing1 kar6uih3.
+> ***tʰau²¹³ kʰi¹¹ lai¹¹*** li³³ ŋaŋ¹¹ si⁵³ / ***pʰak⁵ kʰi¹¹ lai¹¹*** li³³ zuaʔ² si⁵³ /
+> tsĩẽ⁵³ sẽ³³ kai¹¹ tʰĩ³³ si⁵⁵ tsiŋ³³ kã³⁵ uiʔ²¹³
 >
-> ***Tao3-ki7lai7*** li1 ngang7si2, ***pag8-ki7lai7*** li1 ruah4si2,
-> ziên2sên1-gai7 tin1si5 zing1 gan6uin3.
+> ***Tao3-ki7lai7*** li1 ngang5(7)si2, ***pag8-ki7lai7*** li1 ruah8(4)si2,
+> ziên3(2)sên1-gai7 tin1si5 zing1 gan2(6)uin3.
 >
 > ***透起來*** 哩 寒死， ***曝起來*** 哩 熱死， 照生個 天時 真 敢畏。
 >
@@ -150,21 +150,21 @@ V2 is typically one of the following:
 >
 > ([*The North Wind and the Sun*]({{ site.baseurl }}{% link pages/texts/aesop.md %}))
 
-### *lo’8* • *loh8* • 落
+### *loh8* • 落
 
-> *kak8lo’4kheu3* • *gag8loh4ke3* • *～落去* • [throw]-[down]-[there]
+> /*kak⁵ loʔ² kʰɯ²¹³*/ • *gag4(8)loh4-ke3* • *～落去* • [throw]-[down]-[there]
 
-### *teung2* • *deng2* • 轉
+### *deng2* • 轉
 
 
 
-### *kue3* • *guê3* • 過
+### *guê3* • 過
 
-> *pue1kue3kheu3* • *buê1guê3ke3* • 飛過去 • [fly]-[across]-[there]
+> /*pue³³ kue²¹³ kʰɯ²¹³*/ *buê1guê3-ke3* • 飛過去 • [fly]-[across]-[there]
 >
-> I1 muar6zik8 ***pue1kue2kheu2*** Tiong1kok4.
+> i³³ mũã³⁵ zik⁵ ***pue³³ kue⁵³ kʰɯ⁵³*** tioŋ³³ kok²
 >
-> I1 muan6rig8 ***buê1guê2ke2*** Diong1gog4.
+> I1 muan2(6)rig8 ***buê1guê3(2)ke2*** Diong1gog4.
 >
 > 伊 明日 ***飛過去*** 中國。
 >
@@ -172,13 +172,13 @@ V2 is typically one of the following:
 >
 > He flies to China tomorrow.
 
-### *zip8* • *rib8* • 入
+### *rib8* • 入
 
-> *kiar1zip4lai7* • *gian1rib4lai7* • 走入來 • [walk]-[into]-[here]
+> /*kĩã³³ zip² lai¹¹*/ *gian1rib4lai7* • 走入來 • [walk]-[into]-[here]
 >
-> Leu2 meng6 kha2mung5, ai2 ka’4 ua2 tar2ue7 tsiu7 ***kiar1zip4lai7***.
+> lɯ⁵³ meŋ³⁵ kʰa⁵³ muŋ⁵⁵ / ai⁵³ kaʔ² ua⁵³ tã⁵³ ue¹¹ tsiu¹¹ ***kĩã³³ zip² lai¹¹***
 >
-> Le2 mêng6 ka2mung5, ai2 gah4 ua2 dan2uê7 ziu7 ***gian1rib4lai7***.
+> Le2 mêng2(6) ka3(2)mung5, ai3(2) gah8(4) ua2 dan3(2)uê7 ziu7 ***gian1rib8(4)lai7***.
 >
 > 汝 免 敲門， 愛 佮 我 呾話 就 ***走入來***。
 >
@@ -186,11 +186,11 @@ V2 is typically one of the following:
 >
 > You needn’t knock; if you want to speak with me just come in.
 
-### *tshuk8* • *cug8* • 出
+### *cug8* • 出
 
-> Tsho’8-tsiau2 tshuang7pou6 ***pue1tshuk4lai7***.
+> tsʰoʔ⁵ tsiau⁵³ tsʰuaŋ¹¹ pou³⁵ ***pue³³ tsʰuk² lai¹¹***
 >
-> Coh8-ziao2 cuang7bou6 ***buê1cug4lai7***.
+> Coh4(8)-ziao2 cuang5(7)bou6 ***buê1cug8(4)lai7***.
 >
 > 撮鳥 全部 ***飛出來***。
 >
@@ -204,16 +204,16 @@ Potential
 
 If you want to express an action that could (or could not) take place, i.e. a
 potential action, then the V1-V2 resultative compound can be modified by adding
-the modal verb *oi6* 會 or *oi7tek8* 會得 or its negative *boi6* 袂 or
-*boi7tek8* 袂得 between V1 and V2.
+the modal verb *oi6* 會 or *oi6(7)dêg8* 會得 or its negative *bhoi6* 袂 or
+*bhoi6(7)dêg8* 袂得 between V1 and V2.
 
-> *V1* - oi6 • oi6 • 會 - *V2*
+> *V1* - /oi³⁵/ • oi6 • 會 - *V2*
 >
-> *V1* - oi7-tek8 • oi7deg8 • 會得 - *V2*
+> *V1* - /oi¹¹ tek⁵/ • oi6(7)deg8 • 會得 - *V2*
 >
-> Leu2 tiang1si7 thak8 tsiar2 ***thak8oi7zip8***?
+> lɯ⁵³ tiaŋ³³ si¹¹ tʰak⁵ tsĩã⁵³ ***tʰak⁵ oi¹¹ zip⁵***
 >
-> Le2 diang1si7 tag8 zian2 ***tag8oi7rib8***?
+> Le2 diang1si5(7) tag8 zian3(2) ***tag8-oi6(7)rib8***?
 >
 > 汝 珍時 踢 正 ***踢會入***？
 >
@@ -223,13 +223,13 @@ the modal verb *oi6* 會 or *oi7tek8* 會得 or its negative *boi6* 袂 or
 >
 > \*\*\*
 >
-> *V1* - boi6 • bhoi6 • 袂 - *V2*
+> *V1* - /boi³⁵/ • bhoi6 • 袂 - *V2*
 >
-> *V1* - boi7tek8 • bhoi7dêg8 • 袂得 - *V2*
+> *V1* - /boi¹¹ tek⁵/ • bhoi6(7)dêg8 • 袂得 - *V2*
 >
-> I1 thak8 kui6-tsap4-pai2 ia7si7 ***thak8boi7zip8*** kai1.
+> i³³ tᵃk⁵ kui³⁵ tsap² pai⁵³ ia¹¹ si¹¹ ***tʰak⁵ boi¹¹ zip⁵*** kai³³
 >
-> I1 tag8 gui6-zab4-bai2 ia7si7 ***tag8bhoi7rib8*** gai1.
+> I1 tag4(8) gui2(6)-zab8(4)-bai2 ia7si7 ***tag4(8)bhoi6(7)rib8*** gai1.
 >
 > 伊 踢 幾十擺 亦是 ***踢袂入*** 個。
 >
@@ -250,15 +250,15 @@ In Mandarin this function is served by *dé* 得, and has the structure:
 >
 > 我 吃 得 很飽。
 
-In Teochew, the complement of extent can be *ka’4* 佮 or *kau3* 到.
+In Teochew, the complement of extent can be *gah4* 佮 or *gao3* 到.
 
-### *ka’4* • *gah4* • 佮
+### *gah4* • 佮
 
-> SUBJECT V1 - ka’8 - V2
+> SUBJECT V1 - gah4 - V2
 >
-> Ua2 tsia’4-***ka’8*** tsing1pa2.
+> ua⁵³ tsiaʔ² ***kaʔ⁵*** tsiŋ³³ pa⁵³
 >
-> Ua2 ziah4-***gah8*** zing1ba2.
+> Ua2 ziah8(4)-***gah8*** zing1ba2.
 >
 > 我 食***佮*** 真飽。
 >
@@ -266,12 +266,12 @@ In Teochew, the complement of extent can be *ka’4* 佮 or *kau3* 到.
 >
 > I ate my fill.
 
-### *kau3* • *gao3* • 到
+### *gao3* • 到
 
 Also to indicate reaching or arriving at a goal or an objective.
 
 
-*tie’8* • *diêh8* • 着
+*diêh8* • 着
 ----------------------
 
 This is a versatile word in Teochew, used very differently from the cognate
@@ -279,7 +279,7 @@ This is a versatile word in Teochew, used very differently from the cognate
 
 Apart from functioning as a resultative complement (see above), it can serve a
 number of other grammatical functions. It’s safe to say that it would be very
-difficult to speak Teochew for a day without using *tie’8*!
+difficult to speak Teochew for a day without using *diêh8*!
 
 ### Main verb - “encounter”, “be afflicted by”
 
@@ -287,14 +287,14 @@ difficult to speak Teochew for a day without using *tie’8*!
 
 ### Modal verb - “should” (obligation)
 
-*Tie’8* can function as a modal verb meaning “should”, expressing obligation.
+*diêh8* can function as a modal verb meaning “should”, expressing obligation.
 See [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})
 
 ### Adjective - “correct” (confirmation)
 
-> Ua2 tso7-kai7 ou7ni5 siang7-ho2, ***tie’4***-m7-***tie’8***?
+> ua⁵³ tso¹¹ kai¹¹ ou¹¹ ni⁵⁵ siaŋ¹¹ ho⁵³ / ***tieʔ²*** m¹¹ ***tieʔ⁵***
 >
-> Ua2 zo7-gai7 ou7ni5 siang7-ho2, ***diêh4***-m7-***diêh8***?
+> Ua2 zo6(7)-gai7 ou5(7)ni5 siang6(7)-ho2, ***diêh8(4)***-m6(7)-***diêh8***?
 >
 > 我 做個 芋泥 上好， ***着***-唔-***着***？
 >
@@ -304,9 +304,9 @@ See [“Modality”]({{ site.baseurl }}{% link pages/auxiliary_verbs.md %})
 >
 > \*\*\*
 >
-> Tsie2ser1 tseu2 tsiu7 ***tie’8***.
+> tsie⁵³ sẽ³³ tsɯ⁵³ tsiu¹¹ ***tieʔ⁵***
 >
-> Ziê2sên1 ze2 ziu7 ***diêh8***.
+> Ziê3(2)sên1 ze2 ziu7 ***diêh8***.
 >
 > 照生 煮 就 ***着***。
 >
