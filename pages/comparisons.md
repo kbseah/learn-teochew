@@ -547,9 +547,9 @@ Similar to Mandarin *tài* 太. Same character as *gah4* (see above).
 >
 > Ua2-gai5(7) ou7ni5 **cuang5(7)bou6** koih8(4)-nang5(7) kioh8-ke3.
 >
-> 我個 芋泥 全部 乞儂 挈去。
+> 我個 芋泥 *全部* 乞儂 挈去。
 >
-> I-GEN yam-paste all PASS-people take-away.
+> I-GEN yam-paste **all** PASS-people take-away.
 >
 > All of my yam paste has been taken by other people.
 
@@ -558,13 +558,13 @@ Similar to Mandarin *tài* 太. Same character as *gah4* (see above).
 Probably loaned from Hokkien, although common. Mainland Teochew uses
 *cuang5(7)bou6* more often.
 
-> lɯ⁵³ tsĩẽ⁵³ hu¹¹tʰu⁵⁵ / naŋ¹¹ loŋ³⁵tsoŋ³⁵ kie⁵³ ua³⁵ tso⁵³ zik²tʰau¹¹ ia⁵⁵ / tʰĩ³³e³⁵ si¹¹ ua³⁵ siaŋ¹¹ tiŋ⁵³tua¹¹
+> lɯ⁵³ tsĩẽ⁵³ hu¹¹tʰu⁵⁵ / naŋ¹¹ **loŋ³⁵tsoŋ³⁵** kie⁵³ ua³⁵ tso⁵³ zik²tʰau¹¹ ia⁵⁵ / tʰĩ³³e³⁵ si¹¹ ua³⁵ siaŋ¹¹ tiŋ⁵³tua¹¹
 >
-> Le2 ziên3(2) hu5(7)tu5, nang5(7) long2(6)zong2(6) giê3(2) ua2(6) zo3(2) Rig8(4)tao5(7)-Ia5, tin1-ê6 si6(7) ua2(6) siang6(7) ding2dua7
+> Le2 ziên3(2) hu5(7)tu5, nang5(7) **long2(6)zong2(6)** giê3(2) ua2(6) zo3(2) Rig8(4)tao5(7)-Ia5, tin1-ê6 si6(7) ua2(6) siang6(7) ding2dua7
 >
-> 汝 照 糊塗， 儂 攏總 叫 我 做 日頭爺， 天下 是 我 上 頂大
+> 汝 照 糊塗， 儂 *攏總* 叫 我 做 日頭爺， 天下 是 我 上 頂大
 >
-> You anyway silly, people all call me as Sun-Grandpa, under-heaven is I most big
+> You anyway silly, people **all** call me as Sun-Grandpa, under-heaven is I most big
 >
 > Anyway, you’re silly, everybody calls me Grandpa Sun, I’m the biggest one under Heaven
 >
@@ -575,28 +575,42 @@ Probably loaned from Hokkien, although common. Mainland Teochew uses
 An approximate number, where the lower limit is known, is indicated with a
 suffix *ghua7* that comes directly after the number:
 
-> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² gua¹¹ hue¹¹
+> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² **gua¹¹** hue¹¹
 >
-> I1 ging1ni5 u6(7) lag8(4)zab8(4)-ghua7 huê7.
+> I1 ging1ni5 u6(7) lag8(4)zab8(4)-**ghua7** huê7.
 >
-> 伊 經年 有 六十外 歲。
+> 伊 經年 有 六十*外* 歲。
 >
-> He this-year have sixty-odd age.
+> He this-year have sixty-**odd** age.
 >
 > He’s just over sixty this year.
 
 The expression *zo2(6)iu6* 左右 is not applied directly after the number, but
 after the countable noun.
 
-> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² hue¹¹ tso³⁵iu³⁵
+> i³³ kiŋ³³ni⁵⁵ u¹¹ lak²tsap² hue¹¹ **tso³⁵iu³⁵**
 >
-> I1 ging1ni5 u6(7) lag8(4)zab8(4)-huê7 zo2(6)iu6.
+> I1 ging1ni5 u6(7) lag8(4)zab8(4)-huê7 **zo2(6)iu6**.
 >
-> 伊 經年 有 六十歲 左右。
+> 伊 經年 有 六十歲 *左右*。
 >
-> He this-year have sixty-age left-right.
+> He this-year have sixty-age **left-right**.
 >
 > He’s aged about sixty this year.
+
+Another way to express an approximate value or quality is the adjective
+*ca1m6(7)do1* 差唔多.
+
+> i³³ oʔ² tie¹¹ tsiu³³ ue¹¹ u¹¹ **tsʰa³³ m¹¹ to³³** tsek² kai¹¹ gueʔ⁵ lou¹¹
+>
+> I1 oh8(4) Diê5(7)ziu1-uê7 u6(7) **ca1m6(7)do1** zêg8(4)-gai5(7) ghuêh8-lou7
+>
+> 伊 學 潮州話 有 *差唔多* 一個月 𡀔
+>
+> He learn Teochew-language have **about** one-CL month-PERF.
+> 
+> He has learned Teochew for about a month.
+
 
 References and further reading
 ------------------------------
