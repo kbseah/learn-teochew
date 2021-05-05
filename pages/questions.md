@@ -715,6 +715,28 @@ pronoun.
 >
 > Could you please take off your shoes before entering?
 
+*lui6-le7* is similar to *mua7huêng5-le7* and is also used to make polite
+requests.
+
+> **lui¹¹ lɯ¹¹** kʰioʔ² hɯ²⁵ saŋ³³ tua¹¹ tiʔ² kĩã²¹³ kai¹¹ kʰɯk² ua¹¹
+>
+> **lui6-le7** kioh8(4) he2(6)-sang1 dua7-dih8(4)gian3-gai5(7) keg4 ua2(7)
+> 
+> *累汝* 挈 許雙 大滴囝 個 乞 我
+>
+> **Trouble you** take that-pair(CL) big-a-bit-GAI PASS me
+>
+> Could I trouble you to give me that slightly bigger pair (of shoes)?
+>
+> (《潮州話口語入門》20)
+
+
+<!--
+
+kah4 𠹛 as question particle e.g. kah4si6, kah4bag4, kah4oi6zai1, kah4ho2
+See let's speak teochew chapter 1
+
+-->
 
 References and further reading
 ------------------------------
