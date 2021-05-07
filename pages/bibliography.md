@@ -15,7 +15,7 @@ Cài Jùnmíng 蔡俊明. (1991). *Cháozhōu fāngyán cíhuì* 《潮州方言
 
  * Phonetically-organized dictionary of Teochew language, with definitions in Mandarin and example sentences, in both characters and phonetic spelling.
 
-Chappell, Hilary. (2017). A sketch of Southern Min grammar. [Preprint online](https://www.researchgate.net/profile/Hilary_Chappell/publication/319256460_A_sketch_of_Southern_Min_grammar_Sinitic_Sino-Tibetan_pre-publication/links/599e5cebaca272dff12fe3d5/A-sketch-of-Southern-Min-grammar-Sinitic-Sino-Tibetan-pre-publication.pdf)
+Chappell, Hilary. (2017). A sketch of Southern Min grammar. [Preprint online](https://www.researchgate.net/publication/333580045_Southern_Min_-_A_sketch_grammar_Sinitic_Sino-Tibetan_-_pre-publication_version_2019)
 
  * Short outline of Min-nan grammar, mostly based on Taiwanese Hokkien
 
@@ -76,7 +76,7 @@ Snow, Don. (2004). *Cantonese as written language : The growth of a written Chin
 
 Snow, Don and Chen Nuanling. (2015). Missionaries and written Chaoshanese. *Global Chinese* 1 (1) : 5-26. [doi:10.1515/glochi-2015-1001](https://doi.org/10.1515/glochi-2015-1001)
 
-Tung Tong-ho 董同龢 (1959). Sì gè Mǐnnán fāngyán 「四個閩南方言」 (Four Southern Min dialects). *Bulletin of the Institute of History and Philology, Academia Sinica* 30 (2) : 729-1042. [BIHP website](https://www2.ihp.sinica.edu.tw/en/publish21.php?TM=5&M=2&C=53&pid=68)
+Tung Tong-ho 董同龢 (1959). Sì gè Mǐnnán fāngyán 「四個閩南方言」 (Four Southern Min dialects). *Bulletin of the Institute of History and Philology, Academia Sinica* 30 (2) : 729-1042. [BIHP website](https://www2.ihp.sinica.edu.tw/file/4159uYkeDst.pdf)
 
 Veniranda, Yohana. (2015). *Perfective aspect and negation in Pontianak Teochew* (Doctoral dissertation). University of Delaware, Newark, Delaware. [University of Delaware](http://udspace.udel.edu/handle/19716/17687)
 
