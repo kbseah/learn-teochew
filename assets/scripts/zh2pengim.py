@@ -90,8 +90,8 @@ elif args.format=="replace":
             elif i in dd and 'mn-t' in dd[i]:
                     outline.append("/".join(dd[i]['mn-t']))
             else:
-                out.append(i)
-        print("".join(out))
+                outline.append(i)
+        print("".join(outline))
         print("\n")
 
 # Output interleave original text with peng'im
