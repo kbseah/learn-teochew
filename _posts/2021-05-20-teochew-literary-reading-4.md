@@ -20,8 +20,8 @@ recited in Teochew literary pronunciation, and in Sino-Korean pronunciation.
 > via Wikimedia Commons)
 
 In the following excerpts, characters with Teochew literary readings are
-*marked* in bold (the vernacular readings for the same character are also noted
-below).
+*marked* in italics (the vernacular readings for the same character are also
+noted below).
 
 The excerpts and Korean readings come from Lesson 1 of
 [A New Practical Primer of Literary Chinese](https://www.hup.harvard.edu/catalog.php?isbn=9780674022706)
