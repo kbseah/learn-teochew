@@ -37,12 +37,19 @@ both IPA and Peng’im, as well as other systems developed by missionaries in th
 19th century and which may be encountered in older texts. These are explained
 more fully under “Orthography” below.
 
+To hear examples of Teochew pronunciation, check out our video series on Teochew
+pronunciation and Pêng’im on YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLvDAIRuHzfHmoiwE2EuGJQjgHuqGzzp7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Contents
 --------
 {: .no_toc}
 
 1. TOC
 {:toc}
+
 
 Consonants
 ----------
@@ -126,6 +133,7 @@ end of syllables, whereas the other three may begin a syllable. Final stops are
 short and not always pronounced clearly in everyday speech so they may be hard
 to distinguish from each other, especially the /k/ /ʔ/ pair.
 
+
 Vowels
 ------
 
@@ -170,6 +178,7 @@ Hanyu Pinyin uses the same letter ‘i’ to represent both these vowel sounds, 
 uses different letters to represent the same consonant in order to imply that
 the vowel following it should be pronounced differently. If written in IPA,
 they would be /tsɯ˥˧/ 字 vs. /tsi˥˧/ 記 and /sɯ˥˧/ 四 vs. /si˥˧/ 戲.
+
 
 Finals
 ------
@@ -260,6 +269,7 @@ uêng
 uêg
 -->
 
+
 Tones
 -----
 
@@ -336,6 +346,7 @@ to reflect how the phrases or sentences should sound when spoken out loud.
 However the [Wiktionary index]({{ site.baseurl }}{% link pages/teochew_wiktionary_index/teochew_wiktionary_index.md %})
 lists only the citation tones, including in compound words, which is the
 standard practice for dictionaries.
+
 
 Orthography
 -----------
@@ -427,6 +438,7 @@ standard for Hanyu Pinyin](http://www.pinyin.info/readings/zyg/rules.html). For
 romanized texts, the initial letters at the start of a sentence, and the first
 letters of proper nouns, will be capitalized. Punctuation marks follow English
 convention.
+
 
 Chinese characters
 ------------------

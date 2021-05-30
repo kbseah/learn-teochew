@@ -56,6 +56,8 @@ Get in touch!
 
 [Follow on Facebook](https://www.facebook.com/learnteochew){: .btn .btn-green }
 
+[Follow on YouTube](https://www.youtube.com/channel/UC3TQkt5FCTKGyX_oRt0HTlA){: .btn .btn-green }
+
 [Subscribe to our Atom feed]({{ site.baseurl }}{% link feed.xml %}){: .btn .btn-green }
 
 Learn Teochew is a passion project of mine, and will always be free to read
@@ -90,4 +92,5 @@ If you cannot see the following IPA and accented characters –
 > əɯʰ˧˥˦ŋ
 > āáǎàâ
 
-then you should download a font that supports IPA characters.
+then you should download a font that supports IPA characters, such as the Noto
+family fonts or [SIL Doulos](https://software.sil.org/doulos/).
