@@ -515,10 +515,37 @@ telling the time (see above):
 五角 五針.
 
 
+Weights and measures
+--------------------
+
+[Traditional Chinese units](https://en.wikipedia.org/wiki/Chinese_units_of_measurement) are still commonly used in some contexts, e.g. traditional Chinese medicine, especially in Hong Kong and diaspora communities. The following list is adapted from Lim (1886, pg. 135).
+
+| Definition               | IPA        | Peng’im    | Character |
+|--------------------------|------------|------------|-----------|
+| candareen (1/10 mace)    | huŋ³³      | hung1      | 分  |
+| mace (1/10 tael)         | tsĩ³³      | zin1       | 錢  |
+| tael (1/16 catty)        | nĩẽ⁵²      | niên2      | 両  |
+| catty (about 600 g)      | kɯng³³     | geng1      | 斤  |
+| picul (100 catties)      | tã²¹³      | dan3       | 擔  |
+|--------------------------|------------|------------|-----------|
+| Ch. inch (1/10 Ch. foot) | tsʰuŋ²¹³   | cung3      | 寸  |
+| Chinese foot (ca. 1/3 m) | tsʰieʔ²          | ciêh4      | 尺  |
+| Ch. yard (10 Ch. feet)   | tɯŋ²⁵            | deng6      | 丈  |
+| Ch. pace (1 Ch. feet)    | pou¹¹ / huaʔ²    | bou7, huah4 | 步 |
+| yard (English)           | be⁵² / ba¹¹      | bhê2, bha7  | 碼 |
+| Ch. fathom (8 Ch. feet)  | siam⁵² / tsʰim⁵⁵ | siam2, cim5 | 尋 |
+|--------------------------|------------|------------|-----------|
+| Ch. bushel (ca. 10 l)    | tau⁵²            | dao2        | 斗 |
+| 10 Ch. bushels           | tsieʔ⁵           | ziêh8       | 石 |
+|--------------------------|------------|------------|-----------|
+
+
+
 References and further reading
 ------------------------------
 
  * Lǐ Yǒngmíng 李永明 (1959), 《潮州方言》, Chapter 4
+ * Lim Hiong Seng (1886), Lesson XXI.
 
 <hr />
 
