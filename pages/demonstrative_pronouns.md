@@ -130,6 +130,7 @@ Lim (1886) gives a somewhat different explanation for the hi / hio / hia series:
 > tsia / hia – equivalent to tsikai / heukai in the sense of “this” / “that”
 
 
+
 *ziê2 / hiê2* • 照 / ～ • “these / those” or “here / there”
 ---------------------------------------------------------
 
@@ -180,10 +181,12 @@ happens to be the other meaning for *zi2go3 / he2go3* (see below).
 speaker him- or herself is at home (Xu 2007).
 
 
+
 *zia2 / hia2* • 者 / ～
 ---------------------
 
 > *tsia⁵³ / hia⁵³* • *zia2 / hia2* • this kind of / that kind of
+
 
 
 Location and direction
@@ -307,7 +310,13 @@ figuratively refer to “this household” or “those people”.
 
 ### *...kao2* • ...口 • “outside”
 
+Refers to an outdoor location, or a place just outside an entryway or exit.
+
+> *muŋ¹¹kʰau⁵²* • *mung5(7)kao2* • 門口 • “at the door”
+
 ### *...boin5* • ...爿 • “side, place”
+
+Refers to positions flanking something or somebody (e.g. *non6(7)boin5* • 兩爿 • “both sides”), but can also be used to refer to “a place” in a general way. Also written with the character 畔.
 
 > hɯ⁵³**põĩ⁵⁵**kai¹¹ tsʰu²¹³ si¹¹ tseŋ⁵³hu⁵³ kʰi⁵³ kai¹¹
 >
@@ -321,21 +330,32 @@ figuratively refer to “this household” or “those people”.
 
 ### *ziê2/hiê2-tao5* • ～頭 • “this / that place”
 
+Referring to “a place” in a general way.
+
 ### *...dêng2* • ...頂 • “on top”
+
+A position on top of a structure or prominence.
 
 > *sũã³³teŋ⁵³* • *suan1dêng2* • 山頂 • “on the mountaintop”
 
 ### *...doin2* • ...底 • “inside”
 
+Inside a container or enclosed space.
+
 > *tsui³⁵kɯŋ³³tõĩ⁵³* • *zui2(6)geng1doin2* • 水缸底 * “inside the water jar”
 
 ### *...ê6* • ...下 • “at the bottom, down below”
+
+At the bottom or foot of a structure, e.g. a building, also refers to a position that is physically below something.
 
 > *lau¹¹e³⁵* • *lao5(7)ê6* • 樓下 • “downstairs”
 
 ### *...ka1* • ...腳 • “at the foot/bottom”
 
+Figuratively at the foot of a structure, e.g. a tree, in this sense similar to and overlapping with *-ê6* -下.
+
 > *tek⁵kʰa³³* • *dêg4(8)ka1* • 竹腳 • “at the bamboo” - name of a location in Singapore (Tekka)
+
 
 Time
 ----
