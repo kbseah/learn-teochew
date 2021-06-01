@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Teochew literary reading (5) - Semantic gloss and phonetic readings in Teochew
