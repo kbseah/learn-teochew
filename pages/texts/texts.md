@@ -42,15 +42,29 @@ Conversations, speeches:
  * [Low Thia Khiang Speech]({{ site.baseurl }}{% link pages/texts/low_thia_khiang.md %})
  * [Pear Stories]({{ site.baseurl }}{% link pages/texts/pear_story.md %})
 
-Poetry, nursery rhymes:
+Rhymes, folksongs:
 
- * [The Moon Shines Brightly (nursery rhyme)]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
+ * [The Moon Shines Brightly]({{ site.baseurl }}{% link pages/texts/bright_moon.md %})
+ * [Rain is Falling]({{ site.baseurl }}{% link pages/texts/rain_falling.md %})
 
 Other:
 
  * [Swadesh List]({{ site.baseurl }}{% link pages/texts/swadesh.md %})
 
 
+Other Teochew readings online
+-----------------------------
+
+The Hong Kong Teochew Culture Association has a great website (in Chinese) with Teochew readings (in characters, some with Pêng’im and sound recordings):
+
+ * [Teochew Songbooks 潮州歌冊 Diê5ziu1 Gua1cêh4](https://www.tc-culture.hk/songbook/index.html)
+ * [Excerpts from Teochew novel “Tales from the Countryside” 作田人瑣事 Zoh8cang1nang5 so2se7](https://www.tc-culture.hk/farmer/index.html)
+ * [Teochew art and culture](https://www.tc-culture.hk/art/index.html)
+
+Tung Tong-ho 董同龢 (1959) [「四個閩南方言」 Four Southern Min dialects](https://www2.ihp.sinica.edu.tw/file/4159uYkeDst.pdf): contains transcriptions of stories and folk songs from four different Southern Min varieties, including the Gêg’ion dialect of Teochew. These are transcribed with the International Phonetic Alphabet and include a vocabulary list.
+
+
+
 <hr />
 
-[^1]: This section of the site contains copyrighted material that may not have been specifically authorized for use by the copyright owner. We post only textual transcriptions of excerpts from audiovisual source materials, to illustrate and comment on language usage for non-profit purposes. We believe that this constitutes fair use or fair dealing of the copyrighted material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you have any concerns.
+[^1]: Some pages in this section of the site contain copyrighted material that may not have been specifically authorized for use by the copyright owner. We post only textual transcriptions of excerpts source materials, to illustrate and comment on language usage for educational, non-profit purposes. We believe that this constitutes fair use or fair dealing of the copyrighted material. Please [contact us](https://forms.gle/igjwwiz2z2Dpr3SE6) if you have any concerns.
